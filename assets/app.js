@@ -782,7 +782,7 @@ const renderLandingView = () => {
 
   const wrapper = createElement("section", "tt-landing");
   wrapper.append(
-    createElement("h1", "tt-landing__title", "Pick a brand to start tracking"),
+    createElement("h1", "tt-landing__title", "Pick a trinket to start tracking"),
     createElement("p", "tt-landing__description", "No logins. No ads. No friction. Your device remembers what you own." )
   );
 

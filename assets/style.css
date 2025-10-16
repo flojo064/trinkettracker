@@ -177,7 +177,7 @@ main {
   border-radius: 18px;
   background: var(--surface);
   border: 1px solid var(--border);
-  min-height: 220px;
+  min-height: 200px;
   transition: transform 150ms ease, border 150ms ease;
 }
 
@@ -213,8 +213,8 @@ main {
   flex-direction: column;
   gap: 16px;
   height: 100%;
-  max-width: 55%;
-  padding-inline: 12px;
+  max-width: 58%;
+  padding-inline: 4px;
 }
 
 .tt-brand-card__text {
@@ -522,8 +522,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: calc(100% - 12px);
-  height: calc(100% - 12px);
+  width: calc(100%);
+  height: calc(100%);
   padding: 0;
   box-sizing: border-box;
   position: relative;
