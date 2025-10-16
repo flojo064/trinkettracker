@@ -1,0 +1,1427 @@
+{
+  "brand": {
+    "id": "smiski",
+    "name": "Smiski",
+    "tagline": "Glow-in-the-dark mystery roommates",
+    "description": "Keep tabs on every tiny Smiski.",
+    "palette": [
+      "#1f6f4d",
+      "#0c2f23",
+      "#061511"
+    ],
+    "highlight": "smiski-series-1-hiding"
+  },
+  "series": [
+    {
+      "id": "smiski-series-1",
+      "name": "Series 1",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-series-1-hiding",
+          "name": "Hiding",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hiding.png"
+        },
+        {
+          "id": "smiski-series-1-hugging-knees",
+          "name": "Hugging Knees",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hugging-knees.png"
+        },
+        {
+          "id": "smiski-series-1-looking-back",
+          "name": "Looking Back",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/looking-back.png"
+        },
+        {
+          "id": "smiski-series-1-lounging",
+          "name": "Lounging",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/lounging.png"
+        },
+        {
+          "id": "smiski-series-1-peeking",
+          "name": "Peeking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/peeking.png"
+        },
+        {
+          "id": "smiski-series-1-sitting",
+          "name": "Sitting",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/sitting.png"
+        },
+        {
+          "id": "smiski-series-1-little-lifting",
+          "name": "Little Lifting",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-lifting.png"
+        },
+        {
+          "id": "smiski-series-1-little-peeking",
+          "name": "Little Peeking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-peeking.png"
+        },
+        {
+          "id": "smiski-series-1-little-hugging",
+          "name": "Little Hugging",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-hugging.png"
+        },
+        {
+          "id": "smiski-series-1-the-scream",
+          "name": "The Scream",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/the-scream.png"
+        },
+        {
+          "id": "smiski-series-1-rudolph",
+          "name": "Rudolph",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/rudolph.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-series-2",
+      "name": "Series 2",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-series-2-climbing",
+          "name": "Climbing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/climbing.png"
+        },
+        {
+          "id": "smiski-series-2-daydreaming",
+          "name": "Daydreaming",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/daydreaming.png"
+        },
+        {
+          "id": "smiski-series-2-kneeling",
+          "name": "Kneeling",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/kneeling.png"
+        },
+        {
+          "id": "smiski-series-2-listening",
+          "name": "Listening",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/listening.png"
+        },
+        {
+          "id": "smiski-series-2-peeking",
+          "name": "Peeking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/peeking-2.png"
+        },
+        {
+          "id": "smiski-series-2-pushing",
+          "name": "Pushing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/pushing.png"
+        },
+        {
+          "id": "smiski-series-2-venus",
+          "name": "Venus",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/venus.png"
+        },
+        {
+          "id": "smiski-series-2-snowman",
+          "name": "Snowman",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/snowman.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-series-3",
+      "name": "Series 3",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-series-3-bridge",
+          "name": "Bridge",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/bridge.png"
+        },
+        {
+          "id": "smiski-series-3-climbing",
+          "name": "Climbing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/climbing-3.png"
+        },
+        {
+          "id": "smiski-series-3-handstand",
+          "name": "Handstand",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-series-3-hiding",
+          "name": "Hiding",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hiding-3.png"
+        },
+        {
+          "id": "smiski-series-3-little",
+          "name": "Little",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-3.png"
+        },
+        {
+          "id": "smiski-series-3-peeking",
+          "name": "Peeking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/peeking-3.png"
+        },
+        {
+          "id": "smiski-series-3-the-thinker",
+          "name": "The Thinker",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/the-thinker.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-series-4",
+      "name": "Series 4",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-series-4-defeated",
+          "name": "Defeated",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-series-4-lazy",
+          "name": "Lazy",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-series-4-relaxing",
+          "name": "Relaxing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-series-4-scared",
+          "name": "Scared",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-series-4-sneaking",
+          "name": "Sneaking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-series-4-stuck",
+          "name": "Stuck",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-series-4-twin-angels",
+          "name": "Twin Angels",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-toilet-series",
+      "name": "Toilet Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-toilet-series-helping-out",
+          "name": "Helping Out",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-toilet-series-holding-in",
+          "name": "Holding In",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-toilet-series-little-smelly",
+          "name": "Little (Smelly)",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-toilet-series-peek-a-boo",
+          "name": "Peek-a-Boo",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-toilet-series-resting",
+          "name": "Resting",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-toilet-series-squatting",
+          "name": "Squatting",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-toilet-series-water-fountain",
+          "name": "Water Fountain",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-bath-series",
+      "name": "Bath Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-bath-series-dazed",
+          "name": "Dazed",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bath-series-looking",
+          "name": "Looking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bath-series-not-looking",
+          "name": "Not Looking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bath-series-scrubbing",
+          "name": "Scrubbing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bath-series-shampooing",
+          "name": "Shampooing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bath-series-with-duck",
+          "name": "With Duck",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bath-series-water-droplet",
+          "name": "Water Droplet",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-living-series",
+      "name": "Living Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-living-series-daydreaming",
+          "name": "Daydreaming",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/daydreaming.png"
+        },
+        {
+          "id": "smiski-living-series-hiding",
+          "name": "Hiding",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hiding.png"
+        },
+        {
+          "id": "smiski-living-series-lifting",
+          "name": "Lifting",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-living-series-nap-time",
+          "name": "Nap Time",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-living-series-playing",
+          "name": "Playing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-living-series-thinking",
+          "name": "Thinking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-living-series-sunflower",
+          "name": "Sunflower",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-bed-series",
+      "name": "Bed Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-bed-series-at-sleep",
+          "name": "At Sleep",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bed-series-before-rest",
+          "name": "Before Rest",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bed-series-co-sleeping",
+          "name": "Co-Sleeping",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bed-series-fussing",
+          "name": "Fussing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bed-series-reading",
+          "name": "Reading",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bed-series-sleepy",
+          "name": "Sleepy",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-bed-series-crescent-moon",
+          "name": "Crescent Moon",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-yoga-series",
+      "name": "Yoga Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-yoga-series-lotus-pose",
+          "name": "Lotus Pose",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-yoga-series-ship-pose",
+          "name": "Ship Pose",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-yoga-series-shouldstand-pose",
+          "name": "Shouldstand Pose",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-yoga-series-tree-pose",
+          "name": "Tree Pose",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-yoga-series-triangle-pose",
+          "name": "Triangle Pose",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-yoga-series-twist-pose",
+          "name": "Twist Pose",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-yoga-series-twin-hearts",
+          "name": "Twin Hearts",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-cheer-series",
+      "name": "Cheer Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-cheer-series-little-cheerleading",
+          "name": "Little Cheerleading",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-cheer-series-cheering",
+          "name": "Cheering",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-cheer-series-dancing",
+          "name": "Dancing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-cheer-series-marching",
+          "name": "Marching",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-cheer-series-on-drums",
+          "name": "On Drums",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-cheer-series-on-your-side",
+          "name": "On Your Side",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-cheer-series-trophy-angel",
+          "name": "Trophy Angel",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-museum-series",
+      "name": "Museum Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-museum-series-bacchus",
+          "name": "Bacchus",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-museum-series-dali",
+          "name": "Dali",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-museum-series-fuzin-and-razin",
+          "name": "Fuzin and Razin",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-museum-series-pearl-earring",
+          "name": "Pearl Earring",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-museum-series-the-source",
+          "name": "The Source",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-museum-series-velazquez",
+          "name": "Velazquez",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-museum-series-king-tut",
+          "name": "King Tut",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-work-series",
+      "name": "Work Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-work-series-little-group-think",
+          "name": "Little Group Think",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-work-series-approving",
+          "name": "Approving",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-work-series-good-idea",
+          "name": "Good Idea",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-work-series-on-the-road",
+          "name": "On the Road",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-work-series-presenting",
+          "name": "Presenting",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-work-series-researching",
+          "name": "Researching",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-work-series-lucky-cat",
+          "name": "Lucky Cat",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-dressing-series",
+      "name": "Dressing Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-dressing-series-loose-pants",
+          "name": "Loose Pants",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-dressing-series-putting-on-socks",
+          "name": "Putting on Socks",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-dressing-series-struggling",
+          "name": "Struggling",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-dressing-series-sweater",
+          "name": "Sweater",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-dressing-series-tight-pants",
+          "name": "Tight Pants",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-dressing-series-underpants",
+          "name": "Underpants",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-dressing-series-costume-bunny",
+          "name": "Costume Bunny",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-exercise-series",
+      "name": "Exercising Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-exercise-series-little-balance",
+          "name": "Little Balance",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-balance-exercising.png"
+        },
+        {
+          "id": "smiski-exercise-series-aerobics",
+          "name": "Aerobics",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/aerobics-exercising.png"
+        },
+        {
+          "id": "smiski-exercise-series-doing-crunches",
+          "name": "Doing Crunches",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/doing-crunches-exercising.png"
+        },
+        {
+          "id": "smiski-exercise-series-dumbbell",
+          "name": "Dumbbell",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/dumbbell-exercising.png"
+        },
+        {
+          "id": "smiski-exercise-series-hoop",
+          "name": "Hoop",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hoop-exercising.png"
+        },
+        {
+          "id": "smiski-exercise-series-stretch",
+          "name": "Stretch",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/stretch-exercising.png"
+        },
+        {
+          "id": "smiski-exercise-series-flexing",
+          "name": "Flexing",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/flexing-exercising.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-moving-series",
+      "name": "Moving Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-moving-series-green-thumb",
+          "name": "Green Thumb",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-moving-series-little-teamwork",
+          "name": "Little Teamwork",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-moving-series-balancing-boxes",
+          "name": "Balancing Boxes",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-moving-series-carrying-ladder",
+          "name": "Carrying Ladder",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-moving-series-decorating",
+          "name": "Decorating",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-moving-series-falling-down",
+          "name": "Falling Down",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-moving-series-teddy",
+          "name": "Teddy",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-sunday-series",
+      "name": "Sunday Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-sunday-series-blowing-bubbles",
+          "name": "Blowing Bubbles",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-sunday-series-gardening",
+          "name": "Gardening",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-sunday-series-paper-airplane",
+          "name": "Paper Airplane",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-sunday-series-sing-along",
+          "name": "Sing-Along",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-sunday-series-skateboarding",
+          "name": "Skateboarding",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-sunday-series-sunbathing",
+          "name": "Sunbathing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-sunday-series-dog-walk",
+          "name": "Dog Walk",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-hippers",
+      "name": "Hippers",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "smiski-hippers-smartphone",
+          "name": "Smartphone",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-hippers-climbing",
+          "name": "Climbing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/climbing.png"
+        },
+        {
+          "id": "smiski-hippers-looking-out",
+          "name": "Looking Out",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-hippers-sticking",
+          "name": "Sticking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-hippers-dozing",
+          "name": "Dozing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-hippers-upside-down",
+          "name": "Upside Down",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        },
+        {
+          "id": "smiski-hippers-headphones",
+          "name": "Headphones",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ]
+        }
+      ]
+    }
+  ]
+}

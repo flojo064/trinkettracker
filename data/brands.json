@@ -1,0 +1,28 @@
+[
+  {
+    "id": "space-molly",
+    "name": "MEGA SPACE MOLLY",
+    "data": "./data/space-molly.json",
+    "featuredImage": "./assets/brand-previews/space-molly.png"
+  },
+  {
+    "id": "smiski",
+    "name": "Smiski",
+    "data": "./data/smiski.json",
+    "featuredImage": "./assets/brand-previews/smiski.png"
+  },
+  {
+    "id": "nyota",
+    "name": "NYOTA",
+    "data": "./data/nyota.json",
+    "featuredImage": "./assets/brand-previews/nyota.png",
+    "tagline": "COMING SOON"
+  },
+  {
+    "id": "oipippi",
+    "name": "OIPIPPI",
+    "data": "./data/oipippi.json",
+    "featuredImage": "./assets/brand-previews/oipippi.png",
+    "tagline": "COMING SOON"
+  }
+]

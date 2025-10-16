@@ -1,0 +1,953 @@
+{
+  "brand": {
+    "id": "space-molly",
+    "name": "MEGA SPACE MOLLY",
+    "description": "Record your Space Molly pulls.",
+    "palette": [
+      "#6366f1",
+      "#312e81",
+      "#f8fafc"
+    ]
+  },
+  "series": [
+    {
+      "id": "space-molly-series-1",
+      "name": "Series 1",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "space-molly-spongebob",
+          "name": "Spongebob",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/spongebob.png"
+        },
+        {
+          "id": "space-molly-watermelon",
+          "name": "Watermelon",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/watermelon.png"
+        },
+        {
+          "id": "space-molly-toffee",
+          "name": "Toffee",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/toffee.png"
+        },
+        {
+          "id": "space-molly-jelly",
+          "name": "Jelly",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/jelly.png"
+        },
+        {
+          "id": "space-molly-keith-haring",
+          "name": "Keith Haring",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/keith-haring.png"
+        },
+        {
+          "id": "space-molly-little-painter",
+          "name": "Little Painter",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/little-painter.png"
+        },
+        {
+          "id": "space-molly-christmas",
+          "name": "Christmas",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/christmas.png"
+        },
+        {
+          "id": "space-molly-instinctoy",
+          "name": "Instinctoy",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/instinctoy.png"
+        },
+        {
+          "id": "space-molly-candy",
+          "name": "Candy",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/candy.png"
+        },
+        {
+          "id": "space-molly-the-girl-from-the-earth",
+          "name": "The Girl from the Earth",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/the-girl-from-the-earth.png"
+        }
+      ]
+    },
+    {
+      "id": "space-molly-series-2",
+      "name": "Series 2-A/B",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "space-molly-meilin-panda",
+          "name": "Meilin Panda",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/meilin-panda.png"
+        },
+        {
+          "id": "space-molly-jean-michel-basquiat",
+          "name": "Jean-Michel Basquiat",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/jean-michel-basquiat.png"
+        },
+        {
+          "id": "space-molly-mint-chocolate",
+          "name": "Mint Chocolate",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/mint-chocolate.png"
+        },
+        {
+          "id": "space-molly-banana-2017",
+          "name": "Banana 2017",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/banana-2017.png"
+        },
+        {
+          "id": "space-molly-coca-cola-classic-2a",
+          "name": "Coca-Cola Classic (2A)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/coca-cola-classic.png"
+        },
+        {
+          "id": "space-molly-pink-panther",
+          "name": "Pink Panther",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/pink-panther.png"
+        },
+        {
+          "id": "space-molly-patrick-star",
+          "name": "Patrick Star",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/patrick-star.png"
+        },
+        {
+          "id": "space-molly-heartbeat",
+          "name": "Heartbeat",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/heartbeat.png"
+        },
+        {
+          "id": "space-molly-glacier",
+          "name": "Glacier",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/glacier.png"
+        },
+        {
+          "id": "space-molly-cheer-bear",
+          "name": "Cheer Bear",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/cheer-bear.png"
+        },
+        {
+          "id": "space-molly-birthday-bear",
+          "name": "Birthday Bear",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/birthday-bear.png"
+        },
+        {
+          "id": "space-molly-wish-bear",
+          "name": "Wish Bear",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/wish-bear.png"
+        },
+        {
+          "id": "space-molly-meta",
+          "name": "Meta",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/meta.png"
+        },
+        {
+          "id": "space-molly-melting",
+          "name": "Melting",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/melting.png"
+        }
+      ]
+    },
+    {
+      "id": "space-molly-series-3",
+      "name": "Series 3",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "space-molly-ted-2",
+          "name": "Ted 2",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/ted-2.png"
+        },
+        {
+          "id": "space-molly-garfield",
+          "name": "Garfield",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/garfield.png"
+        },
+        {
+          "id": "space-molly-good-luck-bear",
+          "name": "Good Luck Bear",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/good-luck-bear.png"
+        },
+        {
+          "id": "space-molly-tenderheart-bear",
+          "name": "Tenderheart Bear",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/tenderheart-bear.png"
+        },
+        {
+          "id": "space-molly-tetris",
+          "name": "TETRIS",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/tetris.png"
+        },
+        {
+          "id": "space-molly-gary-baseman",
+          "name": "Gary Baseman",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/gary-baseman.png"
+        },
+        {
+          "id": "space-molly-graffiti",
+          "name": "Graffiti",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/graffiti.png"
+        },
+        {
+          "id": "space-molly-heartfelt-words",
+          "name": "Heartfelt Words",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/heartfelt-words.png"
+        },
+        {
+          "id": "space-molly-peach-2016",
+          "name": "Peach 2016",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/peach-2016.png"
+        },
+        {
+          "id": "space-molly-starry",
+          "name": "Starry",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/starry.png"
+        },
+        {
+          "id": "space-molly-louis-de-guzman",
+          "name": "Louis De Guzman",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/louis-de-guzman.png"
+        },
+        {
+          "id": "space-molly-team-coca-cola",
+          "name": "Team Coca-Cola",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/team-coca-cola.png"
+        }
+      ]
+    },
+    {
+      "id": "space-molly-emoji-series",
+      "name": "emoji Series",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "space-molly-lmao",
+          "name": "LMAO",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/lmao.png"
+        },
+        {
+          "id": "space-molly-admiration",
+          "name": "Admiration",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/admiration.png"
+        },
+        {
+          "id": "space-molly-confession",
+          "name": "Confession",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/confession.png"
+        },
+        {
+          "id": "space-molly-886",
+          "name": "886",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/886.png"
+        },
+        {
+          "id": "space-molly-frozen-smile",
+          "name": "Frozen Smile",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/frozen-smile.png"
+        },
+        {
+          "id": "space-molly-worn-out",
+          "name": "Worn Out",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/worn-out.png"
+        },
+        {
+          "id": "space-molly-55555",
+          "name": "55555",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/55555.png"
+        },
+        {
+          "id": "space-molly-so-what",
+          "name": "So What",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/so-what.png"
+        },
+        {
+          "id": "space-molly-pissed-off",
+          "name": "Pissed Off",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/pissed-off.png"
+        },
+        {
+          "id": "space-molly-lil-devil",
+          "name": "Lil Devil",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/lil-devil.png"
+        },
+        {
+          "id": "space-molly-why-so-serious",
+          "name": "Why So Serious",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/why-so-serious.png"
+        },
+        {
+          "id": "space-molly-caution-the-ghost-is-here",
+          "name": "Caution, the Ghost is Here",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/caution-the-ghost-is-here.png"
+        },
+        {
+          "id": "space-molly-monkey-business",
+          "name": "Monkey Business",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/monkey-business.png"
+        },
+        {
+          "id": "space-molly-cow-on-me",
+          "name": "Cow on Me",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/cow-on-me.png"
+        },
+        {
+          "id": "space-molly-happy-puppy",
+          "name": "Happy Puppy",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/happy-puppy.png"
+        },
+        {
+          "id": "space-molly-all-in-green",
+          "name": "All in Green",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/all-in-green.png"
+        },
+        {
+          "id": "space-molly-a-trying-situation",
+          "name": "A Trying Situation",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/a-trying-situation.png"
+        },
+        {
+          "id": "space-molly-bad-words",
+          "name": "Bad Words",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/bad-words.png"
+        },
+        {
+          "id": "space-molly-open-minded",
+          "name": "Open Minded",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/open-minded.png"
+        },
+        {
+          "id": "space-molly-unicorn",
+          "name": "Unicorn",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/unicorn.png"
+        },
+        {
+          "id": "space-molly-ms-billionaire",
+          "name": "Ms. Billionaire",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/ms-billionaire.png"
+        }
+      ]
+    },
+    {
+      "id": "space-molly-series-4",
+      "name": "Series 4",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "space-molly-jon-burgerman",
+          "name": "Jon Burgerman",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/jon-burgerman.png"
+        },
+        {
+          "id": "space-molly-trevor-andrew",
+          "name": "Trevor Andrew",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/trevor-andrew.png"
+        },
+        {
+          "id": "space-molly-christmas2024",
+          "name": "Christmas2024",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/christmas2024.png"
+        },
+        {
+          "id": "space-molly-optimus-prime",
+          "name": "Optimus Prime",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/optimus-prime.png"
+        },
+        {
+          "id": "space-molly-orange-juice",
+          "name": "Orange Juice",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/orange-juice.png"
+        },
+        {
+          "id": "space-molly-palmer-house",
+          "name": "Palmer House",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/palmer-house.png"
+        },
+        {
+          "id": "space-molly-durianman",
+          "name": "DurianMan",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/durianman.png"
+        },
+        {
+          "id": "space-molly-smitten-love",
+          "name": "Smitten Love",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/smitten-love.png"
+        },
+        {
+          "id": "space-molly-funshine-bear",
+          "name": "Funshine Bear",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/funshine-bear.png"
+        },
+        {
+          "id": "space-molly-bedtime-bear",
+          "name": "Bedtime Bear",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/bedtime-bear.png"
+        },
+        {
+          "id": "space-molly-smitten-love-white",
+          "name": "Smitten Love-White",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/smitten-love-white.png"
+        },
+        {
+          "id": "space-molly-christmas2024-green",
+          "name": "Christmas2024-Green",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/christmas2024-green.png"
+        },
+        {
+          "id": "space-molly-purple-sweet-potato",
+          "name": "Purple Sweet Potato",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/purple-sweet-potato.png"
+        },
+        {
+          "id": "space-molly-angel",
+          "name": "Angel",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/angel.png"
+        },
+        {
+          "id": "space-molly-celebration",
+          "name": "Celebration",
+          "rarity": "Secret",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/celebration.png"
+        }
+      ]
+    },
+    {
+      "id": "space-molly-limited-editions",
+      "name": "Limited Editions",
+      "release": "",
+      "description": "",
+      "items": [
+        {
+          "id": "space-molly-snake-white",
+          "name": "Snake White",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/snake-white.png"
+        },
+        {
+          "id": "space-molly-snake-red",
+          "name": "Snake Red",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/snake-red.png"
+        },
+        {
+          "id": "space-molly-refraction",
+          "name": "Refraction",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/refraction.png"
+        },
+        {
+          "id": "space-molly-seaweed-bts",
+          "name": "Seaweed BTS",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/seaweed-bts.png"
+        },
+        {
+          "id": "space-molly-mickey-and-minnie",
+          "name": "Mickey and Minnie",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/mickey-and-minnie.png"
+        },
+        {
+          "id": "space-molly-donald-and-daisy-duck",
+          "name": "Donald and Daisy Duck",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/donald-and-daisy-duck.png"
+        },
+        {
+          "id": "space-molly-clot-olive-alienegra",
+          "name": "CLOT-Olive Alienegra",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/clot-olive-alienegra.png"
+        },
+        {
+          "id": "space-molly-charlie-brown-and-snoopy",
+          "name": "Charlie Brown and Snoopy",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/charlie-brown-and-snoopy.png"
+        },
+        {
+          "id": "space-molly-yves-saint-laurent-2022",
+          "name": "Yves Saint Laurent 2022",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/yves-saint-laurent-2022.png"
+        }
+      ]
+    }
+  ]
+}
