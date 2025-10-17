@@ -15,14 +15,26 @@
     "id": "nyota",
     "name": "NYOTA",
     "data": "./data/nyota.json",
-    "featuredImage": "./assets/brand-previews/nyota.png",
-    "tagline": "COMING SOON"
+    "featuredImage": "./assets/brand-previews/nyota.png"
   },
   {
     "id": "oipippi",
     "name": "OIPIPPI",
     "data": "./data/oipippi.json",
-    "featuredImage": "./assets/brand-previews/oipippi.png",
+    "featuredImage": "./assets/brand-previews/oipippi.png"
+  },
+  {
+    "id": "duckoo",
+    "name": "DUCKOO",
+    "data": "./data/duckoo.json",
+    "featuredImage": "./assets/brand-previews/duckoo.png",
+    "tagline": "COMING SOON"
+  },
+  {
+    "id": "sonny-angel",
+    "name": "Sonny Angel",
+    "data": "./data/sonny-angel.json",
+    "featuredImage": "./assets/brand-previews/sonny-angel.png",
     "tagline": "COMING SOON"
   }
 ]

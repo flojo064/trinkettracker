@@ -37,19 +37,19 @@
       "release": "",
       "description": "",
       "items": [
-        { "id": "nyota-growing-up-by-your-way-growing-up", "name": "Growing Up", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-hidden-love", "name": "Hidden Love", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-time", "name": "Time", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-childhood", "name": "Childhood", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-poem", "name": "Poem", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-hi", "name": "Hi", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-dream", "name": "Dream", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-into-my-heart", "name": "Into My Heart", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-friends", "name": "Friends", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-feeling", "name": "Feeling", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-thinking", "name": "Thinking", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-road", "name": "Road", "rarity": "Standard" },
-        { "id": "nyota-growing-up-by-your-way-fly-to-your-own-mountain", "name": "Fly to Your Own Mountain", "rarity": "Secret" }
+        { "id": "nyota-growing-up-by-your-way-growing-up", "name": "Growing Up", "rarity": "Standard", "image": "./assets/images/nyota/growing-up-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-hidden-love", "name": "Hidden Love", "rarity": "Standard", "image": "./assets/images/nyota/hidden-love-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-time", "name": "Time", "rarity": "Standard", "image": "./assets/images/nyota/time-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-childhood", "name": "Childhood", "rarity": "Standard", "image": "./assets/images/nyota/childhood-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-poem", "name": "Poem", "rarity": "Standard", "image": "./assets/images/nyota/poem-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-hi", "name": "Hi", "rarity": "Standard", "image": "./assets/images/nyota/hi-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-dream", "name": "Dream", "rarity": "Standard", "image": "./assets/images/nyota/dream-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-into-my-heart", "name": "Into My Heart", "rarity": "Standard", "image": "./assets/images/nyota/into-my-heart-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-friends", "name": "Friends", "rarity": "Standard", "image": "./assets/images/nyota/friends-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-feeling", "name": "Feeling", "rarity": "Standard", "image": "./assets/images/nyota/feeling-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-thinking", "name": "Thinking", "rarity": "Standard", "image": "./assets/images/nyota/thinking-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-road", "name": "Road", "rarity": "Standard", "image": "./assets/images/nyota/road-growing-up-by-your-way.png" },
+        { "id": "nyota-growing-up-by-your-way-fly-to-your-own-mountain", "name": "Fly to Your Own Mountain", "rarity": "Secret", "image": "./assets/images/nyota/fly-to-your-own-mountain-growing-up-by-your-way.png" }
       ]
     },
     {
@@ -58,19 +58,19 @@
       "release": "",
       "description": "",
       "items": [
-        { "id": "nyota-i-am-the-seasons-genesis", "name": "Genesis", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-spring-wisteria", "name": "Spring Wisteria", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-bamboo-after-rain", "name": "Bamboo After Rain", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-summer-murmurs", "name": "Summer Murmurs", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-blue-skies-ahead", "name": "Blue Skies Ahead", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-sun-seeker", "name": "Sun Seeker", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-autumn-glow", "name": "Autumn Glow", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-hidden-in-autumn", "name": "Hidden in Autumn", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-forest-tapestry", "name": "Forest Tapestry", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-snowfall-bliss", "name": "Snowfall Bliss", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-life-of-leisure", "name": "Life of Leisure", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-cloudwatcher", "name": "Cloudwatcher", "rarity": "Standard" },
-        { "id": "nyota-i-am-the-seasons-walking-into-spring", "name": "Walking into Spring", "rarity": "Secret" }
+        { "id": "nyota-i-am-the-seasons-genesis", "name": "Genesis", "rarity": "Standard", "image": "./assets/images/nyota/genesis-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-spring-wisteria", "name": "Spring Wisteria", "rarity": "Standard", "image": "./assets/images/nyota/spring-wisteria-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-bamboo-after-rain", "name": "Bamboo After Rain", "rarity": "Standard", "image": "./assets/images/nyota/bamboo-after-rain-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-summer-murmurs", "name": "Summer Murmurs", "rarity": "Standard", "image": "./assets/images/nyota/summer-murmurs-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-blue-skies-ahead", "name": "Blue Skies Ahead", "rarity": "Standard", "image": "./assets/images/nyota/blue-skies-ahead-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-sun-seeker", "name": "Sun Seeker", "rarity": "Standard", "image": "./assets/images/nyota/sun-seeker-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-autumn-glow", "name": "Autumn Glow", "rarity": "Standard", "image": "./assets/images/nyota/autumn-glow-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-hidden-in-autumn", "name": "Hidden in Autumn", "rarity": "Standard", "image": "./assets/images/nyota/hidden-in-autumn-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-forest-tapestry", "name": "Forest Tapestry", "rarity": "Standard", "image": "./assets/images/nyota/forest-tapestry-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-snowfall-bliss", "name": "Snowfall Bliss", "rarity": "Standard", "image": "./assets/images/nyota/snowfall-bliss-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-life-of-leisure", "name": "Life of Leisure", "rarity": "Standard", "image": "./assets/images/nyota/life-of-leisure-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-cloudwatcher", "name": "Cloudwatcher", "rarity": "Standard", "image": "./assets/images/nyota/cloudwatcher-i-am-the-seasons.png" },
+        { "id": "nyota-i-am-the-seasons-walking-into-spring", "name": "Walking into Spring", "rarity": "Secret", "image": "./assets/images/nyota/waiking-into-spring-i-am-the-seasons.png" }
       ]
     }
   ]

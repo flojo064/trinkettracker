@@ -1,0 +1,13 @@
+{
+  "brand": {
+    "id": "duckoo",
+    "name": "DUCKOO",
+    "description": "Coming soon",
+    "palette": [
+      "#60a5fa",
+      "#1e3a8a",
+      "#0b1220"
+    ]
+  },
+  "series": []
+}

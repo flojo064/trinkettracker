@@ -233,11 +233,82 @@ const SPACE_MOLLY_SERIES_PALETTES = [
   ["#b5774e", "#7a4f31", "#2c1a0f"], // muted orange
 ];
 
+// Explicit per-series palettes for Space Molly
+const SPACE_MOLLY_PALETTES_BY_SERIES = {
+  // Gray for Series 1 (muted)
+  "space-molly-series-1": ["#d7dee8", "#6b7686", "#0b1220"],
+  // Green for Series 2 (muted)
+  "space-molly-series-2": ["#c7eadc", "#69b89f", "#0f2d24"],
+  // Pink for Series 3 (muted)
+  "space-molly-series-3": ["#f3c6d9", "#d17aa4", "#2a0f19"],
+  // Orange for Emoji series (muted)
+  "space-molly-emoji-series": ["#f5cfad", "#d88549", "#2c1a0f"],
+  // Yellow for Series 4 (muted)
+  "space-molly-series-4": ["#f3e8a3", "#d1a64f", "#1f2937"],
+};
+
 const getSpaceMollyPaletteForSeries = (seriesId) => {
+  if (seriesId && SPACE_MOLLY_PALETTES_BY_SERIES[seriesId]) {
+    return SPACE_MOLLY_PALETTES_BY_SERIES[seriesId];
+  }
   const idx = state.seriesIndex.findIndex((s) => s.id === seriesId);
   const safeIndex = idx >= 0 ? idx : 0;
   const palette = SPACE_MOLLY_SERIES_PALETTES[safeIndex % SPACE_MOLLY_SERIES_PALETTES.length];
   return palette;
+};
+
+// Static, muted palettes for Nyota
+// Specific per-series overrides, with a cycle fallback
+const NYOTA_SERIES_PALETTES = [
+  ["#8aa3a6", "#5a6e71", "#0d1b1e"],
+  ["#a6a08a", "#6e6a5a", "#1e1b0d"],
+  ["#a68aa3", "#6e5a6b", "#1b0d1a"],
+  ["#8aa68f", "#5a6e5f", "#0d1e12"],
+];
+
+const NYOTA_PALETTES_BY_SERIES = {
+  // I Am the Seasons → light blue gradient
+  "nyota-i-am-the-seasons": ["#cde9ff", "#8fbfe8", "#0b1220"],
+  // Fluffy Life → light green gradient
+  "nyota-fluffy-life": ["#cfeec8", "#9fddb0", "#0e1a12"],
+  // Growing up by Your Way → dark blue gradient
+  "nyota-growing-up-by-your-way": ["#0b1220", "#0d1a2b", "#0a1422"],
+};
+
+// Muted overrides for Nyota per-series gradients
+const NYOTA_PALETTES_BY_SERIES_MUTED = {
+  "nyota-i-am-the-seasons": ["#d7e9f7", "#7fa6cc", "#0a1320"],
+  "nyota-fluffy-life": ["#d9ecd3", "#8fc6a3", "#0f1812"],
+  "nyota-growing-up-by-your-way": ["#dcc8ef", "#8d79b8", "#1a1430"],
+};
+
+const getNyotaPaletteForSeries = (seriesId) => {
+  if (seriesId && NYOTA_PALETTES_BY_SERIES_MUTED[seriesId]) {
+    return NYOTA_PALETTES_BY_SERIES_MUTED[seriesId];
+  }
+  const idx = state.seriesIndex.findIndex((s) => s.id === seriesId);
+  const safeIndex = idx >= 0 ? idx : 0;
+  return NYOTA_SERIES_PALETTES[safeIndex % NYOTA_SERIES_PALETTES.length];
+};
+
+// Static, light blue palettes for OIPIPPI (cycled per series index)
+const OIPIPPI_SERIES_PALETTES = [
+  ["#c3e1ff", "#7fb0e6", "#0b1424"], // pale sky → soft cornflower
+  ["#b7d4ff", "#6fa3d9", "#0b1220"], // powder blue → muted azure
+  ["#a8c7e6", "#5f8fb8", "#0a1320"], // pastel blue → steel blue
+];
+
+// Muted light-blue palettes for OIPIPPI
+const OIPIPPI_SERIES_PALETTES_MUTED = [
+  ["#d6e6f5", "#8fb0d0", "#0c1626"],
+  ["#cbdcf2", "#86aace", "#0c1524"],
+  ["#c1d3ea", "#7a9ec3", "#0b1522"],
+];
+
+const getOipippiPaletteForSeries = (seriesId) => {
+  const idx = state.seriesIndex.findIndex((s) => s.id === seriesId);
+  const safeIndex = idx >= 0 ? idx : 0;
+  return OIPIPPI_SERIES_PALETTES_MUTED[safeIndex % OIPIPPI_SERIES_PALETTES_MUTED.length];
 };
 
 const registerMediaWrapper = (seriesId, wrapper, palette) => {
@@ -273,8 +344,8 @@ const updateSeriesAccent = (seriesId, color) => {
 };
 
 const applyAccentFromImage = (img, seriesId) => {
-  // For Space Molly, use static per-series palettes (no image analysis)
-  if (state.currentBrand === "space-molly") return;
+  // For Space Molly, Nyota, and OIPIPPI use static per-series palettes (no image analysis)
+  if (state.currentBrand === "space-molly" || state.currentBrand === "nyota" || state.currentBrand === "oipippi") return;
   const analysis = analyzeImageColors(img);
   if (!analysis) return;
   const { background, average, coverage } = analysis;
@@ -296,10 +367,10 @@ const launchPartyPopper = (anchorEl) => {
     const piece = document.createElement("span");
     piece.className = "tt-popper__piece";
     piece.textContent = emojis[Math.floor(Math.random() * emojis.length)];
-    const angle = Math.random() * Math.PI; // 0..180deg upward fan
+    const angle = Math.random() * Math.PI; // 0..180deg fan
     const distance = 24 + Math.random() * 36; // px
     const dx = Math.cos(angle) * distance * (Math.random() < 0.5 ? -1 : 1);
-    const dy = -Math.abs(Math.sin(angle) * distance) - 6;
+    const dy = Math.abs(Math.sin(angle) * distance) + 6; // shoot downward
     const rot = (Math.random() * 180 - 90).toFixed(1) + "deg";
     piece.style.setProperty("--dx", `${dx.toFixed(1)}px`);
     piece.style.setProperty("--dy", `${dy.toFixed(1)}px`);
@@ -698,11 +769,16 @@ const filterAndSortItems = () => {
 const buildCard = (item) => {
   const card = createElement("article", "tt-card");
   card.dataset.itemId = item.id;
-  const palette = state.currentBrand === "space-molly"
-    ? getSpaceMollyPaletteForSeries(item.seriesId)
-    : (Array.isArray(item.palette) && item.palette.length >= 3
-        ? item.palette
-        : ["#4f46e5", "#312e81", "#1f2937"]);
+  const palette =
+    state.currentBrand === "space-molly"
+      ? getSpaceMollyPaletteForSeries(item.seriesId)
+      : state.currentBrand === "nyota"
+        ? getNyotaPaletteForSeries(item.seriesId)
+        : state.currentBrand === "oipippi"
+          ? getOipippiPaletteForSeries(item.seriesId)
+          : (Array.isArray(item.palette) && item.palette.length >= 3
+              ? item.palette
+              : ["#4f46e5", "#312e81", "#1f2937"]);
 
   const mediaWrapper = createElement("div", "tt-card__mediaStack");
   mediaWrapper.style.setProperty("--accent-primary", palette[0]);
@@ -859,7 +935,11 @@ const renderLandingView = () => {
   const wrapper = createElement("section", "tt-landing");
   wrapper.append(
     createElement("h1", "tt-landing__title", "Pick a trinket to start tracking"),
-    createElement("p", "tt-landing__description", "No logins. No ads. No friction. Your device remembers what you own." )
+    createElement(
+      "p",
+      "tt-landing__description",
+      "No logins. No ads. No friction. Your device remembers what you own. Clearing cookies or site data will erase your selections."
+    )
   );
 
   // Landing controls: Search + Sort (A–Z / Z–A)

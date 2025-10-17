@@ -83,7 +83,7 @@ main {
   display: flex;
   align-items: center;
   gap: 10px;
-  margin-left: -8px;
+  margin-left: -2px;
   text-decoration: none;
   color: inherit;
   transition: opacity 140ms ease, transform 140ms ease;
@@ -639,7 +639,8 @@ main {
 }
 /* Nudge header progress popper slightly upward */
 .tt-progress__track .tt-popper {
-  transform: translate(-50%, calc(-50% - 8px));
+  /* Shift slightly left and slightly upward */
+  transform: translate(calc(-50% - 8px), calc(-50% - 2px));
 }
 .tt-popper__piece {
   position: absolute;

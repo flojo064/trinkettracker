@@ -2,12 +2,34 @@
   "brand": {
     "id": "oipippi",
     "name": "OIPIPPI",
-    "description": "Coming soon",
+    "description": "Track OIPIPPI pulls across series.",
     "palette": [
       "#60a5fa",
       "#1e3a8a",
       "#0b1220"
     ]
   },
-  "series": []
+  "series": [
+    {
+      "id": "oipippi-joyfulness",
+      "name": "Joyfulness",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "oipippi-joyfulness-favorite-duck-scooter", "name": "Favorite Duck Scooter", "rarity": "Standard", "image": "./assets/images/oipippi/favorite-duck-scooter-joyfulness.png" },
+        { "id": "oipippi-joyfulness-someone-to-rely-on", "name": "Someone to Rely On", "rarity": "Standard", "image": "./assets/images/oipippi/someone-to-rely-on-joyfulness.png" },
+        { "id": "oipippi-joyfulness-get-well-soon", "name": "Get Well Soon", "rarity": "Standard", "image": "./assets/images/oipippi/get-well-soon-joyfulness.png" },
+        { "id": "oipippi-joyfulness-oops-they-fell-asleep", "name": "Oops They Fell Asleep", "rarity": "Standard", "image": "./assets/images/oipippi/oops-they-fell-asleep-joyfulness.png" },
+        { "id": "oipippi-joyfulness-nowhere-to-run", "name": "Nowhere to Run", "rarity": "Standard", "image": "./assets/images/oipippi/nowhere-to-run-joyfulness.png" },
+        { "id": "oipippi-joyfulness-thats-happiness", "name": "That's Happiness", "rarity": "Standard", "image": "./assets/images/oipippi/that's-happiness-joyfulness.png" },
+        { "id": "oipippi-joyfulness-crazy-day", "name": "Crazy Day!", "rarity": "Standard", "image": "./assets/images/oipippi/crazy-day!-joyfulness.png" },
+        { "id": "oipippi-joyfulness-supermarket-adventures", "name": "Supermarket Adventures", "rarity": "Standard", "image": "./assets/images/oipippi/supermarket-adventures-joyfulness.png" },
+        { "id": "oipippi-joyfulness-real-love", "name": "Real Love", "rarity": "Standard", "image": "./assets/images/oipippi/real-love-joyfulness.png" },
+        { "id": "oipippi-joyfulness-what-a-nice-day", "name": "What a Nice Day!", "rarity": "Standard", "image": "./assets/images/oipippi/what-a-nice-day!-joyfulness.png" },
+        { "id": "oipippi-joyfulness-environmental-protection", "name": "Environmental Protection", "rarity": "Standard", "image": "./assets/images/oipippi/environmental-protection-joyfulness.png" },
+        { "id": "oipippi-joyfulness-hugging-oneself", "name": "Hugging Oneself", "rarity": "Standard", "image": "./assets/images/oipippi/hugging-oneself-joyfulness.png" },
+        { "id": "oipippi-joyfulness-hiding-myself", "name": "Hiding Myself", "rarity": "Secret", "image": "./assets/images/oipippi/hiding-myself-joyfulness.png" }
+      ]
+    }
+  ]
 }
