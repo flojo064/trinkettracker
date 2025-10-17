@@ -218,6 +218,25 @@ const applyAccentToWrapper = (wrapper, accent, fallbackPalette) => {
   }
 };
 
+// Static series palettes for Space Molly (cycled per series index)
+const SPACE_MOLLY_SERIES_PALETTES = [
+  ["#a66a6a", "#6e4a4a", "#1f2937"], // muted red
+  ["#7a9b7a", "#4e6b4e", "#0f2d24"], // muted green
+  ["#708aa6", "#435a6f", "#0b1220"], // muted blue
+  ["#8d7fa6", "#5e4f78", "#1e1b4b"], // muted purple
+  ["#b08a57", "#7a5d36", "#1f2937"], // muted amber
+  ["#6b9a95", "#446c68", "#0a2f2e"], // muted teal
+  ["#b57a8d", "#7a5060", "#3b0d1f"], // muted mauve
+  ["#b5774e", "#7a4f31", "#2c1a0f"], // muted orange
+];
+
+const getSpaceMollyPaletteForSeries = (seriesId) => {
+  const idx = state.seriesIndex.findIndex((s) => s.id === seriesId);
+  const safeIndex = idx >= 0 ? idx : 0;
+  const palette = SPACE_MOLLY_SERIES_PALETTES[safeIndex % SPACE_MOLLY_SERIES_PALETTES.length];
+  return palette;
+};
+
 const registerMediaWrapper = (seriesId, wrapper, palette) => {
   if (!seriesId) return;
   if (!seriesMediaWrappers.has(seriesId)) {
@@ -251,6 +270,8 @@ const updateSeriesAccent = (seriesId, color) => {
 };
 
 const applyAccentFromImage = (img, seriesId) => {
+  // For Space Molly, use static per-series palettes (no image analysis)
+  if (state.currentBrand === "space-molly") return;
   const analysis = analyzeImageColors(img);
   if (!analysis) return;
   const { background, average, coverage } = analysis;
@@ -631,9 +652,11 @@ const filterAndSortItems = () => {
 const buildCard = (item) => {
   const card = createElement("article", "tt-card");
   card.dataset.itemId = item.id;
-  const palette = Array.isArray(item.palette) && item.palette.length >= 3
-    ? item.palette
-    : ["#4f46e5", "#312e81", "#1f2937"];
+  const palette = state.currentBrand === "space-molly"
+    ? getSpaceMollyPaletteForSeries(item.seriesId)
+    : (Array.isArray(item.palette) && item.palette.length >= 3
+        ? item.palette
+        : ["#4f46e5", "#312e81", "#1f2937"]);
 
   const mediaWrapper = createElement("div", "tt-card__mediaStack");
   mediaWrapper.style.setProperty("--accent-primary", palette[0]);
@@ -777,6 +800,7 @@ const renderLandingView = () => {
   clearHeaderProgress();
   resetSeriesAccentState();
   appRoot.innerHTML = "";
+  if (appRoot) appRoot.removeAttribute("data-brand");
   headerEl?.classList.add("tt-header--landing");
   if (headerSubtitle) headerSubtitle.textContent = "Blind Box Checklists";
 
@@ -823,6 +847,7 @@ const renderBrandView = () => {
 const renderErrorView = (message) => {
   clearHeaderProgress();
   resetSeriesAccentState();
+  if (appRoot) appRoot.removeAttribute("data-brand");
   headerEl?.classList.add("tt-header--landing");
   if (headerSubtitle) headerSubtitle.textContent = "Blind Box Checklists";
   appRoot.innerHTML = "";
@@ -838,6 +863,7 @@ const renderErrorView = (message) => {
 const renderLoadingView = (message = "Loading...") => {
   clearHeaderProgress();
   resetSeriesAccentState();
+  if (appRoot) appRoot.removeAttribute("data-brand");
   headerEl?.classList.add("tt-header--landing");
   if (headerSubtitle) headerSubtitle.textContent = "Blind Box Checklists";
   appRoot.innerHTML = "";
@@ -895,6 +921,7 @@ const setBrandFromPayload = (entry, payload) => {
   state.items = items;
   state.seriesIndex = seriesIndex;
   state.currentBrand = entry.id;
+  if (appRoot) appRoot.setAttribute("data-brand", entry.id);
   state.view = "brand";
   state.seriesFilter = "all";
   state.search = "";

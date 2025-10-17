@@ -517,6 +517,10 @@ main {
   background: linear-gradient(135deg, var(--accent-primary, var(--accent)), var(--accent-secondary, rgba(99, 102, 241, 0.6)));
   z-index: 0;
 }
+/* Hide gradient background in figure area when viewing Smiski */
+#app[data-brand="smiski"] .tt-card__mediaStack::before {
+  background: none;
+}
 .tt-card__mediaStack figure {
   margin: 0;
   display: flex;
