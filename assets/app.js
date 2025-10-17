@@ -17,6 +17,9 @@ const state = {
   seriesFilter: "all",
   search: "",
   sort: "default",
+  // Landing (brands list) controls
+  landingSearch: "",
+  landingSort: "az",
   showLimited: false,
   hideSecrets: false,
   checklist: {},
@@ -280,6 +283,49 @@ const applyAccentFromImage = (img, seriesId) => {
     selected = background;
   }
   updateSeriesAccent(seriesId, selected);
+};
+
+// Fun: party popper burst anchored to an element
+const launchPartyPopper = (anchorEl) => {
+  if (!anchorEl) return;
+  const burst = document.createElement("span");
+  burst.className = "tt-popper";
+  const emojis = ["🎉", "✨", "🎊", "🌟", "💫", "⭐"]; 
+  const pieces = 14;
+  for (let i = 0; i < pieces; i += 1) {
+    const piece = document.createElement("span");
+    piece.className = "tt-popper__piece";
+    piece.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+    const angle = Math.random() * Math.PI; // 0..180deg upward fan
+    const distance = 24 + Math.random() * 36; // px
+    const dx = Math.cos(angle) * distance * (Math.random() < 0.5 ? -1 : 1);
+    const dy = -Math.abs(Math.sin(angle) * distance) - 6;
+    const rot = (Math.random() * 180 - 90).toFixed(1) + "deg";
+    piece.style.setProperty("--dx", `${dx.toFixed(1)}px`);
+    piece.style.setProperty("--dy", `${dy.toFixed(1)}px`);
+    piece.style.setProperty("--rot", rot);
+    piece.style.animationDelay = `${(Math.random() * 0.08).toFixed(2)}s`;
+    piece.style.animationDuration = `${(0.6 + Math.random() * 0.4).toFixed(2)}s`;
+    burst.appendChild(piece);
+  }
+  anchorEl.appendChild(burst);
+  // Clean up after animation
+  window.setTimeout(() => burst.remove(), 1200);
+};
+
+// Launch popper on header progress track at current percent
+const launchHeaderProgressPopper = () => {
+  if (!progressRefs || !progressRefs.fill) return;
+  const track = progressRefs.fill.parentElement;
+  if (!track) return;
+  const percentStr = progressRefs.fill.style.width || "0%";
+  const percent = Math.max(0, Math.min(100, parseFloat(percentStr) || 0));
+  const anchor = document.createElement("span");
+  anchor.className = "tt-popper";
+  anchor.style.left = `${percent}%`;
+  anchor.style.top = "50%";
+  track.appendChild(anchor);
+  launchPartyPopper(anchor);
 };
 const resolveImageSources = (item) => {
   const ordered = [];
@@ -703,10 +749,16 @@ const buildCard = (item) => {
   const input = document.createElement("input");
   input.type = "checkbox";
   input.checked = Boolean(state.checklist[item.id]);
+  // Checkbox wrapper (kept for layout, but effects trigger on header progress)
+  const checkWrap = createElement("span", "tt-check");
+  checkWrap.appendChild(input);
   input.addEventListener("change", () => {
     updateChecklist(item.id, input.checked);
+    if (input.checked) {
+      launchHeaderProgressPopper();
+    }
   });
-  checklist.append(input, createElement("span", "tt-toggle__text", "I have it"));
+  checklist.append(checkWrap, createElement("span", "tt-toggle__text", "I have it"));
 
   card.append(mediaWrapper, header, meta, checklist);
   syncCardState(item.id, card);
@@ -810,8 +862,41 @@ const renderLandingView = () => {
     createElement("p", "tt-landing__description", "No logins. No ads. No friction. Your device remembers what you own." )
   );
 
+  // Landing controls: Search + Sort (A–Z / Z–A)
+  const controls = createElement("section", "tt-controls");
+  // Search
+  const searchWrapper = createElement("label", "tt-search");
+  searchWrapper.innerHTML = `
+    <span class="tt-search__label">Search</span>
+    <input type="search" placeholder="Search brands" />
+  `;
+  const landingSearchInput = searchWrapper.querySelector("input");
+  landingSearchInput.value = state.landingSearch;
+  landingSearchInput.addEventListener("input", (event) => {
+    state.landingSearch = event.target.value.trim().toLowerCase();
+    renderLandingView();
+  });
+  // Sort
+  const sortWrapper = createElement("label", "tt-select");
+  sortWrapper.innerHTML = `
+    <span class="tt-select__label">Sort</span>
+    <select>
+      <option value="az">A - Z</option>
+      <option value="za">Z - A</option>
+    </select>
+  `;
+  const landingSortSelect = sortWrapper.querySelector("select");
+  landingSortSelect.value = state.landingSort;
+  landingSortSelect.addEventListener("change", (event) => {
+    state.landingSort = event.target.value;
+    renderLandingView();
+  });
+  controls.append(searchWrapper, sortWrapper);
+  wrapper.appendChild(controls);
+
   const grid = createElement("div", "tt-landing__grid");
-  state.brands.forEach((brand) => {
+  const brands = getFilteredSortedBrands(state.brands, state.landingSearch, state.landingSort);
+  brands.forEach((brand) => {
     const tile = buildBrandTile(brand);
     grid.appendChild(tile);
   });
@@ -906,6 +991,40 @@ const ensureBrandData = async (entry) => {
   const payload = await fetchJSON(entry.data);
   brandDataCache.set(entry.id, payload);
   return payload;
+};
+
+// Helper: filter by search and sort brands by name
+const getFilteredSortedBrands = (brands, search = "", mode = "az") => {
+  let list = Array.isArray(brands) ? [...brands] : [];
+  if (search) {
+    const q = search.toLowerCase();
+    list = list.filter((b) => {
+      const hay = [b.name, b.tagline].filter(Boolean).join(" ").toLowerCase();
+      return hay.includes(q);
+    });
+  }
+  const compare = (a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
+  switch (mode) {
+    case "za":
+      return list.sort((a, b) => compare(b, a));
+    case "az":
+    default:
+      return list.sort((a, b) => compare(a, b));
+  }
+};
+
+// Helper: sort brands by name according to selected mode
+const getSortedBrands = (brands, mode = "default") => {
+  const list = [...brands];
+  const compare = (a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
+  switch (mode) {
+    case "az":
+      return list.sort((a, b) => compare(a, b));
+    case "za":
+      return list.sort((a, b) => compare(b, a));
+    default:
+      return list; // original order
+  }
 };
 
 const setBrandFromPayload = (entry, payload) => {

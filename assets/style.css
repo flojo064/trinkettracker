@@ -36,6 +36,19 @@ body {
   min-height: 100vh;
 }
 
+/* Visually hidden but accessible */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -160,6 +173,8 @@ main {
   color: var(--text-soft);
   font-size: 0.95rem;
 }
+
+/* (previous landing sort UI removed) */
 
 .tt-landing__grid {
   display: grid;
@@ -456,7 +471,7 @@ main {
   height: 10px;
   border-radius: 999px;
   background: var(--surface-soft);
-  overflow: hidden;
+  overflow: visible;
 }
 .tt-progress__fill {
   position: absolute;
@@ -587,6 +602,11 @@ main {
   gap: 8px;
   font-size: 0.85rem;
   cursor: pointer;
+  position: relative;
+}
+.tt-check {
+  position: relative;
+  display: inline-block;
 }
 
 .tt-toggle input {
@@ -604,6 +624,39 @@ main {
 
 .tt-card.is-owned .tt-toggle__text {
   color: #4ade80;
+}
+
+/* Party popper burst */
+.tt-popper {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  overflow: visible;
+}
+/* Nudge header progress popper slightly upward */
+.tt-progress__track .tt-popper {
+  transform: translate(-50%, calc(-50% - 8px));
+}
+.tt-popper__piece {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transform: translate(0, 0) scale(0.8);
+  animation: tt-pop 700ms ease-out forwards;
+  will-change: transform, opacity;
+  filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.25));
+  font-size: 16px;
+}
+
+@keyframes tt-pop {
+  0% { opacity: 0; transform: translate(0, 0) scale(0.8) rotate(0deg); }
+  10% { opacity: 1; }
+  100% { opacity: 0; transform: translate(var(--dx, 0px), var(--dy, -30px)) scale(1.1) rotate(var(--rot, 0deg)); }
 }
 
 .tt-loading,
@@ -650,6 +703,13 @@ main {
   main {
     padding-inline: 16px;
     gap: 20px;
+  }
+  .tt-landing__header {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .tt-landing__sort {
+    width: 100%;
   }
   .tt-controls {
     grid-template-columns: 1fr;

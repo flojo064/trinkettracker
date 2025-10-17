@@ -2,12 +2,76 @@
   "brand": {
     "id": "nyota",
     "name": "NYOTA",
-    "description": "Coming soon",
+    "description": "Track NYOTA pulls across series.",
     "palette": [
       "#fbbf24",
       "#f59e0b",
       "#7c2d12"
     ]
   },
-  "series": []
+  "series": [
+    {
+      "id": "nyota-fluffy-life",
+      "name": "Fluffy Life",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "nyota-fluffy-life-unknown-road", "name": "Unknown Road", "rarity": "Standard", "image": "./assets/images/nyota/unknown-road-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-brave-together", "name": "Brave Together", "rarity": "Standard", "image": "./assets/images/nyota/brave-together-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-warm-sunlight", "name": "Warm Sunlight", "rarity": "Standard", "image": "./assets/images/nyota/warm-sunlight-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-calling", "name": "Calling", "rarity": "Standard", "image": "./assets/images/nyota/calling-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-see-love", "name": "See Love", "rarity": "Standard", "image": "./assets/images/nyota/see-love-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-our-secret", "name": "Our Secret", "rarity": "Standard", "image": "./assets/images/nyota/our-secret-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-daze", "name": "Daze", "rarity": "Standard", "image": "./assets/images/nyota/daze-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-a-brief-escape", "name": "A Brief Escape", "rarity": "Standard", "image": "./assets/images/nyota/a-brief-escape-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-kitten-hug", "name": "Kitten Hug", "rarity": "Standard", "image": "./assets/images/nyota/kitten-hug-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-lost-star", "name": "Lost Star", "rarity": "Standard", "image": "./assets/images/nyota/lost-star-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-home", "name": "Home", "rarity": "Standard", "image": "./assets/images/nyota/home-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-little-mountain", "name": "Little Mountain", "rarity": "Standard", "image": "./assets/images/nyota/little-mountain-fluffy-life.png" },
+        { "id": "nyota-fluffy-life-cotton-candy-daydream", "name": "Cotton Candy Daydream", "rarity": "Secret", "image": "./assets/images/nyota/cotton-candy-daydream-fluffy-life.png" }
+      ]
+    },
+    {
+      "id": "nyota-growing-up-by-your-way",
+      "name": "Growing up by Your Way",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "nyota-growing-up-by-your-way-growing-up", "name": "Growing Up", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-hidden-love", "name": "Hidden Love", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-time", "name": "Time", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-childhood", "name": "Childhood", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-poem", "name": "Poem", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-hi", "name": "Hi", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-dream", "name": "Dream", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-into-my-heart", "name": "Into My Heart", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-friends", "name": "Friends", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-feeling", "name": "Feeling", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-thinking", "name": "Thinking", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-road", "name": "Road", "rarity": "Standard" },
+        { "id": "nyota-growing-up-by-your-way-fly-to-your-own-mountain", "name": "Fly to Your Own Mountain", "rarity": "Secret" }
+      ]
+    },
+    {
+      "id": "nyota-i-am-the-seasons",
+      "name": "I Am the Seasons",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "nyota-i-am-the-seasons-genesis", "name": "Genesis", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-spring-wisteria", "name": "Spring Wisteria", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-bamboo-after-rain", "name": "Bamboo After Rain", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-summer-murmurs", "name": "Summer Murmurs", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-blue-skies-ahead", "name": "Blue Skies Ahead", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-sun-seeker", "name": "Sun Seeker", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-autumn-glow", "name": "Autumn Glow", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-hidden-in-autumn", "name": "Hidden in Autumn", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-forest-tapestry", "name": "Forest Tapestry", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-snowfall-bliss", "name": "Snowfall Bliss", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-life-of-leisure", "name": "Life of Leisure", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-cloudwatcher", "name": "Cloudwatcher", "rarity": "Standard" },
+        { "id": "nyota-i-am-the-seasons-walking-into-spring", "name": "Walking into Spring", "rarity": "Secret" }
+      ]
+    }
+  ]
 }
