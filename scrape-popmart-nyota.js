@@ -5,14 +5,52 @@ const http = require("http");
 const https = require("https");
 const { chromium } = require("playwright");
 
-// ====== CONFIG ======
-const TARGET_URL = "https://www.popmart.com/us/pop-now/set/303";
-const SAVE_DIR = path.join(__dirname, "assets", "images", "nyota");
-const DEBUG_DIR = path.join(__dirname, "debug");
-const SHOW_BROWSER = true; // set to false to run headless
-// ====================
+// ====== CONFIG / CLI ======
+// Usage examples:
+//   node scrape-popmart-nyota.js --url https://www.popmart.com/us/pop-now/set/303 --brand nyota
+//   node scrape-popmart-nyota.js --url https://www.popmart.com/us/pop-now/set/999 --brand duckoo
+// Optional: --save-dir assets/images/duckoo  --headless
 
-fs.mkdirSync(SAVE_DIR, { recursive: true });
+const args = process.argv.slice(2);
+const getArg = (name, fallback) => {
+  const long = `--${name}`;
+  const idx = args.findIndex((a) => a === long || a.startsWith(`${long}=`));
+  if (idx === -1) return fallback;
+  const token = args[idx];
+  if (token.includes("=")) return token.split("=").slice(1).join("=");
+  const next = args[idx + 1];
+  if (!next || next.startsWith("--")) return fallback;
+  return next;
+};
+
+const defaultUrl = "https://www.popmart.com/us/pop-now/set/303"; // Nyota example
+const brandFromArg = String(getArg("brand", "nyota") || "nyota").toLowerCase();
+
+// Sanitize URL input (strip surrounding quotes or angle brackets pasted from chat/markdown)
+const cleanUrlInput = (u) => {
+  let s = String(u || "").trim();
+  if ((s.startsWith('"') && s.endsWith('"')) || (s.startsWith("'") && s.endsWith("'"))) {
+    s = s.slice(1, -1);
+  }
+  if (s.startsWith("<") && s.endsWith(">")) {
+    s = s.slice(1, -1);
+  }
+  return s;
+};
+const targetUrl = cleanUrlInput(getArg("url", defaultUrl) || defaultUrl);
+
+// Validate URL early for clearer errors
+try { new URL(targetUrl); } catch {
+  console.error("Invalid --url provided:", targetUrl);
+  process.exit(1);
+}
+
+const saveDirFromArg = getArg("save-dir", path.join(__dirname, "assets", "images", brandFromArg));
+const DEBUG_DIR = path.join(__dirname, "debug");
+const SHOW_BROWSER = !args.includes("--headless"); // add --headless to hide
+// ==========================
+
+fs.mkdirSync(saveDirFromArg, { recursive: true });
 fs.mkdirSync(DEBUG_DIR, { recursive: true });
 
 const slug = (s) =>
@@ -57,7 +95,7 @@ function downloadTo(urlStr, filepath, redirectsLeft = 5) {
         headers: {
           "User-Agent":
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123 Safari/537.36",
-          Referer: TARGET_URL,
+          Referer: targetUrl,
         },
       },
       (res) => {
@@ -82,7 +120,7 @@ function downloadTo(urlStr, filepath, redirectsLeft = 5) {
 
 (async () => {
   console.log("Starting scraper…");
-  console.log("Saving to:", SAVE_DIR);
+  console.log("Saving to:", saveDirFromArg);
 
   const browser = await chromium.launch({ headless: !SHOW_BROWSER, slowMo: SHOW_BROWSER ? 80 : 0 });
   const page = await browser.newPage();
@@ -93,8 +131,8 @@ function downloadTo(urlStr, filepath, redirectsLeft = 5) {
     r => r.abort()
   );
 
-  console.log("Navigating:", TARGET_URL);
-  await page.goto(TARGET_URL, { waitUntil: "domcontentloaded", timeout: 120000 });
+  console.log("Navigating:", targetUrl);
+  await page.goto(targetUrl, { waitUntil: "domcontentloaded", timeout: 120000 });
   await page.screenshot({ path: path.join(DEBUG_DIR, "01-domcontentloaded.png"), fullPage: true });
 
   // Scroll to bottom so the bottom carousel lazy-loads
@@ -102,12 +140,12 @@ function downloadTo(urlStr, filepath, redirectsLeft = 5) {
   await page.waitForTimeout(1200);
 
   // Clean series name from meta/headers; remove noisy words & punctuation (like a leading colon)
-  const seriesName = await page.evaluate(() => {
+  const seriesName = await page.evaluate((brandName) => {
     const clean = (s) => (s || "")
       .replace(/\s*\|\s*POP\s*MART.*$/i, "")
       .replace(/\s*-\s*POP\s*MART.*$/i, "")
       .replace(/^[\s:;,\-–—]+/, "")               // drop leading punctuation/colons
-      .replace(/\b(pop\s*mart|pop\s*now|nyota|reviews?|series|figures)\b/gi, "")
+      .replace(new RegExp(`\\b(pop\\s*mart|pop\\s*now|${brandName}|reviews?|series|figures)\\b`, "gi"), "")
       .replace(/\s+/g, " ")
       .trim();
 
@@ -115,7 +153,7 @@ function downloadTo(urlStr, filepath, redirectsLeft = 5) {
     const h1 = document.querySelector("h1")?.textContent?.trim();
     const title = document.title?.trim();
     return clean(og) || clean(h1) || clean(title) || "series";
-  });
+  }, brandFromArg);
   const seriesSlug = slug(seriesName);
   console.log("Series:", seriesName);
 
@@ -245,13 +283,13 @@ function downloadTo(urlStr, filepath, redirectsLeft = 5) {
     const ext = (path.extname(new URL(url).pathname).split("?")[0] || ".jpg").toLowerCase();
     let base = `${figureSlug}-${seriesSlug}`;
     let filename = `${base}${ext}`;
-    let filepath = path.join(SAVE_DIR, filename);
+    let filepath = path.join(saveDirFromArg, filename);
 
     // Avoid duplicates
     let bump = 2;
     while (used.has(filename) || fs.existsSync(filepath)) {
       filename = `${base}-${bump}${ext}`;
-      filepath = path.join(SAVE_DIR, filename);
+      filepath = path.join(saveDirFromArg, filename);
       bump++;
     }
     used.add(filename);

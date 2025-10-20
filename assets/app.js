@@ -311,6 +311,28 @@ const getOipippiPaletteForSeries = (seriesId) => {
   return OIPIPPI_SERIES_PALETTES_MUTED[safeIndex % OIPIPPI_SERIES_PALETTES_MUTED.length];
 };
 
+// Static palettes for DUCKOO (per series with a reasonable fallback cycle)
+const DUCKOO_SERIES_PALETTES = [
+  ["#dbe7ff", "#8aa5e6", "#0b1220"], // cool blue
+  ["#f7d7ea", "#b789c0", "#1b1230"], // soft magenta/purple
+  ["#dff0d6", "#9bce89", "#0f1e12"], // fresh green
+];
+
+const DUCKOO_PALETTES_BY_SERIES = {
+  "duckoo-the-grand-hotel": ["#f3e7c1", "#caa96a", "#1b1a2e"],
+  "duckoo-music-festival": ["#e5dbff", "#9aa5f0", "#0b1220"],
+  "duckoo-farm": ["#dcefd3", "#8fc78a", "#0f1e12"],
+};
+
+const getDuckooPaletteForSeries = (seriesId) => {
+  if (seriesId && DUCKOO_PALETTES_BY_SERIES[seriesId]) {
+    return DUCKOO_PALETTES_BY_SERIES[seriesId];
+  }
+  const idx = state.seriesIndex.findIndex((s) => s.id === seriesId);
+  const safeIndex = idx >= 0 ? idx : 0;
+  return DUCKOO_SERIES_PALETTES[safeIndex % DUCKOO_SERIES_PALETTES.length];
+};
+
 const registerMediaWrapper = (seriesId, wrapper, palette) => {
   if (!seriesId) return;
   if (!seriesMediaWrappers.has(seriesId)) {
@@ -344,8 +366,8 @@ const updateSeriesAccent = (seriesId, color) => {
 };
 
 const applyAccentFromImage = (img, seriesId) => {
-  // For Space Molly, Nyota, and OIPIPPI use static per-series palettes (no image analysis)
-  if (state.currentBrand === "space-molly" || state.currentBrand === "nyota" || state.currentBrand === "oipippi") return;
+  // For Space Molly, Nyota, OIPIPPI, and DUCKOO use static per-series palettes (no image analysis)
+  if (state.currentBrand === "space-molly" || state.currentBrand === "nyota" || state.currentBrand === "oipippi" || state.currentBrand === "duckoo") return;
   const analysis = analyzeImageColors(img);
   if (!analysis) return;
   const { background, average, coverage } = analysis;
@@ -776,9 +798,11 @@ const buildCard = (item) => {
         ? getNyotaPaletteForSeries(item.seriesId)
         : state.currentBrand === "oipippi"
           ? getOipippiPaletteForSeries(item.seriesId)
-          : (Array.isArray(item.palette) && item.palette.length >= 3
-              ? item.palette
-              : ["#4f46e5", "#312e81", "#1f2937"]);
+          : state.currentBrand === "duckoo"
+            ? getDuckooPaletteForSeries(item.seriesId)
+            : (Array.isArray(item.palette) && item.palette.length >= 3
+                ? item.palette
+                : ["#4f46e5", "#312e81", "#1f2937"]);
 
   const mediaWrapper = createElement("div", "tt-card__mediaStack");
   mediaWrapper.style.setProperty("--accent-primary", palette[0]);
@@ -835,6 +859,20 @@ const buildCard = (item) => {
     }
   });
   checklist.append(checkWrap, createElement("span", "tt-toggle__text", "I have it"));
+
+  // Make the entire card toggle the checkbox, but avoid double-toggle
+  // if the user clicks directly on the checkbox/label or other controls.
+  card.addEventListener("click", (event) => {
+    const interactive = event.target.closest(
+      ".tt-toggle, input, button, a, select, textarea"
+    );
+    if (interactive) return;
+    input.checked = !input.checked;
+    updateChecklist(item.id, input.checked);
+    if (input.checked) {
+      launchHeaderProgressPopper();
+    }
+  });
 
   card.append(mediaWrapper, header, meta, checklist);
   syncCardState(item.id, card);

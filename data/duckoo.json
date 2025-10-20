@@ -2,12 +2,69 @@
   "brand": {
     "id": "duckoo",
     "name": "DUCKOO",
-    "description": "Coming soon",
-    "palette": [
-      "#60a5fa",
-      "#1e3a8a",
-      "#0b1220"
-    ]
+    "description": "Track DUCKOO pulls across series.",
+    "palette": ["#60a5fa", "#1e3a8a", "#0b1220"]
   },
-  "series": []
+  "series": [
+    {
+      "id": "duckoo-the-grand-hotel",
+      "name": "The Grand Hotel",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "duckoo-the-grand-hotel-bellboy", "name": "Bellboy", "rarity": "Standard", "image": "./assets/images/duckoo/bellboy-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-concierge", "name": "Concierge", "rarity": "Standard", "image": "./assets/images/duckoo/concierge-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-do-not-disturb", "name": "Do Not Disturb", "rarity": "Standard", "image": "./assets/images/duckoo/do-not-disturb-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-doorman", "name": "Doorman", "rarity": "Standard", "image": "./assets/images/duckoo/doorman-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-founder", "name": "Founder", "rarity": "Standard", "image": "./assets/images/duckoo/founder-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-fountain", "name": "Fountain", "rarity": "Secret", "image": "./assets/images/duckoo/fountain-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-lobby-boy", "name": "Lobby Boy", "rarity": "Standard", "image": "./assets/images/duckoo/lobby-boy-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-maid", "name": "Maid", "rarity": "Standard", "image": "./assets/images/duckoo/maid-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-rich-man", "name": "Rich Man", "rarity": "Standard", "image": "./assets/images/duckoo/rich-man-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-rich-woman", "name": "Rich Woman", "rarity": "Standard", "image": "./assets/images/duckoo/rich-woman-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-suitcase-kid", "name": "Suitcase Kid", "rarity": "Standard", "image": "./assets/images/duckoo/suitcase-kid-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-sunbed", "name": "Sunbed", "rarity": "Standard", "image": "./assets/images/duckoo/sunbed-the-grand-hotel.png" },
+        { "id": "duckoo-the-grand-hotel-traveler", "name": "Traveler", "rarity": "Standard", "image": "./assets/images/duckoo/traveler-the-grand-hotel.png" }
+      ]
+    },
+    {
+      "id": "duckoo-music-festival",
+      "name": "Music Festival",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "duckoo-music-festival-beerholic", "name": "Beerholic", "rarity": "Standard", "image": "./assets/images/duckoo/beerholic-music-festival.png" },
+        { "id": "duckoo-music-festival-classic", "name": "Classic", "rarity": "Standard", "image": "./assets/images/duckoo/classic-music-festival.png" },
+        { "id": "duckoo-music-festival-drummer", "name": "Drummer", "rarity": "Secret", "image": "./assets/images/duckoo/drummer-music-festival.png" },
+        { "id": "duckoo-music-festival-edm", "name": "EDM", "rarity": "Standard", "image": "./assets/images/duckoo/edm-music-festival.png" },
+        { "id": "duckoo-music-festival-flag", "name": "Flag", "rarity": "Standard", "image": "./assets/images/duckoo/flag-music-festival.png" },
+        { "id": "duckoo-music-festival-hiphop", "name": "Hip Hop", "rarity": "Standard", "image": "./assets/images/duckoo/hiphop-music-festival.png" },
+        { "id": "duckoo-music-festival-hippy-girl", "name": "Hippy Girl", "rarity": "Standard", "image": "./assets/images/duckoo/hippy-girl-music-festival.png" },
+        { "id": "duckoo-music-festival-k-pop", "name": "K-Pop", "rarity": "Standard", "image": "./assets/images/duckoo/k-pop-music-festival.png" },
+        { "id": "duckoo-music-festival-pop", "name": "Pop", "rarity": "Standard", "image": "./assets/images/duckoo/pop-music-festival.png" },
+        { "id": "duckoo-music-festival-rock", "name": "Rock", "rarity": "Standard", "image": "./assets/images/duckoo/rock-music-festival.png" }
+      ]
+    },
+    {
+      "id": "duckoo-farm",
+      "name": "Farm",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "duckoo-farm-beetroot", "name": "Beetroot", "rarity": "Standard", "image": "./assets/images/duckoo/beetroot-farm.png" },
+        { "id": "duckoo-farm-digger", "name": "Digger", "rarity": "Standard", "image": "./assets/images/duckoo/digger-farm.png" },
+        { "id": "duckoo-farm-farmer", "name": "Farmer", "rarity": "Standard", "image": "./assets/images/duckoo/farmer-farm.png" },
+        { "id": "duckoo-farm-gardener", "name": "Gardener", "rarity": "Standard", "image": "./assets/images/duckoo/gardener-farm.png" },
+        { "id": "duckoo-farm-lop-eared-rabbit", "name": "Lop Eared Rabbit", "rarity": "Standard", "image": "./assets/images/duckoo/lop-eared-rabbit-farm.png" },
+        { "id": "duckoo-farm-orange", "name": "Orange", "rarity": "Standard", "image": "./assets/images/duckoo/orange-farm.png" },
+        { "id": "duckoo-farm-peach", "name": "Peach", "rarity": "Standard", "image": "./assets/images/duckoo/peach-farm.png" },
+        { "id": "duckoo-farm-pig", "name": "Pig", "rarity": "Standard", "image": "./assets/images/duckoo/pig-farm.png" },
+        { "id": "duckoo-farm-potato", "name": "Potato", "rarity": "Standard", "image": "./assets/images/duckoo/potato-farm.png" },
+        { "id": "duckoo-farm-rice-sack", "name": "Rice Sack", "rarity": "Standard", "image": "./assets/images/duckoo/rice-sack-farm.png" },
+        { "id": "duckoo-farm-scarecrow", "name": "Scarecrow", "rarity": "Standard", "image": "./assets/images/duckoo/scarecrow-farm.png" },
+        { "id": "duckoo-farm-sprayer", "name": "Sprayer", "rarity": "Standard", "image": "./assets/images/duckoo/sprayer-farm.png" },
+        { "id": "duckoo-farm-wheelbarrow", "name": "Wheelbarrow", "rarity": "Secret", "image": "./assets/images/duckoo/wheelbarrow-farm.png" }
+      ]
+    }
+  ]
 }

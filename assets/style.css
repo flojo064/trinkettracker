@@ -505,6 +505,7 @@ main {
   border: 1px solid var(--border);
   transition: transform 140ms ease, border 140ms ease;
   min-width: 0;
+  cursor: pointer;
 }
 
 :root[data-theme='light'] .tt-card {

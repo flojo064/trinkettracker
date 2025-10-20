@@ -27,8 +27,7 @@
     "id": "duckoo",
     "name": "DUCKOO",
     "data": "./data/duckoo.json",
-    "featuredImage": "./assets/brand-previews/duckoo.png",
-    "tagline": "COMING SOON"
+    "featuredImage": "./assets/brand-previews/duckoo.png"
   },
   {
     "id": "sonny-angel",
