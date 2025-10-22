@@ -3,37 +3,64 @@
     "id": "space-molly",
     "name": "MEGA SPACE MOLLY",
     "data": "./data/space-molly.json",
-    "featuredImage": "./assets/brand-previews/space-molly.png"
+    "featuredImage": "./assets/brand-previews/space-molly.png",
+    "popularity": 87
   },
   {
     "id": "smiski",
     "name": "Smiski",
     "data": "./data/smiski.json",
-    "featuredImage": "./assets/brand-previews/smiski.png"
+    "featuredImage": "./assets/brand-previews/smiski.png",
+    "popularity": 90
+  },
+  {
+    "id": "skullpanda",
+    "name": "SkullPanda",
+    "data": "./data/skullpanda.json",
+    "featuredImage": "./assets/brand-previews/skullpanda.png",
+    "popularity": 86
   },
   {
     "id": "nyota",
     "name": "NYOTA",
     "data": "./data/nyota.json",
-    "featuredImage": "./assets/brand-previews/nyota.png"
+    "featuredImage": "./assets/brand-previews/nyota.png",
+    "popularity": 85
   },
   {
     "id": "oipippi",
     "name": "OIPIPPI",
     "data": "./data/oipippi.json",
-    "featuredImage": "./assets/brand-previews/oipippi.png"
+    "featuredImage": "./assets/brand-previews/oipippi.png",
+    "popularity": 80
   },
   {
     "id": "duckoo",
     "name": "DUCKOO",
     "data": "./data/duckoo.json",
-    "featuredImage": "./assets/brand-previews/duckoo.png"
+    "featuredImage": "./assets/brand-previews/duckoo.png",
+    "popularity": 81
   },
   {
     "id": "sonny-angel",
     "name": "Sonny Angel",
     "data": "./data/sonny-angel.json",
     "featuredImage": "./assets/brand-previews/sonny-angel.png",
+    "tagline": "COMING SOON",
+    "popularity": 70
+  },
+  {
+    "id": "farmer-bob",
+    "name": "Farmer Bob",
+    "data": "./data/farmer-bob.json",
+    "featuredImage": "./assets/brand-previews/farmer-bob.png",
+    "tagline": "COMING SOON"
+  },
+  {
+    "id": "mr-bone",
+    "name": "Mr Bone",
+    "data": "./data/mr-bone.json",
+    "featuredImage": "./assets/brand-previews/mr-bone.png",
     "tagline": "COMING SOON"
   }
 ]
