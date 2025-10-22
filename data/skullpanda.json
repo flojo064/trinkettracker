@@ -1,0 +1,439 @@
+{
+  "brand": {
+    "id": "skullpanda",
+    "name": "SkullPanda"
+  ,
+    "palette": [
+      "#FBCFE8",
+      "#60A5FA",
+      "#F5F3F1"
+    ]
+  },
+  "series": [
+    {
+      "id": "skullpanda-tell-me-what-you-want",
+      "name": "Tell Me What You Want",
+      "release": "",
+      "description": "",
+      "palette": [
+        "#F3B0B0",
+        "#9B2C2C",
+        "#FFF5F5"
+      ],
+      "items": [
+        {
+          "id": "skullpanda-as-i-wish",
+          "name": "As I Wish",
+          "rarity": "Secret",
+          "image": "./assets/images/skullpanda/as-i-wish-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-baking-best-wishes",
+          "name": "Baking Best Wishes",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/baking-best-wishes-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-fun-ride",
+          "name": "Fun Ride",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/fun-ride-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-getting-dressed",
+          "name": "Getting Dressed",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/getting-dressed-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-home-alone",
+          "name": "Home Alone",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/home-alone-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-jingle-all-the-way-green",
+          "name": "Jingle All The Way Green",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/jingle-all-the-way-green-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-jingle-all-the-way-red",
+          "name": "Jingle All The Way Red",
+          "rarity": "Secret",
+          "image": "./assets/images/skullpanda/jingle-all-the-way-red-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-let-it-snow",
+          "name": "Let It Snow",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/let-it-snow-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-on-schedule",
+          "name": "On Schedule",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/on-schedule-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-still-on-the-job",
+          "name": "Still On The Job",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/still-on-the-job-tell-me-what-you-want.png"
+        },
+        {
+          "id": "skullpanda-sweetest-rebel",
+          "name": "Sweetest Rebel",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/sweetest-rebel-tell-me-what-you-want.png"
+        }
+      ]
+    },
+    {
+      "id": "skullpanda-warmth",
+      "name": "Warmth",
+      "release": "",
+      "description": "",
+      "palette": [
+        "#FBCFE8",
+        "#BE185D",
+        "#FFF1F6"
+      ],
+      "items": [
+        {
+          "id": "skullpanda-chirping",
+          "name": "Chirping",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/chirping-warmth.png"
+        },
+        {
+          "id": "skullpanda-doodling",
+          "name": "Doodling",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/doodling-warmth.png"
+        },
+        {
+          "id": "skullpanda-enjoy-oneself",
+          "name": "Enjoy Oneself",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/enjoy-oneself-warmth.png"
+        },
+        {
+          "id": "skullpanda-loosening",
+          "name": "Loosening",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/loosening-warmth.png"
+        },
+        {
+          "id": "skullpanda-mind-with-the-wind",
+          "name": "Mind With The Wind",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/mind-with-the-wind-warmth.png"
+        },
+        {
+          "id": "skullpanda-recall-the-past",
+          "name": "Recall The Past",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/recall-the-past-warmth.png"
+        },
+        {
+          "id": "skullpanda-taste-from-the-memory",
+          "name": "Taste From The Memory",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/taste-fromthe-memory-warmth.png"
+        },
+        {
+          "id": "skullpanda-the-day-off",
+          "name": "The Day Off",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/the-day-off-warmth.png"
+        },
+        {
+          "id": "skullpanda-the-encounter",
+          "name": "The Encounter",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/the-encounter-warmth.png"
+        },
+        {
+          "id": "skullpanda-the-raining-day",
+          "name": "The Raining Day",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/the-raining-day-warmth.png"
+        },
+        {
+          "id": "skullpanda-the-scent",
+          "name": "The Scent",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/the-scent-warmth.png"
+        },
+        {
+          "id": "skullpanda-the-warmth",
+          "name": "The Warmth",
+          "rarity": "Secret",
+          "image": "./assets/images/skullpanda/warmth-contained/the-warmth-warmth.png"
+        },
+        {
+          "id": "skullpanda-wandering",
+          "name": "Wandering",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/warmth-contained/wandering-warmth.png"
+        }
+      ]
+    },
+    {
+      "id": "skullpanda-the-sound",
+      "name": "The Sound",
+      "release": "",
+      "description": "",
+      "palette": [
+        "#8B5CF6",
+        "#5B21B6",
+        "#EDE9FE"
+      ],
+      "items": [
+        {
+          "id": "skullpanda-the-admiration",
+          "name": "The Admiration",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-admiration-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-anger",
+          "name": "The Anger",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-anger-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-awe",
+          "name": "The Awe",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-awe-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-disgust",
+          "name": "The Disgust",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-disgust-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-ecstasy",
+          "name": "The Ecstasy",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-ecstasy-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-equilibrium",
+          "name": "The Equilibrium",
+          "rarity": "Secret",
+          "image": "./assets/images/skullpanda/the-equilibrium-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-grief",
+          "name": "The Grief",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-grief-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-joy",
+          "name": "The Joy",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-joy-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-pensiveness",
+          "name": "The Pensiveness",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-pensiveness-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-serenity",
+          "name": "The Serenity",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-serenity-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-terror",
+          "name": "The Terror",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-terror-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-trust",
+          "name": "The Trust",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-trust-the-sound.png"
+        },
+        {
+          "id": "skullpanda-the-vigilance",
+          "name": "The Vigilance",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-vigilance-the-sound.png"
+        }
+      ]
+    },
+    {
+      "id": "skullpanda-image-of-reality",
+      "name": "Image Of Reality",
+      "release": "",
+      "description": "",
+      "palette": [
+        "#8B5E3C",
+        "#5C3911",
+        "#F5F3F1"
+      ],
+      "items": [
+        {
+          "id": "skullpanda-the-anti-gravity",
+          "name": "The Anti Gravity",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-anti-gravity-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-constraint",
+          "name": "The Constraint",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-constraint-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-disguise",
+          "name": "The Disguise",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-disguise-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-duality-black",
+          "name": "The Duality Black",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-duality-black-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-duality-white",
+          "name": "The Duality White",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-duality-white-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-imagination",
+          "name": "The Imagination",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-imagination-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-merchant",
+          "name": "The Merchant",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-merchant-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-onlooker",
+          "name": "The Onlooker",
+          "rarity": "Secret",
+          "image": "./assets/images/skullpanda/the-onlooker-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-paradox",
+          "name": "The Paradox",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-paradox-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-philosophy",
+          "name": "The Philosophy",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-philosophy-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-pivot",
+          "name": "The Pivot",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-pivot-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-soar",
+          "name": "The Soar",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-soar-image-of-reality.png"
+        },
+        {
+          "id": "skullpanda-the-timelapse",
+          "name": "The Timelapse",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-timelapse-image-of-reality.png"
+        }
+      ]
+    },
+    {
+      "id": "skullpanda-the-mirage",
+      "name": "The Mirage",
+      "release": "",
+      "description": "",
+      "palette": [
+        "#60A5FA",
+        "#1E40AF",
+        "#E6F0FF"
+      ],
+      "items": [
+        {
+          "id": "skullpanda-the-butterfly-dream",
+          "name": "The Butterfly Dream",
+          "rarity": "Secret",
+          "image": "./assets/images/skullpanda/the-butterfly-dream-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-carousel-lantern",
+          "name": "The Carousel Lantern",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-carousel-lantern-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-frame",
+          "name": "The Frame",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-frame-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-ghanta",
+          "name": "The Ghanta",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-ghanta-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-hill-censer",
+          "name": "The Hill Censer",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-hill-censer-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-konghou",
+          "name": "The Konghou",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-konghou-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-pan-flute",
+          "name": "The Pan Flute",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-pan-flute-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-pricket",
+          "name": "The Pricket",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-pricket-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-puppetry",
+          "name": "The Puppetry",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-puppetry-the-mirage.png"
+        },
+        {
+          "id": "skullpanda-the-skeleton-fantasy-show",
+          "name": "The Skeleton Fantasy Show",
+          "rarity": "Standard",
+          "image": "./assets/images/skullpanda/the-skeleton-fantasy-show-the-mirage.png"
+        }
+      ]
+    }
+  ]
+}

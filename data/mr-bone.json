@@ -1,0 +1,17 @@
+{
+  "id": "mr-bone",
+  "name": "Mr Bone",
+  "series": [
+    {
+      "id": "series-1",
+      "name": "Series 1",
+      "items": [
+        {
+          "id": "mr-bone-1",
+          "name": "Mr Bone",
+          "image": "./assets/images/mr-bone.png"
+        }
+      ]
+    }
+  ]
+}

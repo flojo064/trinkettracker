@@ -1,0 +1,17 @@
+{
+  "id": "farmer-bob",
+  "name": "Farmer Bob",
+  "series": [
+    {
+      "id": "series-1",
+      "name": "Series 1",
+      "items": [
+        {
+          "id": "farmer-bob-1",
+          "name": "Farmer Bob",
+          "image": "./assets/images/farmer-bob.png"
+        }
+      ]
+    }
+  ]
+}

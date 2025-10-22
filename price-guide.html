@@ -1,0 +1,309 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TrinketTracker | Add a Community Price</title>
+  <meta name="description" content="Quick form to share a community price with TrinketTracker." />
+  <link rel="stylesheet" href="assets/style.css" />
+  <style>
+    body {
+      background: var(--surface-strong);
+      color: var(--text);
+      font-family: 'Space Grotesk', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      margin: 0;
+    }
+    main {
+      max-width: 520px;
+      margin: 0 auto;
+      padding: clamp(32px, 6vw, 64px) clamp(16px, 6vw, 40px);
+      display: grid;
+      gap: 24px;
+    }
+    a {
+      color: var(--accent);
+    }
+    .tt-guideCard {
+      border-radius: 18px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      padding: clamp(20px, 4vw, 28px);
+      display: grid;
+      gap: 18px;
+    }
+    .tt-guide__back {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.9rem;
+    }
+    .tt-form {
+      display: grid;
+      gap: 18px;
+    }
+    .tt-field {
+      display: grid;
+      gap: 6px;
+    }
+    .tt-field label {
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-soft);
+    }
+    .tt-field input,
+    .tt-field textarea,
+    .tt-field select {
+      font: inherit;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      padding: 12px;
+      background: var(--surface-strong);
+      color: var(--text);
+    }
+    .tt-field input:focus-visible,
+    .tt-field textarea:focus-visible,
+    .tt-field select:focus-visible {
+      outline: 2px solid rgba(99, 102, 241, 0.4);
+      outline-offset: 2px;
+    }
+    .tt-submit {
+      display: inline-flex;
+      justify-content: center;
+      gap: 10px;
+      padding: 12px 18px;
+      border-radius: 12px;
+      background: rgba(99, 102, 241, 0.18);
+      border: 1px solid rgba(99, 102, 241, 0.4);
+      color: inherit;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 140ms ease, background 140ms ease, border 140ms ease;
+    }
+    .tt-submit:hover,
+    .tt-submit:focus-visible {
+      transform: translateY(-1px);
+      background: rgba(99, 102, 241, 0.28);
+      border-color: rgba(99, 102, 241, 0.55);
+    }
+    .tt-note {
+      font-size: 0.85rem;
+      color: var(--text-soft);
+    }
+    .tt-success {
+      display: none;
+      padding: 14px;
+      border-radius: 12px;
+      background: rgba(74, 222, 128, 0.12);
+      border: 1px solid rgba(74, 222, 128, 0.35);
+      color: #4ade80;
+      font-size: 0.9rem;
+    }
+    .tt-success.is-visible {
+      display: block;
+    }
+    .tt-summary {
+      font-size: 0.9rem;
+      color: var(--text-soft);
+      background: rgba(148, 163, 184, 0.12);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <a class="tt-guide__back" href="./">
+      &larr; Back to TrinketTracker
+    </a>
+    <section class="tt-guideCard">
+      <h1>Add a Community Price</h1>
+      <p class="tt-note">
+        Spot a recent sale? Share the price so other collectors can track the market. Type what you paid or saw (fees excluded if possible) and hit submit.
+      </p>
+      <div class="tt-success" id="tt-success">
+        Thanks! Your price is saved locally. Refresh the checklist to see the updated average.
+      </div>
+      <div class="tt-summary" id="tt-summary"></div>
+      <form class="tt-form" id="tt-form" novalidate>
+        <div class="tt-field">
+          <label for="item">Checklist Item</label>
+          <input id="item" name="item" type="text" readonly />
+        </div>
+        <div class="tt-field">
+          <label for="price">Price (numbers only)</label>
+          <input id="price" name="price" type="number" inputmode="decimal" step="0.01" min="0" placeholder="e.g. 42.50" required />
+        </div>
+        <button class="tt-submit" type="submit">Submit price</button>
+      </form>
+    </section>
+  </main>
+
+  <script>
+    // Make the back link return to previous page when possible
+    (function(){
+      const backLink = document.querySelector('.tt-guide__back');
+      if (!backLink) return;
+      backLink.addEventListener('click', function(ev){
+        if (window.history && window.history.length > 1) {
+          ev.preventDefault();
+          try { window.history.back(); } catch (e) { window.location.href = './'; }
+        }
+      });
+    })();
+  </script>
+
+  <script>
+    (function() {
+      const STORAGE_KEY = "tt-community-prices";
+      const params = new URLSearchParams(window.location.search);
+      const initialItemId = (params.get("item") || "").trim();
+      const itemField = document.getElementById("item");
+      if (itemField) {
+        if (initialItemId) {
+          itemField.value = initialItemId;
+          itemField.readOnly = true;
+        } else {
+          itemField.value = "";
+          itemField.removeAttribute("readonly");
+          itemField.placeholder = "Enter checklist item id";
+        }
+      }
+
+      const getItemId = () => (itemField ? itemField.value.trim() : initialItemId);
+
+      const summaryEl = document.getElementById("tt-summary");
+      const successEl = document.getElementById("tt-success");
+
+      const sanitizeValues = (values) =>
+        (Array.isArray(values) ? values : [])
+          .map((value) => Number.parseFloat(value))
+          .filter((num) => Number.isFinite(num) && num > 0);
+
+      const loadData = () => {
+        try {
+          const raw = window.localStorage.getItem(STORAGE_KEY);
+          if (!raw) return {};
+          const parsed = JSON.parse(raw);
+          return parsed && typeof parsed === "object" ? parsed : {};
+        } catch (error) {
+          console.warn("Unable to read community prices", error);
+          return {};
+        }
+      };
+
+      const saveData = (data) => {
+        try {
+          window.localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+        } catch (error) {
+          console.warn("Unable to store community prices", error);
+        }
+      };
+
+      const formatCurrency = (value, currency = "USD") => {
+        try {
+          return new Intl.NumberFormat("en-US", {
+            style: "currency",
+            currency,
+            maximumFractionDigits: value < 50 ? 2 : 0
+          }).format(value);
+        } catch (error) {
+          return `$${value.toFixed(2)}`;
+        }
+      };
+
+      const formatStamp = (value) => {
+        if (!value) return "";
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) return "";
+        return date.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+      };
+
+      const updateSummary = () => {
+        if (!summaryEl) return;
+        if (!getItemId()) {
+          summaryEl.textContent = "Pick a figure first, then add a community price.";
+          return;
+        }
+        const data = loadData();
+        const currentId = getItemId();
+        const entry = data[currentId];
+        const values = sanitizeValues(entry?.values || entry);
+        if (!values.length) {
+          summaryEl.textContent = "No community prices yet. Be the first to add one.";
+          return;
+        }
+        const total = values.reduce((sum, price) => sum + price, 0);
+        const average = total / values.length;
+        const currency = entry?.currency || "USD";
+        const formatted = formatCurrency(average, currency);
+        const stamp = formatStamp(entry?.lastUpdated);
+        summaryEl.textContent = `${formatted} average from ${values.length} share${values.length === 1 ? "" : "s"}${stamp ? ` | Updated ${stamp}` : ""}.`;
+      };
+
+      if (itemField && !initialItemId) {
+        itemField.addEventListener("input", () => {
+          if (successEl) successEl.classList.remove("is-visible");
+          updateSummary();
+        });
+      }
+
+      const appendPrice = (id, rawValue) => {
+        if (!id) return;
+        const value = Number.parseFloat(rawValue);
+        if (!Number.isFinite(value) || value <= 0) return;
+        const rounded = Math.round(value * 100) / 100;
+        const data = loadData();
+        const existing = data[id] && typeof data[id] === "object" ? data[id] : {};
+        const values = sanitizeValues(existing.values);
+        values.push(rounded);
+        data[id] = {
+          values,
+          currency: existing.currency || "USD",
+          lastUpdated: new Date().toISOString()
+        };
+        saveData(data);
+        updateSummary();
+        if (successEl) {
+          successEl.classList.add("is-visible");
+          successEl.textContent = `Saved ${formatCurrency(rounded)}. Thanks for contributing!`;
+        }
+      };
+
+      const form = document.getElementById("tt-form");
+      if (!form) return;
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const currentId = getItemId();
+        if (!currentId) {
+          if (itemField) {
+            itemField.focus();
+          }
+          return;
+        }
+        const priceValue = form.price.value.trim();
+        if (!priceValue) {
+          form.price.focus();
+          return;
+        }
+        appendPrice(currentId, priceValue);
+        form.price.value = "";
+      });
+
+      updateSummary();
+    }());
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
