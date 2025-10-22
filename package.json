@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/flojo064/trinkettracker#readme",
   "dependencies": {
-    "playwright": "^1.56.1"
+    "jimp": "^0.22.10",
+    "playwright": "^1.56.1",
+    "sharp": "^0.34.4"
   }
 }

@@ -3,7 +3,7 @@
     "id": "smiski",
     "name": "Smiski",
     "tagline": "Glow-in-the-dark mystery roommates",
-    "description": "Keep tabs on every tiny Smiski.",
+    "description": "Adding a little glow, subtracting a lot of dough.",
     "palette": [
       "#1f6f4d",
       "#0c2f23",
@@ -17,6 +17,7 @@
       "name": "Series 1",
       "release": "",
       "description": "",
+  "palette": ["#E6F8E6","#7FC78A","#0D3020"],
       "items": [
         {
           "id": "smiski-series-1-hiding",
@@ -146,6 +147,7 @@
       "name": "Series 2",
       "release": "",
       "description": "",
+  "palette": ["#F2B37A","#A35412","#2B1608"],
       "items": [
         {
           "id": "smiski-series-2-climbing",
@@ -242,6 +244,7 @@
       "name": "Series 3",
       "release": "",
       "description": "",
+  "palette": ["#E6D9FF","#7B59D9","#1E1436"],
       "items": [
         {
           "id": "smiski-series-3-bridge",
@@ -326,6 +329,7 @@
       "name": "Series 4",
       "release": "",
       "description": "",
+  "palette": ["#F7C6E0","#D67AAE","#2F0D24"],
       "items": [
         {
           "id": "smiski-series-4-defeated",
@@ -404,6 +408,7 @@
       "name": "Toilet Series",
       "release": "",
       "description": "",
+  "palette": ["#CFF3F0","#3AB0A3","#083B36"],
       "items": [
         {
           "id": "smiski-toilet-series-helping-out",
@@ -482,6 +487,7 @@
       "name": "Bath Series",
       "release": "",
       "description": "",
+  "palette": ["#E6F8FF","#86D0FF","#0C3B50"],
       "items": [
         {
           "id": "smiski-bath-series-dazed",
@@ -560,6 +566,7 @@
       "name": "Living Series",
       "release": "",
       "description": "",
+  "palette": ["#F6B6B6","#C24B4B","#3A1313"],
       "items": [
         {
           "id": "smiski-living-series-daydreaming",
@@ -640,6 +647,7 @@
       "name": "Bed Series",
       "release": "",
       "description": "",
+  "palette": ["#D7DBFF","#6F6FE6","#1B1840"],
       "items": [
         {
           "id": "smiski-bed-series-at-sleep",
@@ -718,6 +726,7 @@
       "name": "Yoga Series",
       "release": "",
       "description": "",
+  "palette": ["#FFE8C2","#E08A3B","#301E0C"],
       "items": [
         {
           "id": "smiski-yoga-series-lotus-pose",
@@ -796,6 +805,7 @@
       "name": "Cheer Series",
       "release": "",
       "description": "",
+  "palette": ["#D7E9FF","#3A78D4","#0C2A4A"],
       "items": [
         {
           "id": "smiski-cheer-series-little-cheerleading",
@@ -874,6 +884,7 @@
       "name": "Museum Series",
       "release": "",
       "description": "",
+  "palette": ["#F5B0B0","#B33A3A","#2B0D0D"],
       "items": [
         {
           "id": "smiski-museum-series-bacchus",
@@ -952,6 +963,7 @@
       "name": "Work Series",
       "release": "",
       "description": "",
+  "palette": ["#DFF7E3","#4A9B4A","#0F2A12"],
       "items": [
         {
           "id": "smiski-work-series-little-group-think",
@@ -1030,6 +1042,7 @@
       "name": "Dressing Series",
       "release": "",
       "description": "",
+  "palette": ["#FFD7B0","#D9733A","#3A2312"],
       "items": [
         {
           "id": "smiski-dressing-series-loose-pants",
@@ -1108,6 +1121,7 @@
       "name": "Exercising Series",
       "release": "",
       "description": "",
+  "palette": ["#FFD6E6","#D46A94","#3B1020"],
       "items": [
         {
           "id": "smiski-exercise-series-little-balance",
@@ -1193,6 +1207,7 @@
       "name": "Moving Series",
       "release": "",
       "description": "",
+  "palette": ["#8ECFC1","#2E9F9A","#083D3A"],
       "items": [
         {
           "id": "smiski-moving-series-green-thumb",
@@ -1271,6 +1286,7 @@
       "name": "Sunday Series",
       "release": "",
       "description": "",
+  "palette": ["#F2C9F6","#B07BCF","#2B1033"],
       "items": [
         {
           "id": "smiski-sunday-series-blowing-bubbles",
@@ -1349,6 +1365,7 @@
       "name": "Hippers",
       "release": "",
       "description": "",
+  "palette": ["#FFF3B0","#D4B32B","#30280B"],
       "items": [
         {
           "id": "smiski-hippers-smartphone",
