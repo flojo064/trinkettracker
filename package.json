@@ -4,7 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape-prices": "node scrape-ebay-prices.js",
+    "scrape-prices-headless": "node scrape-ebay-prices.js --headless",
+    "scrape-sonny-angel": "node scrape-sonny-angel.js",
+    "scrape-sonny-angel-series": "node scrape-sonny-angel.js --series=",
+    "process-sonny-backgrounds": "node scripts/process-sonny-angel-backgrounds.js",
+    "process-sonny-series": "node scripts/process-sonny-angel-backgrounds.js --series="
   },
   "repository": {
     "type": "git",

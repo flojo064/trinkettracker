@@ -2,7 +2,7 @@
   "brand": {
     "id": "space-molly",
     "name": "MEGA SPACE MOLLY",
-    "description": "Record your Space Molly pulls.",
+    "description": "Houston, you have a problem.",
     "palette": [
       "#6366f1",
       "#312e81",
@@ -857,7 +857,7 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/snake-white.png"
+          "image": "./assets/images/space-molly/snake-white-limited.png"
         },
         {
           "id": "space-molly-snake-red",
@@ -868,7 +868,7 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/snake-red.png"
+          "image": "./assets/images/space-molly/snake-red-limited.png"
         },
         {
           "id": "space-molly-refraction",
@@ -879,7 +879,7 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/refraction.png"
+          "image": "./assets/images/space-molly/refraction-limited.png"
         },
         {
           "id": "space-molly-seaweed-bts",
@@ -890,7 +890,7 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/seaweed-bts.png"
+          "image": "./assets/images/space-molly/seaweed-bts-limited.png"
         },
         {
           "id": "space-molly-mickey-and-minnie",
@@ -901,7 +901,7 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/mickey-and-minnie.png"
+          "image": "./assets/images/space-molly/mickey-and-minnie-limited.png"
         },
         {
           "id": "space-molly-donald-and-daisy-duck",
@@ -912,7 +912,7 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/donald-and-daisy-duck.png"
+          "image": "./assets/images/space-molly/donald-and-daisy-duck-limited.png"
         },
         {
           "id": "space-molly-clot-olive-alienegra",
@@ -923,7 +923,7 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/clot-olive-alienegra.png"
+          "image": "./assets/images/space-molly/clot-olive-alienegra-limited.png"
         },
         {
           "id": "space-molly-charlie-brown-and-snoopy",
@@ -934,7 +934,7 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/charlie-brown-and-snoopy.png"
+          "image": "./assets/images/space-molly/charlie-brown-and-snoopy-limited.png"
         },
         {
           "id": "space-molly-yves-saint-laurent-2022",
@@ -945,7 +945,543 @@
             "#312e81",
             "#1f2937"
           ],
-          "image": "./assets/images/space-molly/yves-saint-laurent-2022.png"
+          "image": "./assets/images/space-molly/yves-saint-laurent-2022-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-1-2019",
+          "name": "Alien Molly No.1 2019",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-1-2019-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-2-2019",
+          "name": "Alien Molly No.2 2019",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-2-2019-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-3-2019",
+          "name": "Alien Molly No.3 2019",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-3-2019-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-4-2019",
+          "name": "Alien Molly No.4 2019",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-4-2019-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-5-2020",
+          "name": "Alien Molly No.5 2020",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-5-2020-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-6-2014",
+          "name": "Alien Molly No.6 2014",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-6-2014-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-7-2021",
+          "name": "Alien Molly No.7 2021",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-7-2021-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-9",
+          "name": "Alien Molly No.9",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-9-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-no-10-2021",
+          "name": "Alien Molly No.10 2021",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-no-10-2021-limited.png"
+        },
+        {
+          "id": "space-molly-alien-molly-obsidian",
+          "name": "Alien Molly Obsidian",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/alien-molly-obsidian-limited.png"
+        },
+        {
+          "id": "space-molly-balmain-2024",
+          "name": "Balmain 2024",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/balmain-2024-limited edition.png"
+        },
+        {
+          "id": "space-molly-china-womens-national-basketball-team-red-2024",
+          "name": "China Women's National Basketball Team Red 2024",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/china-womens-national-basketball-team-red-2024-limited.png"
+        },
+        {
+          "id": "space-molly-china-womens-national-basketball-team-white-2024",
+          "name": "China Women's National Basketball Team White 2024",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/china-womens-national-basketball-team-white-2024-limited.png"
+        },
+        {
+          "id": "space-molly-chip-and-dale",
+          "name": "Chip and Dale",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/chip-and-dale-limited.png"
+        },
+        {
+          "id": "space-molly-dreaming-of-inner-mind-2024",
+          "name": "Dreaming of Inner Mind 2024",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/dreaming-of-inner-mind-2024-limited.png"
+        },
+        {
+          "id": "space-molly-edg-knight-2021",
+          "name": "EDG Knight 2021",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/edg-knight-2021-limited.png"
+        },
+        {
+          "id": "space-molly-galactic-aerospace-2024",
+          "name": "Galactic Aerospace 2024",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/galactic-aerospace-2024-limited.png"
+        },
+        {
+          "id": "space-molly-laliga-series-athletic-club-2023",
+          "name": "LaLiga Series Athletic Club 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/laliga-series-athletic-club-2023-limited.png"
+        },
+        {
+          "id": "space-molly-laliga-series-atletico-de-madrid-2023",
+          "name": "LaLiga Series Atletico de Madrid 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/laliga-series-atletico-de-madrid-2023-limited.png"
+        },
+        {
+          "id": "space-molly-laliga-series-fc-barcelona-2023",
+          "name": "LaLiga Series FC Barcelona 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/laliga-series-fc-barcelona-2023-limited.png"
+        },
+        {
+          "id": "space-molly-laliga-series-real-betis-2023",
+          "name": "LaLiga Series Real Betis 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/laliga-series-real-betis-2023-limited.png"
+        },
+        {
+          "id": "space-molly-laliga-series-real-madrid-2023",
+          "name": "LaLiga Series Real Madrid 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/laliga-series-real-madrid-2023-limited.png"
+        },
+        {
+          "id": "space-molly-laliga-series-real-sociedad-2023",
+          "name": "LaLiga Series Real Sociedad 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/laliga-series-real-sociedad-2023-limited.png"
+        },
+        {
+          "id": "space-molly-laliga-series-sevilla-fc-2023",
+          "name": "LaLiga Series Sevilla FC 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/laliga-series-sevilla-fc-2023-limited.png"
+        },
+        {
+          "id": "space-molly-laliga-series-villarreal-cf-2023",
+          "name": "LaLiga Series Villarreal CF 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/laliga-series-villarreal-cf-2023-limited.png"
+        },
+        {
+          "id": "space-molly-nba-boston-celtics-2023",
+          "name": "NBA Boston Celtics 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/nba-boston-celtics-2023-limited.png"
+        },
+        {
+          "id": "space-molly-nba-denver-nuggets-2023",
+          "name": "NBA Denver Nuggets 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/nba-denver-nuggets-2023-limited.png"
+        },
+        {
+          "id": "space-molly-nba-finals-commemorative-2023",
+          "name": "NBA Finals Commemorative 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/nba-finals-commemorative-2023-limited.png"
+        },
+        {
+          "id": "space-molly-nba-los-angeles-lakers-2023",
+          "name": "NBA Los Angeles Lakers 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/nba-los-angeles-lakers-2023-limited.png"
+        },
+        {
+          "id": "space-molly-nba-miami-heat-2023",
+          "name": "NBA Miami Heat 2023",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/nba-miami-heat-2023-limited.png"
+        },
+        {
+          "id": "space-molly-sweetie-2024-macau",
+          "name": "Sweetie 2024 Macau",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/sweetie-2024-macau-limited.png"
+        },
+        {
+          "id": "space-molly-wuzhen-theatre-festival",
+          "name": "Wuzhen Theatre Festival",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/wuzhen-theatre-festival-limited.png"
+        },
+        {
+          "id": "space-molly-zootopia-crazy-animals",
+          "name": "Zootopia Crazy Animals",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/zootopia-crazy-animals-limited.png"
+        }
+      ]
+    },
+    {
+      "id": "space-molly-blooming",
+      "name": "Blooming",
+      "release": "",
+      "description": "National flowers from around the world",
+      "items": [
+        {
+          "id": "space-molly-anggrek-bulan-indonesia",
+          "name": "Anggrek Bulan (Indonesia)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/anggrek-bulan-indonesia-blooming.png"
+        },
+        {
+          "id": "space-molly-cyathea-dealbata-new-zealand",
+          "name": "Cyathea Dealbata (New Zealand)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/cyathea-dealbata-new-zealand-blooming.png"
+        },
+        {
+          "id": "space-molly-fleur-de-lys-france",
+          "name": "Fleur-de-lys (France)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/fleur-de-lys-france-blooming.png"
+        },
+        {
+          "id": "space-molly-golden-wattle-australia",
+          "name": "Golden Wattle (Australia)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/golden-wattle-australia-blooming.png"
+        },
+        {
+          "id": "space-molly-hibiscus-malaysia",
+          "name": "Hibiscus (Malaysia)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/hibiscus-malaysia-blooming.png"
+        },
+        {
+          "id": "space-molly-lotus-vietnam",
+          "name": "Lotus (Vietnam)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/lotus-vietnam-blooming.png"
+        },
+        {
+          "id": "space-molly-maple-leaf-canada",
+          "name": "Maple Leaf (Canada)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/maple-leaf-canada-blooming.png"
+        },
+        {
+          "id": "space-molly-orchid-thailand",
+          "name": "Orchid (Thailand)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/orchid-thailand-blooming.png"
+        },
+        {
+          "id": "space-molly-peony-china",
+          "name": "Peony (China)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/peony-china-blooming.png"
+        },
+        {
+          "id": "space-molly-rose-usa",
+          "name": "Rose (USA)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/rose-usa-blooming.png"
+        },
+        {
+          "id": "space-molly-sakura-japan",
+          "name": "Sakura (Japan)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/sakura-japan-blooming.png"
+        },
+        {
+          "id": "space-molly-sampaguita-philippines",
+          "name": "Sampaguita (Philippines)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/sampaguita-philippines-blooming.png"
+        },
+        {
+          "id": "space-molly-tudor-rose-uk",
+          "name": "Tudor Rose (UK)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/tudor-rose-uk-blooming.png"
+        },
+        {
+          "id": "space-molly-tulip-the-netherlands",
+          "name": "Tulip (The Netherlands)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/tulip-the-netherlands-blooming.png"
+        },
+        {
+          "id": "space-molly-vanda-miss-joaquim-singapore",
+          "name": "Vanda Miss Joaquim (Singapore)",
+          "rarity": "Standard",
+          "palette": [
+            "#6366f1",
+            "#312e81",
+            "#1f2937"
+          ],
+          "image": "./assets/images/space-molly/vanda-miss-joaquim-singapore-blooming.png"
         }
       ]
     }

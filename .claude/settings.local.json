@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(where:*)",
+      "Bash(git checkout:*)",
+      "Bash(start python -m http.server 8000)",
+      "Bash(timeout /t 30 /nobreak)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

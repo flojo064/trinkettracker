@@ -2,7 +2,7 @@
   "brand": {
     "id": "nyota",
     "name": "NYOTA",
-    "description": "Track NYOTA pulls across series.",
+    "description": "NYOTA way you have that many!",
     "palette": [
       "#fbbf24",
       "#f59e0b",
@@ -71,6 +71,15 @@
         { "id": "nyota-i-am-the-seasons-life-of-leisure", "name": "Life of Leisure", "rarity": "Standard", "image": "./assets/images/nyota/life-of-leisure-i-am-the-seasons.png" },
         { "id": "nyota-i-am-the-seasons-cloudwatcher", "name": "Cloudwatcher", "rarity": "Standard", "image": "./assets/images/nyota/cloudwatcher-i-am-the-seasons.png" },
         { "id": "nyota-i-am-the-seasons-walking-into-spring", "name": "Walking into Spring", "rarity": "Secret", "image": "./assets/images/nyota/waiking-into-spring-i-am-the-seasons.png" }
+      ]
+    },
+    {
+      "id": "nyota-limited-editions",
+      "name": "Limited Editions",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "nyota-limited-editions-love-comes-with-the-wind", "name": "Love Comes with the Wind", "rarity": "Limited", "image": "./assets/images/nyota/love-comes-with-the-wind-limited-edition.png" }
       ]
     }
   ]

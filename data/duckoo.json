@@ -2,7 +2,7 @@
   "brand": {
     "id": "duckoo",
     "name": "DUCKOO",
-    "description": "Track DUCKOO pulls across series.",
+    "description": "They don't hatch... they multiply.",
     "palette": ["#60a5fa", "#1e3a8a", "#0b1220"]
   },
   "series": [
@@ -64,6 +64,16 @@
         { "id": "duckoo-farm-scarecrow", "name": "Scarecrow", "rarity": "Standard", "image": "./assets/images/duckoo/scarecrow-farm.png" },
         { "id": "duckoo-farm-sprayer", "name": "Sprayer", "rarity": "Standard", "image": "./assets/images/duckoo/sprayer-farm.png" },
         { "id": "duckoo-farm-wheelbarrow", "name": "Wheelbarrow", "rarity": "Secret", "image": "./assets/images/duckoo/wheelbarrow-farm.png" }
+      ]
+    },
+    {
+      "id": "duckoo-limited-editions",
+      "name": "Limited Editions",
+      "release": "",
+      "description": "",
+      "items": [
+        { "id": "duckoo-limited-editions-fountain-comic-con", "name": "Fountain Comic Con", "rarity": "Limited", "image": "./assets/images/duckoo/fountain-comic-con-limited-edition.png" },
+        { "id": "duckoo-limited-editions-turntable", "name": "Turntable", "rarity": "Limited", "image": "./assets/images/duckoo/turntable-limited-edition.png" }
       ]
     }
   ]

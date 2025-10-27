@@ -1,0 +1,1312 @@
+{
+  "duckoo-the-grand-hotel": {
+    "seriesName": "The Grand Hotel",
+    "items": {
+      "duckoo-the-grand-hotel-bellboy": {
+        "name": "Bellboy",
+        "avgPrice": 23.17,
+        "minPrice": 20,
+        "maxPrice": 26.5,
+        "listingCount": 3,
+        "rawListingCount": 3,
+        "mercariItems": [
+          {
+            "title": "POP MART Duckoo The Grand Duckoo Hotel Series Bellboy Figure",
+            "price": 26.5,
+            "url": "https://www.mercari.com/us/item/m61885637768/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "GRAND DUCKOO HOTEL- BELLBOY",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m32019192688/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo The Grand Duckoo Hotel Series Bellboy Figure SEALED!",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m86060033473/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:57:59.040Z"
+      },
+      "duckoo-the-grand-hotel-concierge": {
+        "name": "Concierge",
+        "avgPrice": 17.72,
+        "minPrice": 16,
+        "maxPrice": 19.44,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "duckoo hotel concierge",
+            "price": 19.44,
+            "url": "https://www.mercari.com/us/item/m68869020350/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "DUCKOO Concierge Grand Hotel Series Popmart Blindbox Collectible Toy",
+            "price": 16,
+            "url": "https://www.mercari.com/us/item/m97147502725/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:58:10.398Z"
+      },
+      "duckoo-the-grand-hotel-do-not-disturb": {
+        "name": "Do Not Disturb",
+        "avgPrice": 16,
+        "minPrice": 16,
+        "maxPrice": 16,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "The Grand Duckoo Hotel - ‘Do Not Disturb’",
+            "price": 16,
+            "url": "https://www.mercari.com/us/item/m77290411483/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:58:21.708Z"
+      },
+      "duckoo-the-grand-hotel-doorman": {
+        "name": "Doorman",
+        "avgPrice": 27.6,
+        "minPrice": 25.2,
+        "maxPrice": 30,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "POP MART The Grand DUCKOO Hotel Series - Doorman",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m89136395376/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Duckoo Hotel-Doorman",
+            "price": 25.2,
+            "url": "https://www.mercari.com/us/item/m62978694715/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:58:33.029Z"
+      },
+      "duckoo-the-grand-hotel-founder": {
+        "name": "Founder",
+        "avgPrice": 22.69,
+        "minPrice": 22,
+        "maxPrice": 23.75,
+        "listingCount": 4,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "POP MART Duckoo The Grand Duckoo Hotel Series Founder Figure",
+            "price": 23.75,
+            "url": "https://www.mercari.com/us/item/m50170451049/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart The Grand Duckoo Hotel - Founder",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m57948359027/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART The Grand Duckoo Hotel Founder Figurine SEALED",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m96383730800/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "PopMart DUCKOO Figure HOTEL SERIES: FOUNDER",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m80055293494/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:58:45.040Z"
+      },
+      "duckoo-the-grand-hotel-fountain": {
+        "name": "Fountain",
+        "avgPrice": 157,
+        "minPrice": 139,
+        "maxPrice": 175,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "Pop mart the grand duckoo hotel series (SECRET) fountain",
+            "price": 139,
+            "url": "https://www.mercari.com/us/item/m70131534306/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "* RARE * POP MART The Grand Duckoo Hotel Series Blind Box Fountain chase hidden",
+            "price": 175,
+            "url": "https://www.mercari.com/us/item/m73924014671/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:58:56.265Z"
+      },
+      "duckoo-the-grand-hotel-lobby-boy": {
+        "name": "Lobby Boy",
+        "avgPrice": 35,
+        "minPrice": 35,
+        "maxPrice": 35,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "The Grand Duckoo Hotel - Lobby Boy",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m29267052089/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:59:07.636Z"
+      },
+      "duckoo-the-grand-hotel-maid": {
+        "name": "Maid",
+        "avgPrice": 23.75,
+        "minPrice": 23.75,
+        "maxPrice": 23.75,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "POP MART Duckoo The Grand Duckoo Hotel Series Maid Figure",
+            "price": 23.75,
+            "url": "https://www.mercari.com/us/item/m78766229030/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:59:18.953Z"
+      },
+      "duckoo-the-grand-hotel-rich-man": {
+        "name": "Rich Man",
+        "avgPrice": 32.5,
+        "minPrice": 30,
+        "maxPrice": 35,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "The Grand Duckoo Hotel - Rich woman",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m22205655724/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "The Grand Duckoo Hotel Figures - Rich Man (unopened)",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m28207265847/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:59:29.650Z"
+      },
+      "duckoo-the-grand-hotel-rich-woman": {
+        "name": "Rich Woman",
+        "avgPrice": 24,
+        "minPrice": 17,
+        "maxPrice": 35,
+        "listingCount": 4,
+        "rawListingCount": 4,
+        "mercariItems": [
+          {
+            "title": "The Grand Duckoo Hotel - Rich woman",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m22205655724/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "NEW! UNOPENED! *CONFIRMED* Duckoo Hotel - Rich Woman",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m19304164011/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "The Grand Duckoo Hotel Figures - Rich Woman (unopened)",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m16368138708/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "DUCKOO Rich Woman Grand Hotel Series Popmart Blindbox Collectible Toy",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m16615548858/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:59:40.948Z"
+      },
+      "duckoo-the-grand-hotel-suitcase-kid": {
+        "name": "Suitcase Kid",
+        "avgPrice": 24.5,
+        "minPrice": 22,
+        "maxPrice": 27,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "Pop Mart The Grand Duckoo Hotel - Suitcase Kid",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m24375263255/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Grand Hotel Suitcase Kid Figure - New, unopened box!",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m36434667770/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T03:59:52.245Z"
+      },
+      "duckoo-the-grand-hotel-sunbed": {
+        "name": "Sunbed",
+        "avgPrice": 30,
+        "minPrice": 30,
+        "maxPrice": 30,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "NEW! UNOPENED! *CONFIRMED* “Sunbed” figurine from Grand Duckoo Hotel series",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m73775014667/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:00:03.203Z"
+      },
+      "duckoo-the-grand-hotel-traveler": {
+        "name": "Traveler",
+        "avgPrice": 26.25,
+        "minPrice": 23.75,
+        "maxPrice": 30,
+        "listingCount": 3,
+        "rawListingCount": 4,
+        "mercariItems": [
+          {
+            "title": "POP MART Duckoo The Grand Duckoo Hotel Series Traveler Figure",
+            "price": 23.75,
+            "url": "https://www.mercari.com/us/item/m46649695962/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "NEW! UNOPENED! *CONFIRMED* “Traveler” Figurine from Grand Duckoo Hotel series",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m51989722026/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "The Grand Duckoo Hotel Figures - Traveler (unopened)",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m28185107509/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:00:14.363Z"
+      }
+    }
+  },
+  "duckoo-music-festival": {
+    "seriesName": "Music Festival",
+    "items": {
+      "duckoo-music-festival-beerholic": {
+        "name": "Beerholic",
+        "avgPrice": 24.8,
+        "minPrice": 18,
+        "maxPrice": 31.59,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "Duckoo Music Festival -Beerholic",
+            "price": 31.59,
+            "url": "https://www.mercari.com/us/item/m17747433283/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Music Festival Series Figure - Beerholic",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m90901430029/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:00:25.711Z"
+      },
+      "duckoo-music-festival-classic": {
+        "name": "Classic",
+        "avgPrice": 20.42,
+        "minPrice": 14.25,
+        "maxPrice": 27,
+        "listingCount": 5,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "Duckoo Music Festival “Classic”",
+            "price": 14.25,
+            "url": "https://www.mercari.com/us/item/m67182571080/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART - Duckoo Music Festival - Classic",
+            "price": 19.85,
+            "url": "https://www.mercari.com/us/item/m37978875433/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "duckoo music festival “classic”",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m56789126668/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART DUCKOO Music Festival Blind Box Figure - Classic",
+            "price": 26,
+            "url": "https://www.mercari.com/us/item/m68612828209/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART DUCKOO MUSIC FESTIVAL — CLASSIC",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m53600516474/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:00:32.046Z"
+      },
+      "duckoo-music-festival-edm": {
+        "name": "EDM",
+        "avgPrice": 26,
+        "minPrice": 20,
+        "maxPrice": 35,
+        "listingCount": 3,
+        "rawListingCount": 3,
+        "mercariItems": [
+          {
+            "title": "EDM - DUCKOO Music Festival Series",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m70532160483/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Duckoo Music Festival Series Figures - EDM",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m91460441182/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "DUCKOO Music Festival Series EDM - POP MART",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m60961001417/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:00:55.490Z"
+      },
+      "duckoo-music-festival-flag": {
+        "name": "Flag",
+        "avgPrice": 18.17,
+        "minPrice": 11.98,
+        "maxPrice": 28.5,
+        "listingCount": 11,
+        "rawListingCount": 11,
+        "mercariItems": [
+          {
+            "title": "Duckoo Music Festival: Flag",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m23218734954/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART DUCKOO Music Festival Series FLAG",
+            "price": 17.17,
+            "url": "https://www.mercari.com/us/item/m96952334922/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Musical Festival - Flag",
+            "price": 16.24,
+            "url": "https://www.mercari.com/us/item/m84944065122/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart DUCKOO Music Festival Series - Flag",
+            "price": 16.57,
+            "url": "https://www.mercari.com/us/item/m29452459068/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival- Flag",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m69495953871/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo Music Festival - Flag",
+            "price": 11.98,
+            "url": "https://www.mercari.com/us/item/m56581425568/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival “Flag”",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m21365885389/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo music festival Flag",
+            "price": 14,
+            "url": "https://www.mercari.com/us/item/m11950661368/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart DUCKOO Music Festival Series - Flag",
+            "price": 14.4,
+            "url": "https://www.mercari.com/us/item/m91840798732/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival - Flag",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m29178746544/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart DUCKOO Music Festival Series Figure. FLAG",
+            "price": 28.5,
+            "url": "https://www.mercari.com/us/item/m60199570436/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:01:06.883Z"
+      },
+      "duckoo-music-festival-hiphop": {
+        "name": "Hip Hop",
+        "avgPrice": 25.68,
+        "minPrice": 12.86,
+        "maxPrice": 38,
+        "listingCount": 6,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "POP MART Duckoo Music Festival Hip-hop Ver.",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m72927785513/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival Figure - Hip Hop",
+            "price": 38,
+            "url": "https://www.mercari.com/us/item/m96426722996/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo music festival figure Pop Mart Hiphop Hip hop",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m80378719617/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival Popmart Figurine - Hip Hop",
+            "price": 23.22,
+            "url": "https://www.mercari.com/us/item/m22015082331/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Music Festival Hip Hop Series Blind Box",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m32323698825/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Music Festival Hip Hop Figure",
+            "price": 12.86,
+            "url": "https://www.mercari.com/us/item/m15434221099/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:01:13.296Z"
+      },
+      "duckoo-music-festival-hippy-girl": {
+        "name": "Hippy Girl",
+        "avgPrice": 16.29,
+        "minPrice": 12,
+        "maxPrice": 20,
+        "listingCount": 10,
+        "rawListingCount": 11,
+        "mercariItems": [
+          {
+            "title": "Duckoo Music Festival (Hippy Girl)",
+            "price": 13,
+            "url": "https://www.mercari.com/us/item/m71579485238/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival Hippy Girl Figurine",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m18430244234/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival Blind Box Figure - Hippy Girl",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m11757629868/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival - Hippy Girl *sealed bag",
+            "price": 16.5,
+            "url": "https://www.mercari.com/us/item/m53906633477/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo music festival HIPPY GIRL",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m69861789588/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival Hippy Girl Blind Box From Popmart",
+            "price": 19.91,
+            "url": "https://www.mercari.com/us/item/m43788700114/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop mart duckoo music festival hippy girl",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m74812279273/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart DUCKOO Music Festival Series - Hippy Girl",
+            "price": 17.5,
+            "url": "https://www.mercari.com/us/item/m72638857109/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART DUCKOO Music festival series - HIPPY GIRL",
+            "price": 14,
+            "url": "https://www.mercari.com/us/item/m33055034599/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival Hippy Girl",
+            "price": 12,
+            "url": "https://www.mercari.com/us/item/m97171194250/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:01:19.911Z"
+      },
+      "duckoo-music-festival-k-pop": {
+        "name": "K-Pop",
+        "avgPrice": 25.46,
+        "minPrice": 20.5,
+        "maxPrice": 29.75,
+        "listingCount": 6,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "NIB Pop Mart Duckoo Music Festival K-Pop",
+            "price": 29.75,
+            "url": "https://www.mercari.com/us/item/m30229211335/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo Music Festival K-pop",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m59907202082/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival K-Pop Figure",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m44196066200/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Music Festival “K-Pop”",
+            "price": 28,
+            "url": "https://www.mercari.com/us/item/m55426268914/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo Music Festival - K-Pop",
+            "price": 28.5,
+            "url": "https://www.mercari.com/us/item/m59365189581/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART - DUCKOO - Music Festival Series - K-Pop",
+            "price": 20.5,
+            "url": "https://www.mercari.com/us/item/m98508226782/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:01:31.191Z"
+      },
+      "duckoo-music-festival-pop": {
+        "name": "Pop",
+        "avgPrice": 28.66,
+        "minPrice": 18,
+        "maxPrice": 49.64,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "NIB Pop Mart Duckoo Music Festival K-Pop",
+            "price": 29.75,
+            "url": "https://www.mercari.com/us/item/m30229211335/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo Music Festival K-pop",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m59907202082/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART - Duckoo Music Festival - Classic",
+            "price": 19.85,
+            "url": "https://www.mercari.com/us/item/m37978875433/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Music Festival Series Blind Box Figures",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m23033749326/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART DUCKOO Music Festival Blind Box Figure - Classic",
+            "price": 26,
+            "url": "https://www.mercari.com/us/item/m68612828209/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Popmart Music Festival Blind Box Sealed",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m51790564796/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Music Festival- K Pop",
+            "price": 49.64,
+            "url": "https://www.mercari.com/us/item/m60372559854/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Music Festival Series Figure - Beerholic",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m90901430029/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:01:37.582Z"
+      },
+      "duckoo-music-festival-rock": {
+        "name": "Rock",
+        "avgPrice": 23.38,
+        "minPrice": 17,
+        "maxPrice": 28.5,
+        "listingCount": 4,
+        "rawListingCount": 4,
+        "mercariItems": [
+          {
+            "title": "duckoo music festival - rock",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m24311338944/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "duckoo music festival “Rock”",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m53275909912/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Pop Mart DUCKOO Music Festival Series Figure. ROCK",
+            "price": 28.5,
+            "url": "https://www.mercari.com/us/item/m24193232575/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo Music Festival - Rock",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m45087695489/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:01:49.008Z"
+      }
+    }
+  },
+  "duckoo-farm": {
+    "seriesName": "Farm",
+    "items": {
+      "duckoo-farm-beetroot": {
+        "name": "Beetroot",
+        "avgPrice": 17.33,
+        "minPrice": 15,
+        "maxPrice": 20,
+        "listingCount": 3,
+        "rawListingCount": 3,
+        "mercariItems": [
+          {
+            "title": "Beetroot, Duckoo Farm series figure",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m85645269375/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm - Beetroot",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m10654396815/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm Blind Box Pop Now Beetroot",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m75758643123/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:02:00.464Z"
+      },
+      "duckoo-farm-digger": {
+        "name": "Digger",
+        "avgPrice": 16.65,
+        "minPrice": 10,
+        "maxPrice": 25,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "Duckoo, digger, Farm Series",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m78714887151/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "DUCKOO FARM Digger",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m39408960185/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "[POP MART] Duckoo Farm | Digger",
+            "price": 14.25,
+            "url": "https://www.mercari.com/us/item/m76263879949/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop mart Duckoo farm series digger",
+            "price": 10,
+            "url": "https://www.mercari.com/us/item/m83604259343/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Farm- Digger",
+            "price": 17.1,
+            "url": "https://www.mercari.com/us/item/m55923960312/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Farm- Digger",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m60442442375/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Duckoo farm series digger figurine",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m49636202641/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART - Duckoo Farm Series - Digger",
+            "price": 13.85,
+            "url": "https://www.mercari.com/us/item/m59889165447/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:02:06.992Z"
+      },
+      "duckoo-farm-farmer": {
+        "name": "Farmer",
+        "avgPrice": 22.18,
+        "minPrice": 13.5,
+        "maxPrice": 35,
+        "listingCount": 6,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "Duckoo Farm Pop Mart Farmer Figurine",
+            "price": 14,
+            "url": "https://www.mercari.com/us/item/m24197675085/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "duckoo farmer",
+            "price": 13.5,
+            "url": "https://www.mercari.com/us/item/m36693169011/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Farmer, Duckoo Farm series figure",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m10519989983/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm Farmer Scarecrow Ya Figure (A15)",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m75769383217/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART! Duckoo Farm Series-Farmer Duck Blind Box Figure",
+            "price": 30.55,
+            "url": "https://www.mercari.com/us/item/m57920937923/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Farm - Farmer",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m57130350055/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:02:13.535Z"
+      },
+      "duckoo-farm-gardener": {
+        "name": "Gardener",
+        "avgPrice": 15.39,
+        "minPrice": 10.5,
+        "maxPrice": 20,
+        "listingCount": 11,
+        "rawListingCount": 11,
+        "mercariItems": [
+          {
+            "title": "POP MART Duckoo Farm Series Gardener Figure",
+            "price": 12.75,
+            "url": "https://www.mercari.com/us/item/m45357842004/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "popmart gardener duckoo farm series blind box",
+            "price": 10.5,
+            "url": "https://www.mercari.com/us/item/m58811187609/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo: Duckoo Farm- Gardener",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m65995959135/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART - Duckoo Farm Series - Gardener SEALED",
+            "price": 17.99,
+            "url": "https://www.mercari.com/us/item/m35779794868/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm - Gardener",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m58964934712/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm Blind Box Pop Now Gardener",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m32610119540/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART DUCKOO Farm Series Confirmed Figure - “Gardener”",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m94717774432/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo farm gardener",
+            "price": 15.43,
+            "url": "https://www.mercari.com/us/item/m18699730321/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm Gardener Figurine",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m78752052378/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart - Duckoo Farm - Gardener",
+            "price": 17.1,
+            "url": "https://www.mercari.com/us/item/m90111887810/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "popmart gardener duckoo farm series blind box",
+            "price": 10.5,
+            "url": "https://www.mercari.com/us/item/m56160940531/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:02:19.956Z"
+      },
+      "duckoo-farm-lop-eared-rabbit": {
+        "name": "Lop Eared Rabbit",
+        "avgPrice": 19.66,
+        "minPrice": 14,
+        "maxPrice": 25,
+        "listingCount": 7,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "Popmart DUCKOO FARM! Lop Eared Rabbit Figurine New",
+            "price": 14.11,
+            "url": "https://www.mercari.com/us/item/m83088622235/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm Lop-Eared Rabbit",
+            "price": 22.5,
+            "url": "https://www.mercari.com/us/item/m57951120603/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo, lop-eared rabbit, Farm series",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m20415757491/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Lop-eared Rabbit, Duckoo Farm series figure",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m69535598859/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART × DUCKOO Farm Blind Box Figure- Lop Eared Rabbit",
+            "price": 18.99,
+            "url": "https://www.mercari.com/us/item/m49606044910/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART! Duckoo Farm Series Lop- Eared Rabbit Blind Box Figure",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m40121777947/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART DUCKOO FARM Series - LOP EARED RABBIT",
+            "price": 14,
+            "url": "https://www.mercari.com/us/item/m54567574046/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:02:26.397Z"
+      },
+      "duckoo-farm-orange": {
+        "name": "Orange",
+        "avgPrice": 21,
+        "minPrice": 21,
+        "maxPrice": 21,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "Popmart Duckoo Farm Orange Duckist Figure Duckoo Duck New without Box or Bags",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m98044806199/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:02:37.795Z"
+      },
+      "duckoo-farm-peach": {
+        "name": "Peach",
+        "avgPrice": 9.5,
+        "minPrice": 9.5,
+        "maxPrice": 9.5,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "DUCKOO FARM Series Figures. PEACH",
+            "price": 9.5,
+            "url": "https://www.mercari.com/us/item/m97606740055/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:02:49.088Z"
+      },
+      "duckoo-farm-pig": {
+        "name": "Pig",
+        "avgPrice": 19.3,
+        "minPrice": 11.4,
+        "maxPrice": 23.5,
+        "listingCount": 3,
+        "rawListingCount": 3,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Duckoo Farm Blind Box Pop Now Pig",
+            "price": 23.5,
+            "url": "https://www.mercari.com/us/item/m83127051259/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pig, Duckoo Farm series figure",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m17451827227/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo Farm Pig Figurine",
+            "price": 11.4,
+            "url": "https://www.mercari.com/us/item/m17511352566/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:03:00.904Z"
+      },
+      "duckoo-farm-potato": {
+        "name": "Potato",
+        "avgPrice": 24.11,
+        "minPrice": 20,
+        "maxPrice": 30.06,
+        "listingCount": 3,
+        "rawListingCount": 3,
+        "mercariItems": [
+          {
+            "title": "DUCKOO FARM Figure POTATO",
+            "price": 22.27,
+            "url": "https://www.mercari.com/us/item/m55781007899/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Potato, Duckoo Farm series figure",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m89019547840/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "POPMART DUCKOO FARM Potato",
+            "price": 30.06,
+            "url": "https://www.mercari.com/us/item/m94367675649/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:03:12.028Z"
+      },
+      "duckoo-farm-rice-sack": {
+        "name": "Rice Sack",
+        "avgPrice": 17.33,
+        "minPrice": 15,
+        "maxPrice": 20,
+        "listingCount": 6,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Duckoo Farm - Rice Sack",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m75728910231/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo Farm Rice Sack",
+            "price": 18.95,
+            "url": "https://www.mercari.com/us/item/m69143980354/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Rice Sack Duckoo Farm series figure",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m74446260715/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "DUCKOO FARM - Rice Sack",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m75550548183/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Farm - Rice Sack",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m95590651150/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm Blind Box Pop Now Rice Sack",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m63343292326/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:03:19.135Z"
+      },
+      "duckoo-farm-scarecrow": {
+        "name": "Scarecrow",
+        "avgPrice": 12.7,
+        "minPrice": 7.5,
+        "maxPrice": 17,
+        "listingCount": 10,
+        "rawListingCount": 11,
+        "mercariItems": [
+          {
+            "title": "POP MART DUCKOO FARM (Scarecrow)",
+            "price": 16.65,
+            "url": "https://www.mercari.com/us/item/m93098725937/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Farm (Scarecrow)",
+            "price": 10,
+            "url": "https://www.mercari.com/us/item/m54167377949/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Duckoo Farm Scarecrow",
+            "price": 13.84,
+            "url": "https://www.mercari.com/us/item/m68966840204/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "popmart scarecrow duckoo farm series blind box",
+            "price": 12,
+            "url": "https://www.mercari.com/us/item/m83708149140/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Scarecrow duckoo farm pop mart",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m38236025852/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm - Scarecrow",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m38956628585/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "popmart duckoo farm scarecrow figurine",
+            "price": 12,
+            "url": "https://www.mercari.com/us/item/m96872777291/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo farm scarecrow",
+            "price": 13.54,
+            "url": "https://www.mercari.com/us/item/m69274524034/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm - Scarecrow",
+            "price": 9.5,
+            "url": "https://www.mercari.com/us/item/m33269944528/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Duckoo Farm Scarecrow",
+            "price": 7.5,
+            "url": "https://www.mercari.com/us/item/m25446107948/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:03:25.538Z"
+      },
+      "duckoo-farm-sprayer": {
+        "name": "Sprayer",
+        "avgPrice": 17.33,
+        "minPrice": 12,
+        "maxPrice": 20,
+        "listingCount": 3,
+        "rawListingCount": 3,
+        "mercariItems": [
+          {
+            "title": "DUCKOO FARM Series Figures (SPRAYER)",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m64798869539/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Sprayer, Duckoo Farm series figure",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m27355640924/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Duckoo FARM - Sprayer - no BOX",
+            "price": 12,
+            "url": "https://www.mercari.com/us/item/m17168749383/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:03:36.437Z"
+      },
+      "duckoo-farm-wheelbarrow": {
+        "name": "Wheelbarrow",
+        "avgPrice": 118,
+        "minPrice": 115,
+        "maxPrice": 120,
+        "listingCount": 3,
+        "rawListingCount": 4,
+        "mercariItems": [
+          {
+            "title": "Pop mart Duckoo farm series (SECRET) wheelbarrow",
+            "price": 119,
+            "url": "https://www.mercari.com/us/item/m20158361830/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Wheelbarrow (SECRET), Duckoo Farm series figure",
+            "price": 115,
+            "url": "https://www.mercari.com/us/item/m42608692567/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Duckoo Farm Series - Wheelbarrow (Secret)",
+            "price": 120,
+            "url": "https://www.mercari.com/us/item/m61574001654/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:03:47.897Z"
+      }
+    }
+  },
+  "duckoo-limited-editions": {
+    "seriesName": "Limited Editions",
+    "items": {
+      "duckoo-limited-editions-turntable": {
+        "name": "Turntable",
+        "avgPrice": 135.37,
+        "minPrice": 135.37,
+        "maxPrice": 135.37,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "NEW SEALED POP MART Duckoo Sound Black Turntable Limited Edition 300 Made",
+            "price": 135.37,
+            "url": "https://www.mercari.com/us/item/m46912572636/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:04:10.967Z"
+      }
+    }
+  }
+}

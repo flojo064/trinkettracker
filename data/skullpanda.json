@@ -1,7 +1,8 @@
 {
   "brand": {
     "id": "skullpanda",
-    "name": "SkullPanda"
+    "name": "SkullPanda",
+    "description": "Panda-monium for your shelves."
   ,
     "palette": [
       "#FBCFE8",

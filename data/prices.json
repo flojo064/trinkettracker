@@ -1,1 +1,34 @@
-{}
+{
+  "sonny-angel-animal-1-rabbit": {
+    "average": 18.50,
+    "min": 15.00,
+    "max": 25.00,
+    "count": 5,
+    "currency": "USD",
+    "lastUpdated": 1729627200000
+  },
+  "sonny-angel-animal-1-elephant": {
+    "average": 22.75,
+    "min": 18.00,
+    "max": 28.00,
+    "count": 4,
+    "currency": "USD",
+    "lastUpdated": 1729627200000
+  },
+  "smiski-living-smiski-washing": {
+    "average": 16.25,
+    "min": 12.00,
+    "max": 20.00,
+    "count": 6,
+    "currency": "USD",
+    "lastUpdated": 1729627200000
+  },
+  "space-molly-basic-space-molly": {
+    "average": 35.00,
+    "min": 30.00,
+    "max": 45.00,
+    "count": 3,
+    "currency": "USD",
+    "lastUpdated": 1729627200000
+  }
+}

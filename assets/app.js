@@ -1,7 +1,6 @@
 const BRAND_INDEX_URL = "./data/brands.json";
-const COMMUNITY_PRICE_GUIDE_URL = "./price-guide.html";
+const MARKET_PRICES_URL = "./data/scraped-prices.json";
 const MERCARI_AFFILIATE_BASE = "https://www.mercari.com/search/";
-const COMMUNITY_PRICE_STORAGE_KEY = "tt-community-prices";
 const STORAGE_KEY = "tt-trinket-checklist";
 const PREFERENCES_KEY = "tt-trinket-preferences";
 
@@ -43,7 +42,7 @@ const state = {
   showLimited: false,
   hideSecrets: false,
   checklist: {},
-  communityPrices: {},
+  marketPrices: {},
   preferences: {},
   error: null
 };
@@ -216,65 +215,74 @@ const formatDateStamp = (value) => {
   });
 };
 
-const sanitizeCommunityPriceEntry = (entry) => {
-  if (!entry || typeof entry !== "object") return null;
-  const rawValues = Array.isArray(entry.values)
-    ? entry.values
-    : Array.isArray(entry)
-      ? entry
-      : [];
-  const values = rawValues
-    .map((value) => Number.parseFloat(value))
-    .filter((num) => Number.isFinite(num) && num > 0);
-  if (!values.length) return null;
-  const currency =
-    typeof entry.currency === "string" && entry.currency.trim()
-      ? entry.currency.trim().toUpperCase()
-      : "USD";
-  const lastUpdated =
-    typeof entry.lastUpdated === "string" && entry.lastUpdated.trim()
-      ? entry.lastUpdated.trim()
-      : null;
-  return {
-    values,
-    currency,
-    lastUpdated
-  };
-};
-
-const resolveCommunityPriceEntry = (itemId) => {
+const resolveMarketPriceEntry = (itemId) => {
   if (!itemId) return null;
-  const entry = state.communityPrices?.[itemId];
+  const entry = state.marketPrices?.[itemId];
   if (!entry || typeof entry !== "object") return null;
   const values = Array.isArray(entry.values) ? entry.values : [];
   if (!values.length) return null;
   const total = values.reduce((sum, value) => sum + value, 0);
   const average = total / values.length;
+  // Use the stored listingCount if available, otherwise fall back to values length
+  const count = typeof entry.listingCount === 'number' ? entry.listingCount : values.length;
   return {
     values,
-    count: values.length,
+    count,
     average,
     currency: entry.currency || "USD",
     lastUpdated: entry.lastUpdated || null
   };
 };
 
-const getCommunityPriceDisplayForItem = (item) => {
-  const entry = resolveCommunityPriceEntry(item.id);
-  let labelText = "Average Market Price";
+const getMarketPriceDisplayForItem = (item) => {
+  // Check for price override
+  if (item.priceOverride) {
+    const mercariUrl = getMercariAffiliateUrl(item);
+    
+    // Handle "no-data" override
+    if (item.priceOverride === "no-data") {
+      return {
+        url: mercariUrl,
+        label: "AVG MARKET PRICE",
+        labelMeta: null,
+        detail: "No valid data",
+        hasPrice: false,
+        title: `Search Mercari for ${item.name}`
+      };
+    }
+    
+    // Handle custom price override with amount and listingCount
+    if (typeof item.priceOverride === 'object' && item.priceOverride.amount) {
+      const priceText = formatCurrency(item.priceOverride.amount, "USD");
+      const count = item.priceOverride.listingCount || 0;
+      const labelMetaText = count > 0 ? `based on ${count} listing${count === 1 ? "" : "s"}` : null;
+      
+      return {
+        url: mercariUrl,
+        label: "AVG MARKET PRICE",
+        labelMeta: labelMetaText,
+        detail: priceText,
+        hasPrice: true,
+        title: `Market average for ${item.name} | ${priceText}`
+      };
+    }
+  }
+  
+  const entry = resolveMarketPriceEntry(item.id);
+  let labelText = "AVG MARKET PRICE";
   let labelMetaText = null;
-  const guideUrl = `${COMMUNITY_PRICE_GUIDE_URL}?item=${encodeURIComponent(item.id)}`;
+  const mercariUrl = getMercariAffiliateUrl(item);
   if (entry) {
     const priceText = formatCurrency(entry.average, entry.currency || "USD") || "";
     if (entry.count > 0) {
-      labelMetaText = `based on ${entry.count} community contribution${entry.count === 1 ? "" : "s"}`;
+      labelMetaText = `based on ${entry.count} listing${entry.count === 1 ? "" : "s"}`;
     }
-    const detail = priceText || "Add price data";
-    const titleParts = [`Community average for ${item.name}`, detail];
+    const detail = priceText || "No valid data";
+    const titleParts = [`Market average for ${item.name}`, detail];
     const stamp = formatDateStamp(entry.lastUpdated);
     if (stamp) titleParts.push(`Updated ${stamp}`);
     return {
-      url: guideUrl,
+      url: mercariUrl,
       label: labelText,
       labelMeta: labelMetaText,
       detail,
@@ -283,17 +291,29 @@ const getCommunityPriceDisplayForItem = (item) => {
     };
   }
   return {
-    url: guideUrl,
+    url: mercariUrl,
     label: labelText,
     labelMeta: null,
-    detail: "Add price",
+    detail: "No valid data",
     hasPrice: false,
-    title: `Help add a community price for ${item.name}`
+    title: `Search Mercari for ${item.name}`
   };
 };
 
-const getCommunityAverageValue = (itemId) => {
-  const entry = resolveCommunityPriceEntry(itemId);
+const getMarketAverageValue = (item) => {
+  // Check for price override
+  if (item && item.priceOverride) {
+    // Handle "no-data" override
+    if (item.priceOverride === "no-data") {
+      return null;
+    }
+    // Handle custom price override with amount
+    if (typeof item.priceOverride === 'object' && item.priceOverride.amount) {
+      return item.priceOverride.amount;
+    }
+  }
+  const itemId = typeof item === 'string' ? item : item?.id;
+  const entry = resolveMarketPriceEntry(itemId);
   return entry ? entry.average : null;
 };
 
@@ -313,14 +333,6 @@ const getMercariAffiliateUrl = (item) => {
     ref: "tt_affiliate"
   });
   return `${MERCARI_AFFILIATE_BASE}?${params.toString()}`;
-};
-
-const refreshCommunityPricesFromStorage = () => {
-  const latest = loadCommunityPrices();
-  state.communityPrices = latest;
-  if (state.view === "brand") {
-    renderRoot();
-  }
 };
 
 const analyzeImageColors = (img) => {
@@ -703,6 +715,16 @@ const fetchJSON = async (url) => {
   return response.json();
 };
 
+const loadMarketPrices = async () => {
+  try {
+    const data = await fetchJSON(MARKET_PRICES_URL);
+    return data || {};
+  } catch (error) {
+    console.warn("Unable to load market prices", error);
+    return {};
+  }
+};
+
 const loadChecklist = () => {
   if (typeof window === "undefined") return {};
   try {
@@ -736,26 +758,8 @@ const persistChecklist = () => {
   }
 };
 
-const loadCommunityPrices = () => {
-  if (typeof window === "undefined") return {};
-  try {
-    const raw = window.localStorage.getItem(COMMUNITY_PRICE_STORAGE_KEY);
-    if (!raw) return {};
-    const parsed = JSON.parse(raw);
-    if (!parsed || typeof parsed !== "object") return {};
-    return Object.entries(parsed).reduce((acc, [itemId, entry]) => {
-      const clean = sanitizeCommunityPriceEntry(entry);
-      if (clean) acc[itemId] = clean;
-      return acc;
-    }, {});
-  } catch (error) {
-    console.warn("Unable to read community prices", error);
-    return {};
-  }
-};
-
 state.checklist = loadChecklist();
-state.communityPrices = loadCommunityPrices();
+// Market prices will be loaded asynchronously during initialization
 
 const loadPreferences = () => {
   if (typeof window === "undefined") return {};
@@ -1038,12 +1042,23 @@ const buildSeriesFilterSection = () => {
   });
   buttonList.appendChild(allButton);
   
+  // Find Hippers series index for collapsible functionality (Smiski only)
+  const hippersIndex = state.currentBrand === 'smiski' 
+    ? state.seriesIndex.findIndex(s => s.id === 'smiski-hippers')
+    : -1;
+  
   // Add button for each series
-  state.seriesIndex.forEach(series => {
+  state.seriesIndex.forEach((series, index) => {
     const isActive = state.seriesFilter === series.id;
     const button = createElement("button", `tt-series-filter__button${isActive ? ' tt-series-filter__button--active' : ''}`);
     button.textContent = series.name;
     button.dataset.seriesId = series.id;
+    
+    // For Smiski: hide series after Hippers by default
+    if (hippersIndex !== -1 && index > hippersIndex) {
+      button.classList.add('tt-series-filter__button--collapsible');
+      button.style.display = 'none';
+    }
     
     // Apply series palette colors
     let palette = null;
@@ -1101,6 +1116,45 @@ const buildSeriesFilterSection = () => {
     buttonList.appendChild(button);
   });
   
+  // Add "More" button for Smiski after Hippers series
+  if (hippersIndex !== -1) {
+    const moreButton = createElement("button", "tt-series-filter__button tt-series-filter__more-button");
+    moreButton.innerHTML = `More <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin-left: 4px;">
+      <path d="M6 8.5L2 4.5L10 4.5L6 8.5Z" fill="currentColor"/>
+    </svg>`;
+    moreButton.dataset.expanded = 'false';
+    
+    moreButton.addEventListener('click', () => {
+      const isExpanded = moreButton.dataset.expanded === 'true';
+      const collapsibleButtons = buttonList.querySelectorAll('.tt-series-filter__button--collapsible');
+      const svg = moreButton.querySelector('svg');
+      
+      if (isExpanded) {
+        // Collapse
+        collapsibleButtons.forEach(btn => btn.style.display = 'none');
+        moreButton.dataset.expanded = 'false';
+        moreButton.innerHTML = `More <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin-left: 4px;">
+          <path d="M6 8.5L2 4.5L10 4.5L6 8.5Z" fill="currentColor"/>
+        </svg>`;
+      } else {
+        // Expand
+        collapsibleButtons.forEach(btn => btn.style.display = '');
+        moreButton.dataset.expanded = 'true';
+        moreButton.innerHTML = `Less <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin-left: 4px; transform: rotate(180deg);">
+          <path d="M6 8.5L2 4.5L10 4.5L6 8.5Z" fill="currentColor"/>
+        </svg>`;
+      }
+    });
+    
+    // Insert More button after Hippers (at hippersIndex + 1)
+    const hippersButton = buttonList.children[hippersIndex + 1]; // +1 because "All Series" is first
+    if (hippersButton && hippersButton.nextSibling) {
+      buttonList.insertBefore(moreButton, hippersButton.nextSibling);
+    } else {
+      buttonList.appendChild(moreButton);
+    }
+  }
+  
   section.append(title, buttonList);
   return section;
 };
@@ -1152,8 +1206,8 @@ const filterAndSortItems = () => {
       return items.sort((a, b) => compare(b.name, a.name));
     case "price-high":
       return items.sort((a, b) => {
-        const priceA = getCommunityAverageValue(a.id);
-        const priceB = getCommunityAverageValue(b.id);
+        const priceA = getMarketAverageValue(a);
+        const priceB = getMarketAverageValue(b);
         if (priceA === null && priceB === null) return compare(a.name, b.name);
         if (priceA === null) return 1;
         if (priceB === null) return -1;
@@ -1162,8 +1216,8 @@ const filterAndSortItems = () => {
       });
     case "price-low":
       return items.sort((a, b) => {
-        const priceA = getCommunityAverageValue(a.id);
-        const priceB = getCommunityAverageValue(b.id);
+        const priceA = getMarketAverageValue(a);
+        const priceB = getMarketAverageValue(b);
         if (priceA === null && priceB === null) return compare(a.name, b.name);
         if (priceA === null) return 1;
         if (priceB === null) return -1;
@@ -1243,32 +1297,26 @@ const buildCard = (item) => {
 
   const meta = createElement("p", "tt-card__meta", item.seriesName || "");
 
-  const communityInfo = getCommunityPriceDisplayForItem(item);
-  const communityButton = createElement("a", "tt-card__communityPrice");
-  const labelEl = createElement("span", "tt-card__communityPriceLabel", communityInfo.label);
-  if (communityInfo.labelMeta) {
-    labelEl.appendChild(createElement("small", null, communityInfo.labelMeta));
+  const marketInfo = getMarketPriceDisplayForItem(item);
+  const marketButton = createElement("a", "tt-card__communityPrice");
+  const labelEl = createElement("span", "tt-card__communityPriceLabel", marketInfo.label);
+  if (marketInfo.labelMeta) {
+    labelEl.appendChild(createElement("small", null, marketInfo.labelMeta));
   }
-  communityButton.append(
+  marketButton.append(
     labelEl,
-    createElement("span", "tt-card__communityPriceAmount", communityInfo.detail)
+    createElement("span", "tt-card__communityPriceAmount", marketInfo.detail)
   );
-  communityButton.href = communityInfo.url;
-  communityButton.title = communityInfo.title;
-  // Save current scroll position so we can restore it when the user returns
-  communityButton.addEventListener('click', () => {
-    try {
-      sessionStorage.setItem('tt-return-scroll', JSON.stringify({ y: window.scrollY || window.pageYOffset || 0 }));
-    } catch (e) {
-      // ignore
-    }
-  });
-  communityButton.setAttribute(
+  marketButton.href = marketInfo.url;
+  marketButton.title = marketInfo.title;
+  marketButton.target = "_blank";
+  marketButton.rel = "noopener noreferrer";
+  marketButton.setAttribute(
     "aria-label",
-    [communityInfo.label, communityInfo.detail].filter(Boolean).join(". ")
+    [marketInfo.label, marketInfo.detail].filter(Boolean).join(". ")
   );
-  if (!communityInfo.hasPrice) {
-    communityButton.classList.add("tt-card__communityPrice--pending");
+  if (!marketInfo.hasPrice) {
+    marketButton.classList.add("tt-card__communityPrice--pending");
   }
 
   const checklist = createElement("label", "tt-toggle");
@@ -1306,32 +1354,10 @@ const buildCard = (item) => {
     applyToggleState(input.checked);
   });
 
-  const mercariLink = createElement("a", "tt-card__affiliateButton");
-  mercariLink.append(
-    createElement("span", "sr-only", `Shop ${item.name} on Mercari`),
-    (() => {
-      const icon = document.createElement("span");
-      icon.className = "tt-card__affiliateIcon";
-      icon.innerHTML = `
-        <svg aria-hidden="true" viewBox="0 0 24 24">
-          <path d="M4.5 4h.9l1.32 6.59A2 2 0 0 0 8.67 12h7.27a2 2 0 0 0 1.93-1.46l1.3-4.54A1 1 0 0 0 18.2 5H6.47" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path>
-          <path d="M10 20.5a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0Zm8 0a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0Z" fill="currentColor"></path>
-          <path d="M9.5 9h8.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"></path>
-        </svg>
-      `;
-      return icon;
-    })(),
-    createElement("span", "tt-card__affiliateLabel", "Mercari")
-  );
-  mercariLink.href = getMercariAffiliateUrl(item);
-  mercariLink.target = "_blank";
-  mercariLink.rel = "noopener noreferrer sponsored";
-  mercariLink.title = `Find ${item.name} on Mercari (affiliate link)`;
-
   const actions = createElement("div", "tt-card__actions");
-  actions.append(mercariLink, checklist);
+  actions.append(checklist);
 
-  card.append(mediaWrapper, header, meta, communityButton, actions);
+  card.append(mediaWrapper, header, meta, marketButton, actions);
   syncCardState(item.id, card);
     return card;
   } catch (err) {
@@ -1567,13 +1593,7 @@ const renderRoot = () => {
 };
 
 if (typeof window !== "undefined") {
-  window.addEventListener("storage", (event) => {
-    if (event.key === COMMUNITY_PRICE_STORAGE_KEY) {
-      refreshCommunityPricesFromStorage();
-    }
-  });
-  window.addEventListener("focus", refreshCommunityPricesFromStorage);
-  // Restore scroll position when returning from external pages (e.g. price guide)
+  // Restore scroll position when returning from external pages
   const restoreScrollFromSession = () => {
     try {
       const raw = sessionStorage.getItem('tt-return-scroll');
@@ -1722,9 +1742,20 @@ const handleRouteChange = async () => {
 
 const init = async () => {
   try {
-  renderLoadingView("Loading brands...");
-  // Fetch brands with a cache-busting query to avoid stale server caches returning an older file
-  const brands = await fetchJSON(`${BRAND_INDEX_URL}?_=${Date.now()}`);
+    renderLoadingView("Loading brands...");
+    // Load market prices in parallel (don't block app startup if it fails)
+    loadMarketPrices().then(prices => {
+      state.marketPrices = prices;
+      // Re-render if we're already showing content
+      if (state.view !== "loading") {
+        renderRoot();
+      }
+    }).catch(err => {
+      console.warn("Market prices not available:", err);
+      state.marketPrices = {};
+    });
+    // Fetch brands with a cache-busting query to avoid stale server caches returning an older file
+    const brands = await fetchJSON(`${BRAND_INDEX_URL}?_=${Date.now()}`);
     state.brands = brands;
     state.view = "landing";
     state.error = null;

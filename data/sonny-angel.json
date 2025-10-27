@@ -2,12 +2,4120 @@
   "brand": {
     "id": "sonny-angel",
     "name": "Sonny Angel",
-    "description": "Coming soon",
+    "tagline": "Cherubic companions for your collection",
+    "description": "Cute little stance, missing his pants.",
     "palette": [
       "#f9a8d4",
       "#be185d",
       "#0b1220"
     ]
   },
-  "series": []
+  "series": [
+    {
+      "id": "15th-anniversary-cake",
+      "name": "15th Anniversary Cake",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Blueberry Sheep Cake",
+          "image": "assets/images/sonny-angel/15th-anniversary-cake/blueberry-sheep-cake.jpg"
+        },
+        {
+          "name": "Lemon Cake Cat",
+          "image": "assets/images/sonny-angel/15th-anniversary-cake/lemon-cake-cat.jpg"
+        },
+        {
+          "name": "Mint Chocolate Cake Dalmatian",
+          "image": "assets/images/sonny-angel/15th-anniversary-cake/mint-chocolate-cake-dalmatian.jpg"
+        },
+        {
+          "name": "Rabbit Cake",
+          "image": "assets/images/sonny-angel/15th-anniversary-cake/rabbit-cake-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Strawberry Cake Poodle",
+          "image": "assets/images/sonny-angel/15th-anniversary-cake/strawberry-cake-poodle.jpg"
+        }
+      ]
+    },
+    {
+      "id": "afternoon-tea-2023",
+      "name": "Afternoon Tea 2023",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cherry_pudding",
+          "image": "assets/images/sonny-angel/afternoon-tea-2023/cherry_pudding.jpg"
+        },
+        {
+          "name": "Cupcake",
+          "image": "assets/images/sonny-angel/afternoon-tea-2023/cupcake.jpg"
+        },
+        {
+          "name": "Happy Bear",
+          "image": "assets/images/sonny-angel/afternoon-tea-2023/happy-bear-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Herbal_tea",
+          "image": "assets/images/sonny-angel/afternoon-tea-2023/herbal_tea.jpg"
+        }
+      ]
+    },
+    {
+      "id": "angel-in-the-bird-garden",
+      "name": "Angel In The Bird Garden",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Annasui Elephant",
+          "image": "assets/images/sonny-angel/angel-in-the-bird-garden/annasui-elephant.png"
+        },
+        {
+          "name": "Annasui Rabbit",
+          "image": "assets/images/sonny-angel/angel-in-the-bird-garden/annasui-rabbit.png"
+        }
+      ]
+    },
+    {
+      "id": "animal-1",
+      "name": "Animal 1",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "Chipmunk",
+          "image": "assets/images/sonny-angel/animal-1/chipmunk-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Cockerel",
+          "image": "assets/images/sonny-angel/animal-1/cockerel.jpg"
+        },
+        {
+          "name": "Dalmatian",
+          "image": "assets/images/sonny-angel/animal-1/dalmatian.jpg"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/animal-1/elephant.jpg"
+        },
+        {
+          "name": "Frog",
+          "image": "assets/images/sonny-angel/animal-1/frog.jpg"
+        },
+        {
+          "name": "Koala",
+          "image": "assets/images/sonny-angel/animal-1/koala.jpg"
+        },
+        {
+          "name": "Monkey",
+          "image": "assets/images/sonny-angel/animal-1/monkey.jpg"
+        },
+        {
+          "name": "Owl",
+          "image": "assets/images/sonny-angel/animal-1/owl.jpg"
+        },
+        {
+          "name": "Panda",
+          "image": "assets/images/sonny-angel/animal-1/panda.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/animal-1/rabbit.jpg"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/animal-1/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Sloth",
+          "image": "assets/images/sonny-angel/animal-1/sloth.jpg"
+        },
+        {
+          "name": "Tiger",
+          "image": "assets/images/sonny-angel/animal-1/tiger.jpg"
+        },
+        {
+          "name": "White Bear",
+          "image": "assets/images/sonny-angel/animal-1/white-bear.jpg"
+        }
+      ]
+    },
+    {
+      "id": "animal-1-2018",
+      "name": "Animal 1 2018",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "Cheetah",
+          "image": "assets/images/sonny-angel/animal-1-2018/cheetah.jpg"
+        },
+        {
+          "name": "Cockerel",
+          "image": "assets/images/sonny-angel/animal-1-2018/cockerel.jpg"
+        },
+        {
+          "name": "Crocodile",
+          "image": "assets/images/sonny-angel/animal-1-2018/crocodile.jpg"
+        },
+        {
+          "name": "Dalmatian",
+          "image": "assets/images/sonny-angel/animal-1-2018/dalmatian.jpg"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/animal-1-2018/elephant.jpg"
+        },
+        {
+          "name": "Frog",
+          "image": "assets/images/sonny-angel/animal-1-2018/frog.jpg"
+        },
+        {
+          "name": "Koala",
+          "image": "assets/images/sonny-angel/animal-1-2018/koala.jpg"
+        },
+        {
+          "name": "Lion",
+          "image": "assets/images/sonny-angel/animal-1-2018/lion.jpg"
+        },
+        {
+          "name": "Monkey",
+          "image": "assets/images/sonny-angel/animal-1-2018/monkey.jpg"
+        },
+        {
+          "name": "Panda",
+          "image": "assets/images/sonny-angel/animal-1-2018/panda.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/animal-1-2018/rabbit.jpg"
+        },
+        {
+          "name": "Tiger",
+          "image": "assets/images/sonny-angel/animal-1-2018/tiger.jpg"
+        }
+      ]
+    },
+    {
+      "id": "animal-2",
+      "name": "Animal 2",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "Chameleon",
+          "image": "assets/images/sonny-angel/animal-2/chameleon.jpg"
+        },
+        {
+          "name": "Cow",
+          "image": "assets/images/sonny-angel/animal-2/cow.jpg"
+        },
+        {
+          "name": "Duck",
+          "image": "assets/images/sonny-angel/animal-2/duck.jpg"
+        },
+        {
+          "name": "Fawn",
+          "image": "assets/images/sonny-angel/animal-2/fawn.jpg"
+        },
+        {
+          "name": "Hedgehog",
+          "image": "assets/images/sonny-angel/animal-2/hedgehog.jpg"
+        },
+        {
+          "name": "Kappa",
+          "image": "assets/images/sonny-angel/animal-2/kappa-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Lesser Panda",
+          "image": "assets/images/sonny-angel/animal-2/lesser-panda.jpg"
+        },
+        {
+          "name": "Mouse",
+          "image": "assets/images/sonny-angel/animal-2/mouse.jpg"
+        },
+        {
+          "name": "Pig",
+          "image": "assets/images/sonny-angel/animal-2/pig.jpg"
+        },
+        {
+          "name": "Reindeer",
+          "image": "assets/images/sonny-angel/animal-2/reindeer.jpg"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/animal-2/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/animal-2/sheep.jpg"
+        },
+        {
+          "name": "Skunk",
+          "image": "assets/images/sonny-angel/animal-2/skunk.jpg"
+        },
+        {
+          "name": "Uribou",
+          "image": "assets/images/sonny-angel/animal-2/uribou.jpg"
+        }
+      ]
+    },
+    {
+      "id": "animal-2-2018",
+      "name": "Animal 2 2018",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "Cow",
+          "image": "assets/images/sonny-angel/animal-2-2018/cow.jpg"
+        },
+        {
+          "name": "Fawn",
+          "image": "assets/images/sonny-angel/animal-2-2018/fawn.jpg"
+        },
+        {
+          "name": "Giraffe",
+          "image": "assets/images/sonny-angel/animal-2-2018/giraffe.jpg"
+        },
+        {
+          "name": "Lesser Panda",
+          "image": "assets/images/sonny-angel/animal-2-2018/lesser-panda.jpg"
+        },
+        {
+          "name": "Mouse",
+          "image": "assets/images/sonny-angel/animal-2-2018/mouse.jpg"
+        },
+        {
+          "name": "Parakeet",
+          "image": "assets/images/sonny-angel/animal-2-2018/parakeet.jpg"
+        },
+        {
+          "name": "Pig",
+          "image": "assets/images/sonny-angel/animal-2-2018/pig.jpg"
+        },
+        {
+          "name": "Reindeer",
+          "image": "assets/images/sonny-angel/animal-2-2018/reindeer.jpg"
+        },
+        {
+          "name": "Rhinoceros",
+          "image": "assets/images/sonny-angel/animal-2-2018/rhinoceros.jpg"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/animal-2-2018/sheep.jpg"
+        },
+        {
+          "name": "Uribou",
+          "image": "assets/images/sonny-angel/animal-2-2018/uribou.jpg"
+        },
+        {
+          "name": "White Bear",
+          "image": "assets/images/sonny-angel/animal-2-2018/white-bear.jpg"
+        }
+      ]
+    },
+    {
+      "id": "animal-3",
+      "name": "Animal 3",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "American Short Hair",
+          "image": "assets/images/sonny-angel/animal-3/american-short-hair.jpg"
+        },
+        {
+          "name": "Chihuahua",
+          "image": "assets/images/sonny-angel/animal-3/chihuahua.jpg"
+        },
+        {
+          "name": "Crocodile",
+          "image": "assets/images/sonny-angel/animal-3/crocodile.jpg"
+        },
+        {
+          "name": "French Bulldog",
+          "image": "assets/images/sonny-angel/animal-3/french-bulldog.jpg"
+        },
+        {
+          "name": "Giraffe",
+          "image": "assets/images/sonny-angel/animal-3/giraffe.jpg"
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "image": "assets/images/sonny-angel/animal-3/lop-ear-rabbit.jpg"
+        },
+        {
+          "name": "Macaw",
+          "image": "assets/images/sonny-angel/animal-3/macaw.jpg"
+        },
+        {
+          "name": "Parrot",
+          "image": "assets/images/sonny-angel/animal-3/parrot.jpg"
+        },
+        {
+          "name": "Rhinoceros",
+          "image": "assets/images/sonny-angel/animal-3/rhinoceros.jpg"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/animal-3/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Snake",
+          "image": "assets/images/sonny-angel/animal-3/snake.jpg"
+        },
+        {
+          "name": "Toy Poodle",
+          "image": "assets/images/sonny-angel/animal-3/toy-poodle.jpg"
+        },
+        {
+          "name": "Unicorn",
+          "image": "assets/images/sonny-angel/animal-3/unicorn-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Zebra",
+          "image": "assets/images/sonny-angel/animal-3/zebra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "animal-3-2018",
+      "name": "Animal 3 2018",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "Alpaca",
+          "image": "assets/images/sonny-angel/animal-3-2018/alpaca.jpg"
+        },
+        {
+          "name": "American Short Hair",
+          "image": "assets/images/sonny-angel/animal-3-2018/american-short-hair.jpg"
+        },
+        {
+          "name": "Buffalo",
+          "image": "assets/images/sonny-angel/animal-3-2018/buffalo.jpg"
+        },
+        {
+          "name": "Chameleon",
+          "image": "assets/images/sonny-angel/animal-3-2018/chameleon.jpg"
+        },
+        {
+          "name": "Duckbill",
+          "image": "assets/images/sonny-angel/animal-3-2018/duckbill.jpg"
+        },
+        {
+          "name": "French Bulldog",
+          "image": "assets/images/sonny-angel/animal-3-2018/french-bulldog.jpg"
+        },
+        {
+          "name": "Gorilla",
+          "image": "assets/images/sonny-angel/animal-3-2018/gorilla.jpg"
+        },
+        {
+          "name": "Hippopotamus",
+          "image": "assets/images/sonny-angel/animal-3-2018/hippopotamus.jpg"
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "image": "assets/images/sonny-angel/animal-3-2018/lop-ear-rabbit.jpg"
+        },
+        {
+          "name": "Owl",
+          "image": "assets/images/sonny-angel/animal-3-2018/owl.jpg"
+        },
+        {
+          "name": "Parrot",
+          "image": "assets/images/sonny-angel/animal-3-2018/parrot.jpg"
+        },
+        {
+          "name": "Zebra",
+          "image": "assets/images/sonny-angel/animal-3-2018/zebra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "animal-4",
+      "name": "Animal 4",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "Alpaca",
+          "image": "assets/images/sonny-angel/animal-4/alpaca.jpg"
+        },
+        {
+          "name": "Anteater",
+          "image": "assets/images/sonny-angel/animal-4/anteater.jpg"
+        },
+        {
+          "name": "Buffalo",
+          "image": "assets/images/sonny-angel/animal-4/buffalo.jpg"
+        },
+        {
+          "name": "Calico Cat",
+          "image": "assets/images/sonny-angel/animal-4/calico-cat.jpg"
+        },
+        {
+          "name": "Cheetah",
+          "image": "assets/images/sonny-angel/animal-4/cheetah.jpg"
+        },
+        {
+          "name": "Dragon",
+          "image": "assets/images/sonny-angel/animal-4/dragon-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Goat",
+          "image": "assets/images/sonny-angel/animal-4/goat.jpg"
+        },
+        {
+          "name": "Gorilla",
+          "image": "assets/images/sonny-angel/animal-4/gorilla.jpg"
+        },
+        {
+          "name": "Hippopotamus",
+          "image": "assets/images/sonny-angel/animal-4/hippopotamus.jpg"
+        },
+        {
+          "name": "Horse",
+          "image": "assets/images/sonny-angel/animal-4/horse.jpg"
+        },
+        {
+          "name": "Lion",
+          "image": "assets/images/sonny-angel/animal-4/lion.jpg"
+        },
+        {
+          "name": "Peacock",
+          "image": "assets/images/sonny-angel/animal-4/peacock.jpg"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/animal-4/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Shiba Inu",
+          "image": "assets/images/sonny-angel/animal-4/shiba-inu.jpg"
+        }
+      ]
+    },
+    {
+      "id": "animal-4-2018",
+      "name": "Animal 4 2018",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "Calico Cat",
+          "image": "assets/images/sonny-angel/animal-4-2018/calico-cat.jpg"
+        },
+        {
+          "name": "Chihuahua",
+          "image": "assets/images/sonny-angel/animal-4-2018/chihuahua.jpg"
+        },
+        {
+          "name": "Duck",
+          "image": "assets/images/sonny-angel/animal-4-2018/duck.jpg"
+        },
+        {
+          "name": "Goat",
+          "image": "assets/images/sonny-angel/animal-4-2018/goat.jpg"
+        },
+        {
+          "name": "Hamadryas Baboon",
+          "image": "assets/images/sonny-angel/animal-4-2018/hamadryas-baboon.jpg"
+        },
+        {
+          "name": "Horse",
+          "image": "assets/images/sonny-angel/animal-4-2018/horse.jpg"
+        },
+        {
+          "name": "Japanese Crane",
+          "image": "assets/images/sonny-angel/animal-4-2018/japanese-crane.jpg"
+        },
+        {
+          "name": "Mongoose",
+          "image": "assets/images/sonny-angel/animal-4-2018/mongoose.jpg"
+        },
+        {
+          "name": "Peacock",
+          "image": "assets/images/sonny-angel/animal-4-2018/peacock.jpg"
+        },
+        {
+          "name": "Shiba Inu",
+          "image": "assets/images/sonny-angel/animal-4-2018/shiba-inu.jpg"
+        },
+        {
+          "name": "Skunk",
+          "image": "assets/images/sonny-angel/animal-4-2018/skunk.jpg"
+        },
+        {
+          "name": "Snake",
+          "image": "assets/images/sonny-angel/animal-4-2018/snake.jpg"
+        }
+      ]
+    },
+    {
+      "id": "animal-ver-3-special-color",
+      "name": "Animal Ver 3 Special Color",
+      "palette": [
+        "#ff6b6b",
+        "#e03131",
+        "#a61e1e"
+      ],
+      "items": [
+        {
+          "name": "Alpaca",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/alpaca.jpg"
+        },
+        {
+          "name": "American Short Hair",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/american-short-hair.jpg"
+        },
+        {
+          "name": "Buffalo",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/buffalo.jpg"
+        },
+        {
+          "name": "Chameleon",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/chameleon.jpg"
+        },
+        {
+          "name": "Duckbill",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/duckbill.jpg"
+        },
+        {
+          "name": "French Bulldog",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/french-bulldog.jpg"
+        },
+        {
+          "name": "Gorilla",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/gorilla.jpg"
+        },
+        {
+          "name": "Hippopotamus",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/hippopotamus.jpg"
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/lop-ear-rabbit.jpg"
+        },
+        {
+          "name": "Owl",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/owl.jpg"
+        },
+        {
+          "name": "Parrot",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/parrot.jpg"
+        },
+        {
+          "name": "Zebra",
+          "image": "assets/images/sonny-angel/animal-ver-3-special-color/zebra.jpg"
+        }
+      ]
+    },
+    {
+      "id": "birthday-gift-2017",
+      "name": "Birthday Gift 2017",
+      "palette": [
+        "#fbbf24",
+        "#f59e0b",
+        "#d97706"
+      ],
+      "items": [
+        {
+          "name": "Blueberry Cake",
+          "image": "assets/images/sonny-angel/birthday-gift-2017/blueberry-cake.jpg"
+        },
+        {
+          "name": "Cake",
+          "image": "assets/images/sonny-angel/birthday-gift-2017/cake-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Chocolate Cake",
+          "image": "assets/images/sonny-angel/birthday-gift-2017/chocolate-cake.jpg"
+        },
+        {
+          "name": "Lemon Cake",
+          "image": "assets/images/sonny-angel/birthday-gift-2017/lemon-cake.jpg"
+        },
+        {
+          "name": "Mint Cake",
+          "image": "assets/images/sonny-angel/birthday-gift-2017/mint-cake.jpg"
+        },
+        {
+          "name": "Raspberry Cake",
+          "image": "assets/images/sonny-angel/birthday-gift-2017/raspberry-cake.jpg"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/birthday-gift-2017/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Strawberry Shortcake",
+          "image": "assets/images/sonny-angel/birthday-gift-2017/strawberry-shortcake.jpg"
+        }
+      ]
+    },
+    {
+      "id": "birthday-gift-bear-2021",
+      "name": "Birthday Gift Bear 2021",
+      "palette": [
+        "#fbbf24",
+        "#f59e0b",
+        "#d97706"
+      ],
+      "items": [
+        {
+          "name": "Birthday Cake Hug",
+          "image": "assets/images/sonny-angel/birthday-gift-bear-2021/birthday-cake-hug.png"
+        },
+        {
+          "name": "Heart Balloon",
+          "image": "assets/images/sonny-angel/birthday-gift-bear-2021/heart-balloon.png"
+        },
+        {
+          "name": "Heart Hug",
+          "image": "assets/images/sonny-angel/birthday-gift-bear-2021/heart-hug.png"
+        },
+        {
+          "name": "Present Hug",
+          "image": "assets/images/sonny-angel/birthday-gift-bear-2021/present-hug.png"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/birthday-gift-bear-2021/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Round Balloon",
+          "image": "assets/images/sonny-angel/birthday-gift-bear-2021/round-balloon.png"
+        },
+        {
+          "name": "Star Balloon",
+          "image": "assets/images/sonny-angel/birthday-gift-bear-2021/star-balloon.png"
+        },
+        {
+          "name": "White Bear",
+          "image": "assets/images/sonny-angel/birthday-gift-bear-2021/white-bear-secret.png",
+          "rarity": "Secret"
+        }
+      ]
+    },
+    {
+      "id": "birthday-ribbon",
+      "name": "Birthday Ribbon",
+      "palette": [
+        "#fbbf24",
+        "#f59e0b",
+        "#d97706"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/birthday-ribbon/elephant.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/birthday-ribbon/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bobbing-head",
+      "name": "Bobbing Head",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cloud Cow",
+          "image": "assets/images/sonny-angel/bobbing-head/cloud-cow.png"
+        },
+        {
+          "name": "Cloud Rabbit",
+          "image": "assets/images/sonny-angel/bobbing-head/cloud-rabbit.png"
+        },
+        {
+          "name": "Cloud Sheep",
+          "image": "assets/images/sonny-angel/bobbing-head/cloud-sheep.png"
+        }
+      ]
+    },
+    {
+      "id": "bobbing-head-1",
+      "name": "Bobbing Head 1",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/bobbing-head-1/elephant.jpg"
+        },
+        {
+          "name": "Frog",
+          "image": "assets/images/sonny-angel/bobbing-head-1/frog.jpg"
+        },
+        {
+          "name": "Koala",
+          "image": "assets/images/sonny-angel/bobbing-head-1/koala.jpg"
+        },
+        {
+          "name": "Panda",
+          "image": "assets/images/sonny-angel/bobbing-head-1/panda.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/bobbing-head-1/rabbit.jpg"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/bobbing-head-1/sheep.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bobbing-head-butterfly",
+      "name": "Bobbing Head Butterfly",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Rabbit Pink",
+          "image": "assets/images/sonny-angel/bobbing-head-butterfly/rabbit-pink.jpg"
+        },
+        {
+          "name": "Rabbit Red",
+          "image": "assets/images/sonny-angel/bobbing-head-butterfly/rabbit-red.jpg"
+        },
+        {
+          "name": "Rabbit White",
+          "image": "assets/images/sonny-angel/bobbing-head-butterfly/rabbit-white.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bugs-world-2022",
+      "name": "Bugs World 2022",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Ant",
+          "image": "assets/images/sonny-angel/bugs-world-2022/ant.png"
+        },
+        {
+          "name": "Bee",
+          "image": "assets/images/sonny-angel/bugs-world-2022/bee-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Butterfly",
+          "image": "assets/images/sonny-angel/bugs-world-2022/butterfly.png"
+        },
+        {
+          "name": "Caterpillar",
+          "image": "assets/images/sonny-angel/bugs-world-2022/caterpillar.png"
+        },
+        {
+          "name": "Dragonfly",
+          "image": "assets/images/sonny-angel/bugs-world-2022/dragonfly.png"
+        },
+        {
+          "name": "Ladybug",
+          "image": "assets/images/sonny-angel/bugs-world-2022/ladybug.png"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/bugs-world-2022/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Snail",
+          "image": "assets/images/sonny-angel/bugs-world-2022/snail.png"
+        }
+      ]
+    },
+    {
+      "id": "cactus-2020",
+      "name": "Cactus 2020",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cactus",
+          "image": "assets/images/sonny-angel/cactus-2020/cactus-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Cactus_monkey",
+          "image": "assets/images/sonny-angel/cactus-2020/cactus_monkey.png"
+        },
+        {
+          "name": "Cactus_mouse",
+          "image": "assets/images/sonny-angel/cactus-2020/cactus_mouse.png"
+        },
+        {
+          "name": "Cactus_parrot",
+          "image": "assets/images/sonny-angel/cactus-2020/cactus_parrot.png"
+        },
+        {
+          "name": "Cactus_rabbit",
+          "image": "assets/images/sonny-angel/cactus-2020/cactus_rabbit.png"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/cactus-2020/robby-secret.png",
+          "rarity": "Secret"
+        }
+      ]
+    },
+    {
+      "id": "cat-life-2023",
+      "name": "Cat Life 2023",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Black",
+          "image": "assets/images/sonny-angel/cat-life-2023/black.png"
+        },
+        {
+          "name": "Bluish_gray",
+          "image": "assets/images/sonny-angel/cat-life-2023/bluish_gray.png"
+        },
+        {
+          "name": "Brown_and_black",
+          "image": "assets/images/sonny-angel/cat-life-2023/brown_and_black.png"
+        },
+        {
+          "name": "Calico",
+          "image": "assets/images/sonny-angel/cat-life-2023/calico.png"
+        },
+        {
+          "name": "Happy Pink",
+          "image": "assets/images/sonny-angel/cat-life-2023/happy-pink-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Red_tabby",
+          "image": "assets/images/sonny-angel/cat-life-2023/red_tabby.png"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/cat-life-2023/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Siamese",
+          "image": "assets/images/sonny-angel/cat-life-2023/siamese.png"
+        },
+        {
+          "name": "Silver Tabby",
+          "image": "assets/images/sonny-angel/cat-life-2023/silver-tabby.png"
+        },
+        {
+          "name": "Tuxedo",
+          "image": "assets/images/sonny-angel/cat-life-2023/tuxedo.png"
+        },
+        {
+          "name": "White",
+          "image": "assets/images/sonny-angel/cat-life-2023/white.png"
+        }
+      ]
+    },
+    {
+      "id": "charm-candy-store-2023",
+      "name": "Charm Candy Store 2023",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Clear Rabbit",
+          "image": "assets/images/sonny-angel/charm-candy-store-2023/clear-rabbit-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Grape Rabbit",
+          "image": "assets/images/sonny-angel/charm-candy-store-2023/grape-rabbit.png"
+        },
+        {
+          "name": "Lime Dog",
+          "image": "assets/images/sonny-angel/charm-candy-store-2023/lime-dog.png"
+        },
+        {
+          "name": "Orange Sheep",
+          "image": "assets/images/sonny-angel/charm-candy-store-2023/orange-sheep.png"
+        },
+        {
+          "name": "Peach Bear",
+          "image": "assets/images/sonny-angel/charm-candy-store-2023/peach-bear.png"
+        },
+        {
+          "name": "Soda Pig",
+          "image": "assets/images/sonny-angel/charm-candy-store-2023/soda-pig.png"
+        }
+      ]
+    },
+    {
+      "id": "cherry-blossom",
+      "name": "Cherry Blossom",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Calico Cat",
+          "image": "assets/images/sonny-angel/cherry-blossom/calico-cat.jpg"
+        },
+        {
+          "name": "Cherry",
+          "image": "assets/images/sonny-angel/cherry-blossom/cherry-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Goat",
+          "image": "assets/images/sonny-angel/cherry-blossom/goat.jpg"
+        },
+        {
+          "name": "Peacock",
+          "image": "assets/images/sonny-angel/cherry-blossom/peacock.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/cherry-blossom/rabbit.jpg"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/cherry-blossom/robby-secret.png",
+          "rarity": "Secret"
+        }
+      ]
+    },
+    {
+      "id": "cherry-blossom-hanami",
+      "name": "Cherry Blossom Hanami",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Calico Cat",
+          "image": "assets/images/sonny-angel/cherry-blossom-hanami/calico-cat.png"
+        },
+        {
+          "name": "Cherry Tree",
+          "image": "assets/images/sonny-angel/cherry-blossom-hanami/cherry-tree-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Fawn",
+          "image": "assets/images/sonny-angel/cherry-blossom-hanami/fawn.png"
+        },
+        {
+          "name": "Goat",
+          "image": "assets/images/sonny-angel/cherry-blossom-hanami/goat.png"
+        },
+        {
+          "name": "Parrot",
+          "image": "assets/images/sonny-angel/cherry-blossom-hanami/parrot.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/cherry-blossom-hanami/rabbit.png"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/cherry-blossom-hanami/robby-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/cherry-blossom-hanami/sheep.png"
+        }
+      ]
+    },
+    {
+      "id": "cherry-blossom-night-version-2021",
+      "name": "Cherry Blossom Night Version 2021",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Carico_cat",
+          "image": "assets/images/sonny-angel/cherry-blossom-night-version-2021/carico_cat.png"
+        },
+        {
+          "name": "Goat",
+          "image": "assets/images/sonny-angel/cherry-blossom-night-version-2021/goat.png"
+        },
+        {
+          "name": "Peacock",
+          "image": "assets/images/sonny-angel/cherry-blossom-night-version-2021/peacock.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/cherry-blossom-night-version-2021/rabbit.png"
+        }
+      ]
+    },
+    {
+      "id": "cherry-blossom-peaceful-spring-2022",
+      "name": "Cherry Blossom Peaceful Spring 2022",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Calico Cat",
+          "image": "assets/images/sonny-angel/cherry-blossom-peaceful-spring-2022/calico-cat.png"
+        },
+        {
+          "name": "Cherry",
+          "image": "assets/images/sonny-angel/cherry-blossom-peaceful-spring-2022/cherry-secret.png",
+          "rarity": "Secret"
+        },
+        {
+          "name": "Goat",
+          "image": "assets/images/sonny-angel/cherry-blossom-peaceful-spring-2022/goat.png"
+        },
+        {
+          "name": "Peacock",
+          "image": "assets/images/sonny-angel/cherry-blossom-peaceful-spring-2022/peacock.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/cherry-blossom-peaceful-spring-2022/rabbit.png"
+        },
+        {
+          "name": "Robby",
+          "image": "assets/images/sonny-angel/cherry-blossom-peaceful-spring-2022/robby-secret.png",
+          "rarity": "Secret"
+        }
+      ]
+    },
+    {
+      "id": "christmas-2016",
+      "name": "Christmas 2016",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Christmas Gift",
+          "image": "assets/images/sonny-angel/christmas-2016/christmas-gift.jpg"
+        },
+        {
+          "name": "Christmas Stocking",
+          "image": "assets/images/sonny-angel/christmas-2016/christmas-stocking.jpg"
+        },
+        {
+          "name": "Reindeer",
+          "image": "assets/images/sonny-angel/christmas-2016/reindeer.jpg"
+        },
+        {
+          "name": "Santa Clause",
+          "image": "assets/images/sonny-angel/christmas-2016/santa-clause.jpg"
+        }
+      ]
+    },
+    {
+      "id": "christmas-2017",
+      "name": "Christmas 2017",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Drum Boy",
+          "image": "assets/images/sonny-angel/christmas-2017/drum-boy.jpg"
+        },
+        {
+          "name": "Reindeer Plushie",
+          "image": "assets/images/sonny-angel/christmas-2017/reindeer-plushie.jpg"
+        },
+        {
+          "name": "Rocking Horse",
+          "image": "assets/images/sonny-angel/christmas-2017/rocking-horse.jpg"
+        },
+        {
+          "name": "Wood Doll Santa",
+          "image": "assets/images/sonny-angel/christmas-2017/wood-doll-santa.jpg"
+        }
+      ]
+    },
+    {
+      "id": "christmas-2018",
+      "name": "Christmas 2018",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Christmas Angel",
+          "image": "assets/images/sonny-angel/christmas-2018/christmas-angel.jpg"
+        },
+        {
+          "name": "Church Bell",
+          "image": "assets/images/sonny-angel/christmas-2018/church-bell.jpg"
+        },
+        {
+          "name": "Classic Reindeer",
+          "image": "assets/images/sonny-angel/christmas-2018/classic-reindeer.jpg"
+        },
+        {
+          "name": "Classic Santa",
+          "image": "assets/images/sonny-angel/christmas-2018/classic-santa.jpg"
+        }
+      ]
+    },
+    {
+      "id": "christmas-2019",
+      "name": "Christmas 2019",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Wool_Bear 1",
+          "image": "assets/images/sonny-angel/christmas-2019/Wool_Bear-1.png"
+        },
+        {
+          "name": "Wool_Penguin 1",
+          "image": "assets/images/sonny-angel/christmas-2019/Wool_Penguin-1.png"
+        },
+        {
+          "name": "Wool_Reindeer 1",
+          "image": "assets/images/sonny-angel/christmas-2019/Wool_Reindeer-1.png"
+        },
+        {
+          "name": "Wool_Sheep 1",
+          "image": "assets/images/sonny-angel/christmas-2019/Wool_Sheep-1.png"
+        }
+      ]
+    },
+    {
+      "id": "christmas-dinner-2024",
+      "name": "Christmas Dinner 2024",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Carrot",
+          "image": "assets/images/sonny-angel/christmas-dinner-2024/carrot.png"
+        },
+        {
+          "name": "Crocodile",
+          "image": "assets/images/sonny-angel/christmas-dinner-2024/crocodile.png"
+        },
+        {
+          "name": "Lion",
+          "image": "assets/images/sonny-angel/christmas-dinner-2024/lion.png"
+        },
+        {
+          "name": "Owl",
+          "image": "assets/images/sonny-angel/christmas-dinner-2024/owl.png"
+        },
+        {
+          "name": "Reindeer",
+          "image": "assets/images/sonny-angel/christmas-dinner-2024/reindeer.png"
+        },
+        {
+          "name": "Strawberry",
+          "image": "assets/images/sonny-angel/christmas-dinner-2024/strawberry.png"
+        }
+      ]
+    },
+    {
+      "id": "christmas-ornament-2022",
+      "name": "Christmas Ornament 2022",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Angel",
+          "image": "assets/images/sonny-angel/christmas-ornament-2022/Angel.png"
+        },
+        {
+          "name": "Christmas_Tree",
+          "image": "assets/images/sonny-angel/christmas-ornament-2022/Christmas_Tree.png"
+        },
+        {
+          "name": "Reindeer",
+          "image": "assets/images/sonny-angel/christmas-ornament-2022/Reindeer.png"
+        },
+        {
+          "name": "Santa Claus",
+          "image": "assets/images/sonny-angel/christmas-ornament-2022/Santa-Claus.png"
+        },
+        {
+          "name": "Snowman",
+          "image": "assets/images/sonny-angel/christmas-ornament-2022/Snowman.png"
+        },
+        {
+          "name": "Star",
+          "image": "assets/images/sonny-angel/christmas-ornament-2022/Star.png"
+        }
+      ]
+    },
+    {
+      "id": "christmas-ornament-2023",
+      "name": "Christmas Ornament 2023",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Cheetah",
+          "image": "assets/images/sonny-angel/christmas-ornament-2023/cheetah.png"
+        },
+        {
+          "name": "Koala",
+          "image": "assets/images/sonny-angel/christmas-ornament-2023/koala.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/christmas-ornament-2023/rabbit.png"
+        },
+        {
+          "name": "Reindeer",
+          "image": "assets/images/sonny-angel/christmas-ornament-2023/reindeer.png"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/christmas-ornament-2023/sheep.png"
+        },
+        {
+          "name": "Sloth",
+          "image": "assets/images/sonny-angel/christmas-ornament-2023/sloth.png"
+        }
+      ]
+    },
+    {
+      "id": "christmas-presents-2020",
+      "name": "Christmas Presents 2020",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Christmas_stocking",
+          "image": "assets/images/sonny-angel/christmas-presents-2020/christmas_stocking.png"
+        },
+        {
+          "name": "Mittens",
+          "image": "assets/images/sonny-angel/christmas-presents-2020/mittens.png"
+        },
+        {
+          "name": "Poinsettia",
+          "image": "assets/images/sonny-angel/christmas-presents-2020/poinsettia.png"
+        },
+        {
+          "name": "Snow_globe",
+          "image": "assets/images/sonny-angel/christmas-presents-2020/snow_globe.png"
+        },
+        {
+          "name": "Stuffed_robby",
+          "image": "assets/images/sonny-angel/christmas-presents-2020/stuffed_robby.png"
+        },
+        {
+          "name": "Wrapped_present",
+          "image": "assets/images/sonny-angel/christmas-presents-2020/wrapped_present.png"
+        }
+      ]
+    },
+    {
+      "id": "circus",
+      "name": "Circus",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Bear",
+          "image": "assets/images/sonny-angel/circus/Bear.png"
+        },
+        {
+          "name": "Circus Tent",
+          "image": "assets/images/sonny-angel/circus/Circus-Tent.png"
+        },
+        {
+          "name": "Clown",
+          "image": "assets/images/sonny-angel/circus/Clown.png"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/circus/Elephant.png"
+        },
+        {
+          "name": "Lion",
+          "image": "assets/images/sonny-angel/circus/Lion.png"
+        },
+        {
+          "name": "Ringmaster",
+          "image": "assets/images/sonny-angel/circus/Ringmaster.png"
+        }
+      ]
+    },
+    {
+      "id": "circus-join-the-circus",
+      "name": "Circus Join The Circus",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Bear",
+          "image": "assets/images/sonny-angel/circus-join-the-circus/bear.png"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/circus-join-the-circus/elephant.png"
+        },
+        {
+          "name": "Horse",
+          "image": "assets/images/sonny-angel/circus-join-the-circus/horse.png"
+        },
+        {
+          "name": "Monkey",
+          "image": "assets/images/sonny-angel/circus-join-the-circus/monkey.png"
+        },
+        {
+          "name": "Ringmaster",
+          "image": "assets/images/sonny-angel/circus-join-the-circus/ringmaster.png"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/circus-join-the-circus/sheep.png"
+        }
+      ]
+    },
+    {
+      "id": "collaboration-with-cai",
+      "name": "Collaboration With Cai",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Best Of You",
+          "image": "assets/images/sonny-angel/collaboration-with-cai/best-of-you.png"
+        },
+        {
+          "name": "Brave As Me",
+          "image": "assets/images/sonny-angel/collaboration-with-cai/brave-as-me.png"
+        }
+      ]
+    },
+    {
+      "id": "creatures-2022",
+      "name": "Creatures 2022",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Bibi",
+          "image": "assets/images/sonny-angel/creatures-2022/Bibi.png"
+        },
+        {
+          "name": "Brian",
+          "image": "assets/images/sonny-angel/creatures-2022/Brian.png"
+        },
+        {
+          "name": "Charlie",
+          "image": "assets/images/sonny-angel/creatures-2022/Charlie.png"
+        },
+        {
+          "name": "Cilla",
+          "image": "assets/images/sonny-angel/creatures-2022/Cilla.png"
+        },
+        {
+          "name": "Cyril",
+          "image": "assets/images/sonny-angel/creatures-2022/Cyril.png"
+        },
+        {
+          "name": "Digby",
+          "image": "assets/images/sonny-angel/creatures-2022/Digby.png"
+        },
+        {
+          "name": "Monocat",
+          "image": "assets/images/sonny-angel/creatures-2022/Monocat.png"
+        },
+        {
+          "name": "Pia",
+          "image": "assets/images/sonny-angel/creatures-2022/Pia.png"
+        },
+        {
+          "name": "Richie",
+          "image": "assets/images/sonny-angel/creatures-2022/Richie.png"
+        },
+        {
+          "name": "Rill",
+          "image": "assets/images/sonny-angel/creatures-2022/Rill.png"
+        },
+        {
+          "name": "Rudie",
+          "image": "assets/images/sonny-angel/creatures-2022/Rudie.png"
+        },
+        {
+          "name": "Rusty",
+          "image": "assets/images/sonny-angel/creatures-2022/Rusty.png"
+        }
+      ]
+    },
+    {
+      "id": "dinosaur-2024",
+      "name": "Dinosaur 2024",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Brachiosaurus",
+          "image": "assets/images/sonny-angel/dinosaur-2024/brachiosaurus.png"
+        },
+        {
+          "name": "Pteranodon",
+          "image": "assets/images/sonny-angel/dinosaur-2024/pteranodon.png"
+        },
+        {
+          "name": "Spinosaurus",
+          "image": "assets/images/sonny-angel/dinosaur-2024/spinosaurus.png"
+        },
+        {
+          "name": "Stegosaurus",
+          "image": "assets/images/sonny-angel/dinosaur-2024/stegosaurus.png"
+        },
+        {
+          "name": "Triceratops",
+          "image": "assets/images/sonny-angel/dinosaur-2024/triceratops.png"
+        },
+        {
+          "name": "Tyrannosaurus",
+          "image": "assets/images/sonny-angel/dinosaur-2024/tyrannosaurus.png"
+        }
+      ]
+    },
+    {
+      "id": "dog-time-2024",
+      "name": "Dog Time 2024",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Beagle",
+          "image": "assets/images/sonny-angel/dog-time-2024/beagle.png"
+        },
+        {
+          "name": "Chihuahua",
+          "image": "assets/images/sonny-angel/dog-time-2024/chihuahua.png"
+        },
+        {
+          "name": "Dachshund",
+          "image": "assets/images/sonny-angel/dog-time-2024/dachshund.png"
+        },
+        {
+          "name": "Dalmatian",
+          "image": "assets/images/sonny-angel/dog-time-2024/dalmatian.png"
+        },
+        {
+          "name": "French Bull Dog",
+          "image": "assets/images/sonny-angel/dog-time-2024/french-bull-dog.png"
+        },
+        {
+          "name": "Pomeranian",
+          "image": "assets/images/sonny-angel/dog-time-2024/pomeranian.png"
+        },
+        {
+          "name": "Pug",
+          "image": "assets/images/sonny-angel/dog-time-2024/pug.png"
+        },
+        {
+          "name": "Shiba Inu",
+          "image": "assets/images/sonny-angel/dog-time-2024/shiba-inu.png"
+        },
+        {
+          "name": "Toy Poodle",
+          "image": "assets/images/sonny-angel/dog-time-2024/toy-poodle.png"
+        }
+      ]
+    },
+    {
+      "id": "dreaming-christmas-2021",
+      "name": "Dreaming Christmas 2021",
+      "palette": [
+        "#dc2626",
+        "#b91c1c",
+        "#991b1b"
+      ],
+      "items": [
+        {
+          "name": "Fawn",
+          "image": "assets/images/sonny-angel/dreaming-christmas-2021/fawn.png"
+        },
+        {
+          "name": "Monkey",
+          "image": "assets/images/sonny-angel/dreaming-christmas-2021/monkey.png"
+        },
+        {
+          "name": "Owl",
+          "image": "assets/images/sonny-angel/dreaming-christmas-2021/owl.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/dreaming-christmas-2021/rabbit.png"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/dreaming-christmas-2021/sheep.png"
+        },
+        {
+          "name": "Tapir",
+          "image": "assets/images/sonny-angel/dreaming-christmas-2021/tapir.png"
+        }
+      ]
+    },
+    {
+      "id": "enjoy-the-moment-2022",
+      "name": "Enjoy The Moment 2022",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Capture Warmth",
+          "image": "assets/images/sonny-angel/enjoy-the-moment-2022/capture-warmth.png"
+        },
+        {
+          "name": "Close To Nature",
+          "image": "assets/images/sonny-angel/enjoy-the-moment-2022/close-to-nature.png"
+        },
+        {
+          "name": "Diary Time",
+          "image": "assets/images/sonny-angel/enjoy-the-moment-2022/diary-time.png"
+        },
+        {
+          "name": "Easy Moment",
+          "image": "assets/images/sonny-angel/enjoy-the-moment-2022/easy-moment.png"
+        },
+        {
+          "name": "Enjoy Music",
+          "image": "assets/images/sonny-angel/enjoy-the-moment-2022/enjoy-music.png"
+        },
+        {
+          "name": "Spiritual Growth",
+          "image": "assets/images/sonny-angel/enjoy-the-moment-2022/spiritual-growth.png"
+        }
+      ]
+    },
+    {
+      "id": "flower",
+      "name": "Flower",
+      "palette": [
+        "#f093fb",
+        "#e91e63",
+        "#c2185b"
+      ],
+      "items": [
+        {
+          "name": "Acorn",
+          "image": "assets/images/sonny-angel/flower/acorn.png"
+        },
+        {
+          "name": "Cactus",
+          "image": "assets/images/sonny-angel/flower/cactus.png"
+        },
+        {
+          "name": "Carnation",
+          "image": "assets/images/sonny-angel/flower/carnation.png"
+        },
+        {
+          "name": "Cherry Blossom",
+          "image": "assets/images/sonny-angel/flower/cherry-blossom.png"
+        },
+        {
+          "name": "Hydrangea",
+          "image": "assets/images/sonny-angel/flower/hydrangea.png"
+        },
+        {
+          "name": "Lily Bell",
+          "image": "assets/images/sonny-angel/flower/lily-bell.png"
+        },
+        {
+          "name": "Morning Glory",
+          "image": "assets/images/sonny-angel/flower/morning-glory.png"
+        },
+        {
+          "name": "Pansy",
+          "image": "assets/images/sonny-angel/flower/pansy.png"
+        },
+        {
+          "name": "Poppy",
+          "image": "assets/images/sonny-angel/flower/poppy.png"
+        },
+        {
+          "name": "Rose",
+          "image": "assets/images/sonny-angel/flower/rose.png"
+        },
+        {
+          "name": "Sunflower",
+          "image": "assets/images/sonny-angel/flower/sunflower.png"
+        },
+        {
+          "name": "Tulip",
+          "image": "assets/images/sonny-angel/flower/tulip.png"
+        }
+      ]
+    },
+    {
+      "id": "flower-2019",
+      "name": "Flower 2019",
+      "palette": [
+        "#f093fb",
+        "#e91e63",
+        "#c2185b"
+      ],
+      "items": [
+        {
+          "name": "Acorn",
+          "image": "assets/images/sonny-angel/flower-2019/acorn.jpg"
+        },
+        {
+          "name": "Cactus",
+          "image": "assets/images/sonny-angel/flower-2019/cactus.jpg"
+        },
+        {
+          "name": "Carnation",
+          "image": "assets/images/sonny-angel/flower-2019/carnation.jpg"
+        },
+        {
+          "name": "Cherry Blossoms",
+          "image": "assets/images/sonny-angel/flower-2019/cherry-blossoms.jpg"
+        },
+        {
+          "name": "Dandelion",
+          "image": "assets/images/sonny-angel/flower-2019/dandelion.jpg"
+        },
+        {
+          "name": "Hydrangea",
+          "image": "assets/images/sonny-angel/flower-2019/hydrangea.jpg"
+        },
+        {
+          "name": "Lily Bell",
+          "image": "assets/images/sonny-angel/flower-2019/lily-bell.jpg"
+        },
+        {
+          "name": "Morning Glory",
+          "image": "assets/images/sonny-angel/flower-2019/morning-glory.jpg"
+        },
+        {
+          "name": "Pansy",
+          "image": "assets/images/sonny-angel/flower-2019/pansy.jpg"
+        },
+        {
+          "name": "Poppy",
+          "image": "assets/images/sonny-angel/flower-2019/poppy.jpg"
+        },
+        {
+          "name": "Rose",
+          "image": "assets/images/sonny-angel/flower-2019/rose.jpg"
+        },
+        {
+          "name": "Tulip",
+          "image": "assets/images/sonny-angel/flower-2019/tulip.jpg"
+        }
+      ]
+    },
+    {
+      "id": "flower-gift-2023",
+      "name": "Flower Gift 2023",
+      "palette": [
+        "#f093fb",
+        "#e91e63",
+        "#c2185b"
+      ],
+      "items": [
+        {
+          "name": "Daisy Lion Lime Green",
+          "image": "assets/images/sonny-angel/flower-gift-2023/daisy-lion-lime-green.png"
+        },
+        {
+          "name": "Daisy Lion Orange",
+          "image": "assets/images/sonny-angel/flower-gift-2023/daisy-lion-orange.png"
+        },
+        {
+          "name": "Rose Lion Pink",
+          "image": "assets/images/sonny-angel/flower-gift-2023/rose-lion-pink.png"
+        },
+        {
+          "name": "Rose Lion Yellow",
+          "image": "assets/images/sonny-angel/flower-gift-2023/rose-lion-yellow.png"
+        },
+        {
+          "name": "Sunflower Lion Blue",
+          "image": "assets/images/sonny-angel/flower-gift-2023/sunflower-lion-blue.png"
+        },
+        {
+          "name": "Sunflower Lion Mint Green",
+          "image": "assets/images/sonny-angel/flower-gift-2023/sunflower-lion-mint-green.png"
+        }
+      ]
+    },
+    {
+      "id": "fruit",
+      "name": "Fruit",
+      "palette": [
+        "#ff9a9e",
+        "#ff6b88",
+        "#ff3d71"
+      ],
+      "items": [
+        {
+          "name": "Apple",
+          "image": "assets/images/sonny-angel/fruit/apple.png"
+        },
+        {
+          "name": "Dragonfruit",
+          "image": "assets/images/sonny-angel/fruit/dragonfruit.png"
+        },
+        {
+          "name": "Durian",
+          "image": "assets/images/sonny-angel/fruit/durian.png"
+        },
+        {
+          "name": "Grape",
+          "image": "assets/images/sonny-angel/fruit/grape.png"
+        },
+        {
+          "name": "Melon",
+          "image": "assets/images/sonny-angel/fruit/melon.png"
+        },
+        {
+          "name": "Orange",
+          "image": "assets/images/sonny-angel/fruit/orange.png"
+        },
+        {
+          "name": "Peach",
+          "image": "assets/images/sonny-angel/fruit/peach.png"
+        },
+        {
+          "name": "Pear",
+          "image": "assets/images/sonny-angel/fruit/pear.png"
+        },
+        {
+          "name": "Pineapple",
+          "image": "assets/images/sonny-angel/fruit/pineapple.png"
+        },
+        {
+          "name": "Raspberry",
+          "image": "assets/images/sonny-angel/fruit/raspberry.png"
+        },
+        {
+          "name": "Strawberry",
+          "image": "assets/images/sonny-angel/fruit/strawberry.png"
+        },
+        {
+          "name": "Watermelon",
+          "image": "assets/images/sonny-angel/fruit/watermelon.png"
+        }
+      ]
+    },
+    {
+      "id": "fruit-2019",
+      "name": "Fruit 2019",
+      "palette": [
+        "#ff9a9e",
+        "#ff6b88",
+        "#ff3d71"
+      ],
+      "items": [
+        {
+          "name": "Apple",
+          "image": "assets/images/sonny-angel/fruit-2019/apple.jpg"
+        },
+        {
+          "name": "Chestnut",
+          "image": "assets/images/sonny-angel/fruit-2019/chestnut.jpg"
+        },
+        {
+          "name": "Grapes",
+          "image": "assets/images/sonny-angel/fruit-2019/grapes.jpg"
+        },
+        {
+          "name": "Lemon",
+          "image": "assets/images/sonny-angel/fruit-2019/lemon.jpg"
+        },
+        {
+          "name": "Mangosteen",
+          "image": "assets/images/sonny-angel/fruit-2019/mangosteen.jpg"
+        },
+        {
+          "name": "Melon",
+          "image": "assets/images/sonny-angel/fruit-2019/melon.jpg"
+        },
+        {
+          "name": "Peach",
+          "image": "assets/images/sonny-angel/fruit-2019/peach.jpg"
+        },
+        {
+          "name": "Pear",
+          "image": "assets/images/sonny-angel/fruit-2019/pear.jpg"
+        },
+        {
+          "name": "Persimmon",
+          "image": "assets/images/sonny-angel/fruit-2019/persimmon.jpg"
+        },
+        {
+          "name": "Pineapple",
+          "image": "assets/images/sonny-angel/fruit-2019/pineapple.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "image": "assets/images/sonny-angel/fruit-2019/strawberry.jpg"
+        },
+        {
+          "name": "Watermelon",
+          "image": "assets/images/sonny-angel/fruit-2019/watermelon.jpg"
+        }
+      ]
+    },
+    {
+      "id": "gifts-of-love-2024",
+      "name": "Gifts Of Love 2024",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Balloon",
+          "image": "assets/images/sonny-angel/gifts-of-love-2024/balloon.png"
+        },
+        {
+          "name": "Chocolate",
+          "image": "assets/images/sonny-angel/gifts-of-love-2024/chocolate.png"
+        },
+        {
+          "name": "Cuddly Bear",
+          "image": "assets/images/sonny-angel/gifts-of-love-2024/cuddly-bear.png"
+        },
+        {
+          "name": "Love",
+          "image": "assets/images/sonny-angel/gifts-of-love-2024/love.png"
+        },
+        {
+          "name": "Rose",
+          "image": "assets/images/sonny-angel/gifts-of-love-2024/rose.png"
+        },
+        {
+          "name": "You",
+          "image": "assets/images/sonny-angel/gifts-of-love-2024/you.png"
+        }
+      ]
+    },
+    {
+      "id": "halloween-2021",
+      "name": "Halloween 2021",
+      "palette": [
+        "#f97316",
+        "#ea580c",
+        "#c2410c"
+      ],
+      "items": [
+        {
+          "name": "Bat",
+          "image": "assets/images/sonny-angel/halloween-2021/bat.png"
+        },
+        {
+          "name": "Cat",
+          "image": "assets/images/sonny-angel/halloween-2021/cat.png"
+        },
+        {
+          "name": "Ghost",
+          "image": "assets/images/sonny-angel/halloween-2021/ghost.png"
+        },
+        {
+          "name": "Owl",
+          "image": "assets/images/sonny-angel/halloween-2021/owl.png"
+        },
+        {
+          "name": "Pumpkin",
+          "image": "assets/images/sonny-angel/halloween-2021/pumpkin.png"
+        },
+        {
+          "name": "Witch",
+          "image": "assets/images/sonny-angel/halloween-2021/witch.png"
+        }
+      ]
+    },
+    {
+      "id": "halloween-night",
+      "name": "Halloween Night",
+      "palette": [
+        "#f97316",
+        "#ea580c",
+        "#c2410c"
+      ],
+      "items": [
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/halloween-night/rabbit.jpg"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/halloween-night/sheep.jpg"
+        }
+      ]
+    },
+    {
+      "id": "halloween-pumpkin",
+      "name": "Halloween Pumpkin",
+      "palette": [
+        "#f97316",
+        "#ea580c",
+        "#c2410c"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/halloween-pumpkin/elephant.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/halloween-pumpkin/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "happiness-snow",
+      "name": "Happiness Snow",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/happiness-snow/rabbit.jpg"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/happiness-snow/sheep.jpg"
+        }
+      ]
+    },
+    {
+      "id": "harvest-2021",
+      "name": "Harvest 2021",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Autumn",
+          "image": "assets/images/sonny-angel/harvest-2021/Autumn.jpg"
+        },
+        {
+          "name": "Ginkgo_Leaf",
+          "image": "assets/images/sonny-angel/harvest-2021/Ginkgo_Leaf.jpg"
+        },
+        {
+          "name": "Maple_Leaf",
+          "image": "assets/images/sonny-angel/harvest-2021/Maple_Leaf.jpg"
+        },
+        {
+          "name": "Pumpkin",
+          "image": "assets/images/sonny-angel/harvest-2021/Pumpkin.jpg"
+        }
+      ]
+    },
+    {
+      "id": "heart-chocolate",
+      "name": "Heart Chocolate",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/heart-chocolate/elephant.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/heart-chocolate/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hello-jeju-2022",
+      "name": "Hello Jeju 2022",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Camellia_rabbit",
+          "image": "assets/images/sonny-angel/hello-jeju-2022/camellia_rabbit.png"
+        },
+        {
+          "name": "Canola_flower",
+          "image": "assets/images/sonny-angel/hello-jeju-2022/canola_flower.png"
+        },
+        {
+          "name": "Chocolate_pig",
+          "image": "assets/images/sonny-angel/hello-jeju-2022/chocolate_pig.png"
+        },
+        {
+          "name": "Halla_mountain",
+          "image": "assets/images/sonny-angel/hello-jeju-2022/halla_mountain.png"
+        },
+        {
+          "name": "Jeju_horse",
+          "image": "assets/images/sonny-angel/hello-jeju-2022/jeju_horse.png"
+        },
+        {
+          "name": "Jeju_tangerine",
+          "image": "assets/images/sonny-angel/hello-jeju-2022/jeju_tangerine.png"
+        }
+      ]
+    },
+    {
+      "id": "hippers-2021",
+      "name": "Hippers 2021",
+      "palette": [
+        "#7c3aed",
+        "#6d28d9",
+        "#5b21b6"
+      ],
+      "items": [
+        {
+          "name": "Duck",
+          "image": "assets/images/sonny-angel/hippers-2021/duck.jpg"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/hippers-2021/elephant.jpg"
+        },
+        {
+          "name": "Fawn",
+          "image": "assets/images/sonny-angel/hippers-2021/fawn.jpg"
+        },
+        {
+          "name": "Giraffe",
+          "image": "assets/images/sonny-angel/hippers-2021/giraffe.jpg"
+        },
+        {
+          "name": "Koala",
+          "image": "assets/images/sonny-angel/hippers-2021/koala.jpg"
+        },
+        {
+          "name": "Lion",
+          "image": "assets/images/sonny-angel/hippers-2021/lion.jpg"
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "image": "assets/images/sonny-angel/hippers-2021/lop-ear-rabbit.jpg"
+        },
+        {
+          "name": "Mouse",
+          "image": "assets/images/sonny-angel/hippers-2021/mouse.jpg"
+        },
+        {
+          "name": "Panda",
+          "image": "assets/images/sonny-angel/hippers-2021/panda.jpg"
+        },
+        {
+          "name": "Pig",
+          "image": "assets/images/sonny-angel/hippers-2021/pig.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/hippers-2021/rabbit.jpg"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/hippers-2021/sheep.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hippers-dreaming-2022",
+      "name": "Hippers Dreaming 2022",
+      "palette": [
+        "#7c3aed",
+        "#6d28d9",
+        "#5b21b6"
+      ],
+      "items": [
+        {
+          "name": "Duck",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/duck.jpg"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/elephant.jpg"
+        },
+        {
+          "name": "Fawn",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/fawn.jpg"
+        },
+        {
+          "name": "Giraffe",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/giraffe.jpg"
+        },
+        {
+          "name": "Koala",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/koala.jpg"
+        },
+        {
+          "name": "Lion",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/lion.jpg"
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/lop-ear-rabbit.jpg"
+        },
+        {
+          "name": "Mouse",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/mouse.jpg"
+        },
+        {
+          "name": "Panda",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/panda.jpg"
+        },
+        {
+          "name": "Pig",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/pig.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/rabbit.jpg"
+        },
+        {
+          "name": "Sheep",
+          "image": "assets/images/sonny-angel/hippers-dreaming-2022/sheep.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hippers-harvest-2022",
+      "name": "Hippers Harvest 2022",
+      "palette": [
+        "#7c3aed",
+        "#6d28d9",
+        "#5b21b6"
+      ],
+      "items": [
+        {
+          "name": "Apple",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/apple.png"
+        },
+        {
+          "name": "Carrot",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/carrot.png"
+        },
+        {
+          "name": "Cherry",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/cherry.png"
+        },
+        {
+          "name": "Eggplant",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/eggplant.png"
+        },
+        {
+          "name": "Grape",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/grape.png"
+        },
+        {
+          "name": "Melon",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/melon.png"
+        },
+        {
+          "name": "Mushroom",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/mushroom.png"
+        },
+        {
+          "name": "Pear",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/pear.png"
+        },
+        {
+          "name": "Pineapple",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/pineapple.png"
+        },
+        {
+          "name": "Radish",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/radish.png"
+        },
+        {
+          "name": "Strawberry",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/strawberry.png"
+        },
+        {
+          "name": "Tomato",
+          "image": "assets/images/sonny-angel/hippers-harvest-2022/tomato.png"
+        }
+      ]
+    },
+    {
+      "id": "hippers-looking-back-2024",
+      "name": "Hippers Looking Back 2024",
+      "palette": [
+        "#7c3aed",
+        "#6d28d9",
+        "#5b21b6"
+      ],
+      "items": [
+        {
+          "name": "Cat",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/cat.png"
+        },
+        {
+          "name": "Crocodile",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/crocodile.png"
+        },
+        {
+          "name": "Duck",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/duck.png"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/elephant.png"
+        },
+        {
+          "name": "Fawn",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/fawn.png"
+        },
+        {
+          "name": "French Bull Dog",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/french-bull-dog.png"
+        },
+        {
+          "name": "Hamster",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/hamster.png"
+        },
+        {
+          "name": "Koala",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/koala.png"
+        },
+        {
+          "name": "Monkey",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/monkey.png"
+        },
+        {
+          "name": "Mouse",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/mouse.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/rabbit.png"
+        },
+        {
+          "name": "Sloth",
+          "image": "assets/images/sonny-angel/hippers-looking-back-2024/sloth.png"
+        }
+      ]
+    },
+    {
+      "id": "home-sweet-home-2024",
+      "name": "Home Sweet Home 2024",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Baking Treats",
+          "image": "assets/images/sonny-angel/home-sweet-home-2024/baking-treats.png"
+        },
+        {
+          "name": "Bubble Bath",
+          "image": "assets/images/sonny-angel/home-sweet-home-2024/bubble-bath.png"
+        },
+        {
+          "name": "Cozy Reading",
+          "image": "assets/images/sonny-angel/home-sweet-home-2024/cozy-reading.png"
+        },
+        {
+          "name": "Gardening",
+          "image": "assets/images/sonny-angel/home-sweet-home-2024/gardening.png"
+        },
+        {
+          "name": "Getting Ready",
+          "image": "assets/images/sonny-angel/home-sweet-home-2024/getting-ready.png"
+        },
+        {
+          "name": "Sleepy Time",
+          "image": "assets/images/sonny-angel/home-sweet-home-2024/sleepy-time.png"
+        }
+      ]
+    },
+    {
+      "id": "i-love-rainy-day",
+      "name": "I Love Rainy Day",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Axolotl",
+          "image": "assets/images/sonny-angel/i-love-rainy-day/axolotl.png"
+        },
+        {
+          "name": "Duck",
+          "image": "assets/images/sonny-angel/i-love-rainy-day/duck.png"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/i-love-rainy-day/elephant.png"
+        },
+        {
+          "name": "Frog",
+          "image": "assets/images/sonny-angel/i-love-rainy-day/frog.png"
+        },
+        {
+          "name": "Goldfish",
+          "image": "assets/images/sonny-angel/i-love-rainy-day/goldfish.png"
+        },
+        {
+          "name": "Hippopotamus",
+          "image": "assets/images/sonny-angel/i-love-rainy-day/hippopotamus.png"
+        }
+      ]
+    },
+    {
+      "id": "its-bananas!",
+      "name": "Its Bananas!",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Banana Monkey Green",
+          "image": "assets/images/sonny-angel/its-bananas!/banana-monkey-green.png"
+        },
+        {
+          "name": "Banana Monkey Pink",
+          "image": "assets/images/sonny-angel/its-bananas!/banana-monkey-pink.png"
+        },
+        {
+          "name": "Banana Monkey Yellow",
+          "image": "assets/images/sonny-angel/its-bananas!/banana-monkey-yellow.png"
+        }
+      ]
+    },
+    {
+      "id": "japanese-good-luck-2021",
+      "name": "Japanese Good Luck 2021",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Daruma",
+          "image": "assets/images/sonny-angel/japanese-good-luck-2021/daruma.png"
+        },
+        {
+          "name": "Ebisuten",
+          "image": "assets/images/sonny-angel/japanese-good-luck-2021/ebisuten.png"
+        },
+        {
+          "name": "Guardian_dog",
+          "image": "assets/images/sonny-angel/japanese-good-luck-2021/guardian_dog.png"
+        },
+        {
+          "name": "Lucky_cat",
+          "image": "assets/images/sonny-angel/japanese-good-luck-2021/lucky_cat.png"
+        },
+        {
+          "name": "Mount_fuji",
+          "image": "assets/images/sonny-angel/japanese-good-luck-2021/mount_fuji.png"
+        },
+        {
+          "name": "Raccoon_dog",
+          "image": "assets/images/sonny-angel/japanese-good-luck-2021/raccoon_dog.png"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-liao-a-garden-in-my-heart",
+      "name": "Jimmy Liao A Garden In My Heart",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/jimmy-liao-a-garden-in-my-heart/elephant.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/jimmy-liao-a-garden-in-my-heart/rabbit.png"
+        }
+      ]
+    },
+    {
+      "id": "joyful-garden",
+      "name": "Joyful Garden",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/joyful-garden/rabbit.jpg"
+        },
+        {
+          "name": "Shiba Inu",
+          "image": "assets/images/sonny-angel/joyful-garden/shiba-inu.jpg"
+        }
+      ]
+    },
+    {
+      "id": "keme-life-everything-have-souls",
+      "name": "Keme Life Everything Have Souls",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/keme-life-everything-have-souls/rabbit.png"
+        },
+        {
+          "name": "Tiger",
+          "image": "assets/images/sonny-angel/keme-life-everything-have-souls/tiger.png"
+        }
+      ]
+    },
+    {
+      "id": "kiss-kiss-2025",
+      "name": "Kiss Kiss 2025",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cat",
+          "image": "assets/images/sonny-angel/kiss-kiss-2025/cat.png"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/kiss-kiss-2025/elephant.png"
+        },
+        {
+          "name": "Fennec",
+          "image": "assets/images/sonny-angel/kiss-kiss-2025/fennec.png"
+        },
+        {
+          "name": "Mouse",
+          "image": "assets/images/sonny-angel/kiss-kiss-2025/mouse.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/kiss-kiss-2025/rabbit.png"
+        }
+      ]
+    },
+    {
+      "id": "kiss-mark-leopard",
+      "name": "Kiss Mark Leopard",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/kiss-mark-leopard/elephant.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/kiss-mark-leopard/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "laduree-patisserie-collection",
+      "name": "Laduree Patisserie Collection",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Corolle Rose Framboise",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/corolle-rose-framboise.jpg"
+        },
+        {
+          "name": "Ispahan",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/ispahan.jpg"
+        },
+        {
+          "name": "Macaron Chocolat",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/macaron-chocolat.jpg"
+        },
+        {
+          "name": "Macaron Citron",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/macaron-citron.jpg"
+        },
+        {
+          "name": "Macaron Fruits Rouges",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/macaron-fruits-rouges.jpg"
+        },
+        {
+          "name": "Macaron Menthe Glaclale",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/macaron-menthe-glaclale.jpg"
+        },
+        {
+          "name": "Macaron Pistache",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/macaron-pistache.jpg"
+        },
+        {
+          "name": "Macaron Rose",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/macaron-rose.jpg"
+        },
+        {
+          "name": "Religieuse cassis violette",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/religieuse cassis violette.jpg"
+        },
+        {
+          "name": "Religieuse Pistache",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/religieuse-pistache.jpg"
+        },
+        {
+          "name": "Saint Honore Rose Framboise",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/saint-honore-rose-framboise.jpg"
+        },
+        {
+          "name": "Tarte Passion Framboise",
+          "image": "assets/images/sonny-angel/laduree-patisserie-collection/tarte-passion-framboise.jpg"
+        }
+      ]
+    },
+    {
+      "id": "love-the-music-2022",
+      "name": "Love The Music 2022",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Bossa_nova",
+          "image": "assets/images/sonny-angel/love-the-music-2022/Bossa_nova.jpg"
+        },
+        {
+          "name": "Folk",
+          "image": "assets/images/sonny-angel/love-the-music-2022/Folk.jpg"
+        },
+        {
+          "name": "Jazz",
+          "image": "assets/images/sonny-angel/love-the-music-2022/Jazz.jpg"
+        },
+        {
+          "name": "Rock",
+          "image": "assets/images/sonny-angel/love-the-music-2022/Rock.jpg"
+        }
+      ]
+    },
+    {
+      "id": "lucky-galo",
+      "name": "Lucky Galo",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cockerel",
+          "image": "assets/images/sonny-angel/lucky-galo/cockerel.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/lucky-galo/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "marguerite",
+      "name": "Marguerite",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/marguerite/elephant.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/marguerite/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "marine",
+      "name": "Marine",
+      "palette": [
+        "#6bb6ff",
+        "#1e88e5",
+        "#1565c0"
+      ],
+      "items": [
+        {
+          "name": "Blowfish",
+          "image": "assets/images/sonny-angel/marine/blowfish.png"
+        },
+        {
+          "name": "Clownfish",
+          "image": "assets/images/sonny-angel/marine/clownfish.png"
+        },
+        {
+          "name": "Dolphin",
+          "image": "assets/images/sonny-angel/marine/dolphin.png"
+        },
+        {
+          "name": "Jellyfish",
+          "image": "assets/images/sonny-angel/marine/jellyfish.png"
+        },
+        {
+          "name": "Manta",
+          "image": "assets/images/sonny-angel/marine/manta.png"
+        },
+        {
+          "name": "Penguin",
+          "image": "assets/images/sonny-angel/marine/penguin.png"
+        },
+        {
+          "name": "Seahorse",
+          "image": "assets/images/sonny-angel/marine/seahorse.png"
+        },
+        {
+          "name": "Seal",
+          "image": "assets/images/sonny-angel/marine/seal.png"
+        },
+        {
+          "name": "Shark",
+          "image": "assets/images/sonny-angel/marine/shark.png"
+        },
+        {
+          "name": "Shell",
+          "image": "assets/images/sonny-angel/marine/shell.png"
+        },
+        {
+          "name": "Starfish",
+          "image": "assets/images/sonny-angel/marine/starfish.png"
+        },
+        {
+          "name": "Whale",
+          "image": "assets/images/sonny-angel/marine/whale.png"
+        }
+      ]
+    },
+    {
+      "id": "marine-2019",
+      "name": "Marine 2019",
+      "palette": [
+        "#6bb6ff",
+        "#1e88e5",
+        "#1565c0"
+      ],
+      "items": [
+        {
+          "name": "Blowfish",
+          "image": "assets/images/sonny-angel/marine-2019/blowfish.jpg"
+        },
+        {
+          "name": "Clownfish",
+          "image": "assets/images/sonny-angel/marine-2019/clownfish.jpg"
+        },
+        {
+          "name": "Dolphin",
+          "image": "assets/images/sonny-angel/marine-2019/dolphin.jpg"
+        },
+        {
+          "name": "Jellyfish",
+          "image": "assets/images/sonny-angel/marine-2019/jellyfish.jpg"
+        },
+        {
+          "name": "Penguin",
+          "image": "assets/images/sonny-angel/marine-2019/penguin.jpg"
+        },
+        {
+          "name": "Ray",
+          "image": "assets/images/sonny-angel/marine-2019/ray.jpg"
+        },
+        {
+          "name": "Seahorse",
+          "image": "assets/images/sonny-angel/marine-2019/seahorse.jpg"
+        },
+        {
+          "name": "Seal",
+          "image": "assets/images/sonny-angel/marine-2019/seal.jpg"
+        },
+        {
+          "name": "Shark",
+          "image": "assets/images/sonny-angel/marine-2019/shark.jpg"
+        },
+        {
+          "name": "Shell",
+          "image": "assets/images/sonny-angel/marine-2019/shell.jpg"
+        },
+        {
+          "name": "Starfish",
+          "image": "assets/images/sonny-angel/marine-2019/starfish.jpg"
+        },
+        {
+          "name": "Whale",
+          "image": "assets/images/sonny-angel/marine-2019/whale.jpg"
+        }
+      ]
+    },
+    {
+      "id": "master-collection",
+      "name": "Master Collection",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Clover Rabbit",
+          "image": "assets/images/sonny-angel/master-collection/clover-rabbit.png"
+        },
+        {
+          "name": "Heart Rabbit",
+          "image": "assets/images/sonny-angel/master-collection/heart-rabbit.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/master-collection/rabbit.png"
+        }
+      ]
+    },
+    {
+      "id": "message-of-love-2022",
+      "name": "Message Of Love 2022",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cow",
+          "image": "assets/images/sonny-angel/message-of-love-2022/cow.png"
+        },
+        {
+          "name": "Dalmatian",
+          "image": "assets/images/sonny-angel/message-of-love-2022/dalmatian.png"
+        },
+        {
+          "name": "Deer",
+          "image": "assets/images/sonny-angel/message-of-love-2022/deer.png"
+        },
+        {
+          "name": "Fennec",
+          "image": "assets/images/sonny-angel/message-of-love-2022/fennec.png"
+        },
+        {
+          "name": "Mouse",
+          "image": "assets/images/sonny-angel/message-of-love-2022/mouse.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/message-of-love-2022/rabbit.png"
+        }
+      ]
+    },
+    {
+      "id": "my-happy-snack",
+      "name": "My Happy Snack",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Monkey",
+          "image": "assets/images/sonny-angel/my-happy-snack/monkey.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/my-happy-snack/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "my-sweet-honey",
+      "name": "My Sweet Honey",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/my-sweet-honey/elephant.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/my-sweet-honey/rabbit.png"
+        }
+      ]
+    },
+    {
+      "id": "new-year-card",
+      "name": "New Year Card",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cockerel 2017 Blue",
+          "image": "assets/images/sonny-angel/new-year-card/cockerel-2017-blue.jpg"
+        },
+        {
+          "name": "Cockerel 2017 Red",
+          "image": "assets/images/sonny-angel/new-year-card/cockerel-2017-red.jpg"
+        },
+        {
+          "name": "Cow 2009",
+          "image": "assets/images/sonny-angel/new-year-card/cow-2009.jpg"
+        },
+        {
+          "name": "Dragon 2012",
+          "image": "assets/images/sonny-angel/new-year-card/dragon-2012.jpg"
+        },
+        {
+          "name": "Horse 2014",
+          "image": "assets/images/sonny-angel/new-year-card/horse-2014.jpg"
+        },
+        {
+          "name": "Monkey 2016 Red",
+          "image": "assets/images/sonny-angel/new-year-card/monkey-2016-red.jpg"
+        },
+        {
+          "name": "Monkey 2016 White",
+          "image": "assets/images/sonny-angel/new-year-card/monkey-2016-white.jpg"
+        },
+        {
+          "name": "Mouse 2008",
+          "image": "assets/images/sonny-angel/new-year-card/mouse-2008.jpg"
+        },
+        {
+          "name": "Normal 2006",
+          "image": "assets/images/sonny-angel/new-year-card/normal-2006.jpg"
+        },
+        {
+          "name": "Rabbit 2011",
+          "image": "assets/images/sonny-angel/new-year-card/rabbit-2011.jpg"
+        },
+        {
+          "name": "Sheep 2015",
+          "image": "assets/images/sonny-angel/new-year-card/sheep-2015.jpg"
+        },
+        {
+          "name": "Shiba Inu 2018 Blue",
+          "image": "assets/images/sonny-angel/new-year-card/shiba-inu-2018-blue.jpg"
+        },
+        {
+          "name": "Shiba Inu 2018 Pink",
+          "image": "assets/images/sonny-angel/new-year-card/shiba-inu-2018-pink.jpg"
+        },
+        {
+          "name": "Snake 2013",
+          "image": "assets/images/sonny-angel/new-year-card/snake-2013.jpg"
+        },
+        {
+          "name": "Tiger 2010 Usa",
+          "image": "assets/images/sonny-angel/new-year-card/tiger-2010-usa.jpg"
+        },
+        {
+          "name": "Tiger 2010",
+          "image": "assets/images/sonny-angel/new-year-card/tiger-2010.jpg"
+        },
+        {
+          "name": "Uribou 2007",
+          "image": "assets/images/sonny-angel/new-year-card/uribou-2007.jpg"
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "name": "New York",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "BigApple",
+          "image": "assets/images/sonny-angel/new-york/BigApple.png"
+        },
+        {
+          "name": "Broadway",
+          "image": "assets/images/sonny-angel/new-york/Broadway.png"
+        },
+        {
+          "name": "Statue_of_Liberty",
+          "image": "assets/images/sonny-angel/new-york/Statue_of_Liberty.png"
+        },
+        {
+          "name": "YellowCab",
+          "image": "assets/images/sonny-angel/new-york/YellowCab.png"
+        }
+      ]
+    },
+    {
+      "id": "nippon-asagao",
+      "name": "Nippon Asagao",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/nippon-asagao/elephant.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/nippon-asagao/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "okinawa",
+      "name": "Okinawa",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Chibariyo Good Luck",
+          "image": "assets/images/sonny-angel/okinawa/chibariyo-good-luck.jpg"
+        },
+        {
+          "name": "Chimu Don Don Spark Joy",
+          "image": "assets/images/sonny-angel/okinawa/chimu-don-don-spark-joy.jpg"
+        },
+        {
+          "name": "Haisai Hello",
+          "image": "assets/images/sonny-angel/okinawa/haisai-hello.jpg"
+        },
+        {
+          "name": "Masan Yummy",
+          "image": "assets/images/sonny-angel/okinawa/masan-yummy.jpg"
+        },
+        {
+          "name": "Nankuru Naisa Dont Worry",
+          "image": "assets/images/sonny-angel/okinawa/nankuru-naisa-dont-worry.jpg"
+        },
+        {
+          "name": "Yuimaru Unity",
+          "image": "assets/images/sonny-angel/okinawa/yuimaru-unity.jpg"
+        }
+      ]
+    },
+    {
+      "id": "painted-by-robby",
+      "name": "Painted By Robby",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/painted-by-robby/rabbit.jpg"
+        },
+        {
+          "name": "Uribou",
+          "image": "assets/images/sonny-angel/painted-by-robby/uribou.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pet-treats",
+      "name": "Pet Treats",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cookie Cat",
+          "image": "assets/images/sonny-angel/pet-treats/cookie-cat.jpg"
+        },
+        {
+          "name": "Jelly Puppy",
+          "image": "assets/images/sonny-angel/pet-treats/jelly-puppy.jpg"
+        }
+      ]
+    },
+    {
+      "id": "plush-collection-cuddly-bear",
+      "name": "Plush Collection Cuddly Bear",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Brown Bear",
+          "image": "assets/images/sonny-angel/plush-collection-cuddly-bear/brown-bear.jpg"
+        },
+        {
+          "name": "White Bear",
+          "image": "assets/images/sonny-angel/plush-collection-cuddly-bear/white-bear.jpg"
+        }
+      ]
+    },
+    {
+      "id": "plush-collection-cuddly-rabbit",
+      "name": "Plush Collection Cuddly Rabbit",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Pink",
+          "image": "assets/images/sonny-angel/plush-collection-cuddly-rabbit/pink.jpg"
+        },
+        {
+          "name": "White",
+          "image": "assets/images/sonny-angel/plush-collection-cuddly-rabbit/white.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pumpkin-patch",
+      "name": "Pumpkin Patch",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cat",
+          "image": "assets/images/sonny-angel/pumpkin-patch/cat.png"
+        },
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/pumpkin-patch/elephant.png"
+        },
+        {
+          "name": "Frog",
+          "image": "assets/images/sonny-angel/pumpkin-patch/frog.png"
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "image": "assets/images/sonny-angel/pumpkin-patch/lop-ear-rabbit.png"
+        },
+        {
+          "name": "Mouse",
+          "image": "assets/images/sonny-angel/pumpkin-patch/mouse.png"
+        },
+        {
+          "name": "Panda",
+          "image": "assets/images/sonny-angel/pumpkin-patch/panda.png"
+        }
+      ]
+    },
+    {
+      "id": "refreshing-cold-drinks-2022",
+      "name": "Refreshing Cold Drinks 2022",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Grape",
+          "image": "assets/images/sonny-angel/refreshing-cold-drinks-2022/Grape.jpg"
+        },
+        {
+          "name": "Peach",
+          "image": "assets/images/sonny-angel/refreshing-cold-drinks-2022/Peach.jpg"
+        },
+        {
+          "name": "Strawberry",
+          "image": "assets/images/sonny-angel/refreshing-cold-drinks-2022/Strawberry.jpg"
+        },
+        {
+          "name": "Watermelon",
+          "image": "assets/images/sonny-angel/refreshing-cold-drinks-2022/Watermelon.jpg"
+        }
+      ]
+    },
+    {
+      "id": "seoul",
+      "name": "Seoul",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cafe Time",
+          "image": "assets/images/sonny-angel/seoul/cafe-time.jpg"
+        },
+        {
+          "name": "Hello!",
+          "image": "assets/images/sonny-angel/seoul/hello!.jpg"
+        },
+        {
+          "name": "Love Sweets",
+          "image": "assets/images/sonny-angel/seoul/love-sweets.jpg"
+        },
+        {
+          "name": "Time For A Break",
+          "image": "assets/images/sonny-angel/seoul/time-for-a-break.jpg"
+        },
+        {
+          "name": "Welcome!",
+          "image": "assets/images/sonny-angel/seoul/welcome!.jpg"
+        },
+        {
+          "name": "Yummy",
+          "image": "assets/images/sonny-angel/seoul/yummy.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sky-color-2020",
+      "name": "Sky Color 2020",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cloudy",
+          "image": "assets/images/sonny-angel/sky-color-2020/cloudy.png"
+        },
+        {
+          "name": "Rainbow",
+          "image": "assets/images/sonny-angel/sky-color-2020/rainbow.png"
+        },
+        {
+          "name": "Rainy",
+          "image": "assets/images/sonny-angel/sky-color-2020/rainy.png"
+        },
+        {
+          "name": "Snowy",
+          "image": "assets/images/sonny-angel/sky-color-2020/snowy.png"
+        },
+        {
+          "name": "Sunny",
+          "image": "assets/images/sonny-angel/sky-color-2020/sunny.png"
+        },
+        {
+          "name": "Thunder",
+          "image": "assets/images/sonny-angel/sky-color-2020/thunder.png"
+        }
+      ]
+    },
+    {
+      "id": "snack",
+      "name": "Snack",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Coffee",
+          "image": "assets/images/sonny-angel/snack/coffee.png"
+        },
+        {
+          "name": "Donut",
+          "image": "assets/images/sonny-angel/snack/donut.png"
+        },
+        {
+          "name": "French Fries",
+          "image": "assets/images/sonny-angel/snack/french-fries.png"
+        },
+        {
+          "name": "Fried Chicken Sandwich",
+          "image": "assets/images/sonny-angel/snack/fried-chicken-sandwich.png"
+        },
+        {
+          "name": "Fried Chicken",
+          "image": "assets/images/sonny-angel/snack/fried-chicken.png"
+        },
+        {
+          "name": "Hamburger",
+          "image": "assets/images/sonny-angel/snack/hamburger.png"
+        },
+        {
+          "name": "Hotdog",
+          "image": "assets/images/sonny-angel/snack/hotdog.png"
+        },
+        {
+          "name": "Ketchup",
+          "image": "assets/images/sonny-angel/snack/ketchup.png"
+        },
+        {
+          "name": "Milkshake",
+          "image": "assets/images/sonny-angel/snack/milkshake.png"
+        },
+        {
+          "name": "Mustard",
+          "image": "assets/images/sonny-angel/snack/mustard.png"
+        },
+        {
+          "name": "Sandwich",
+          "image": "assets/images/sonny-angel/snack/sandwich.png"
+        },
+        {
+          "name": "Sugar",
+          "image": "assets/images/sonny-angel/snack/sugar.png"
+        }
+      ]
+    },
+    {
+      "id": "snow-globe-laduree-patisserie-collection",
+      "name": "Snow Globe Laduree Patisserie Collection",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Snow Globe Laduree Patisserie Collection",
+          "image": "assets/images/sonny-angel/snow-globe-laduree-patisserie-collection/snow-globe-laduree-patisserie-collection.jpg"
+        }
+      ]
+    },
+    {
+      "id": "space-adventure-2020",
+      "name": "Space Adventure 2020",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Alien",
+          "image": "assets/images/sonny-angel/space-adventure-2020/alien.png"
+        },
+        {
+          "name": "Astronaut",
+          "image": "assets/images/sonny-angel/space-adventure-2020/astronaut.png"
+        },
+        {
+          "name": "Earth",
+          "image": "assets/images/sonny-angel/space-adventure-2020/earth.png"
+        },
+        {
+          "name": "Moon",
+          "image": "assets/images/sonny-angel/space-adventure-2020/moon.png"
+        },
+        {
+          "name": "Rocket",
+          "image": "assets/images/sonny-angel/space-adventure-2020/rocket.png"
+        },
+        {
+          "name": "Sun",
+          "image": "assets/images/sonny-angel/space-adventure-2020/sun.png"
+        }
+      ]
+    },
+    {
+      "id": "summer-2018",
+      "name": "Summer 2018",
+      "palette": [
+        "#4ecdc4",
+        "#38a69b",
+        "#2c7873"
+      ],
+      "items": [
+        {
+          "name": "Blue Penguin",
+          "image": "assets/images/sonny-angel/summer-2018/blue-penguin.jpg"
+        },
+        {
+          "name": "Blue Whale",
+          "image": "assets/images/sonny-angel/summer-2018/blue-whale.jpg"
+        },
+        {
+          "name": "Gray Penguin",
+          "image": "assets/images/sonny-angel/summer-2018/gray-penguin.jpg"
+        },
+        {
+          "name": "Green Penguin",
+          "image": "assets/images/sonny-angel/summer-2018/green-penguin.jpg"
+        },
+        {
+          "name": "Light Blue Penguin",
+          "image": "assets/images/sonny-angel/summer-2018/light-blue-penguin.jpg"
+        },
+        {
+          "name": "Light Blue Whale",
+          "image": "assets/images/sonny-angel/summer-2018/light-blue-whale.jpg"
+        },
+        {
+          "name": "Orange Whale",
+          "image": "assets/images/sonny-angel/summer-2018/orange-whale.jpg"
+        },
+        {
+          "name": "Pink Penguin",
+          "image": "assets/images/sonny-angel/summer-2018/pink-penguin.jpg"
+        },
+        {
+          "name": "Pink Whale",
+          "image": "assets/images/sonny-angel/summer-2018/pink-whale.jpg"
+        },
+        {
+          "name": "Purple Penguin",
+          "image": "assets/images/sonny-angel/summer-2018/purple-penguin.jpg"
+        },
+        {
+          "name": "Teal Whale",
+          "image": "assets/images/sonny-angel/summer-2018/teal-whale.jpg"
+        },
+        {
+          "name": "Yellow Whale",
+          "image": "assets/images/sonny-angel/summer-2018/yellow-whale.jpg"
+        }
+      ]
+    },
+    {
+      "id": "summer-festival-2021",
+      "name": "Summer Festival 2021",
+      "palette": [
+        "#4ecdc4",
+        "#38a69b",
+        "#2c7873"
+      ],
+      "items": [
+        {
+          "name": "Fan",
+          "image": "assets/images/sonny-angel/summer-festival-2021/Fan.png"
+        },
+        {
+          "name": "Goldfish",
+          "image": "assets/images/sonny-angel/summer-festival-2021/Goldfish.png"
+        },
+        {
+          "name": "Kitsune Mask",
+          "image": "assets/images/sonny-angel/summer-festival-2021/Kitsune-Mask.png"
+        },
+        {
+          "name": "Water Balloon",
+          "image": "assets/images/sonny-angel/summer-festival-2021/Water-Balloon.png"
+        }
+      ]
+    },
+    {
+      "id": "summer-island-holiday",
+      "name": "Summer Island Holiday",
+      "palette": [
+        "#4ecdc4",
+        "#38a69b",
+        "#2c7873"
+      ],
+      "items": [
+        {
+          "name": "Morning Glow",
+          "image": "assets/images/sonny-angel/summer-island-holiday/morning-glow.png"
+        },
+        {
+          "name": "Sunset Glow",
+          "image": "assets/images/sonny-angel/summer-island-holiday/sunset-glow.png"
+        }
+      ]
+    },
+    {
+      "id": "summer-vacation-2017",
+      "name": "Summer Vacation 2017",
+      "palette": [
+        "#4ecdc4",
+        "#38a69b",
+        "#2c7873"
+      ],
+      "items": [
+        {
+          "name": "Blue Fish",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/blue-fish.jpg"
+        },
+        {
+          "name": "Enjoy Summer",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/enjoy-summer.jpg"
+        },
+        {
+          "name": "Green",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/green.jpg"
+        },
+        {
+          "name": "Ice Cream",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/ice-cream.jpg"
+        },
+        {
+          "name": "Lets Play",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/lets-play.jpg"
+        },
+        {
+          "name": "Love Peace",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/love-peace.jpg"
+        },
+        {
+          "name": "Palm Tree",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/palm-tree.jpg"
+        },
+        {
+          "name": "Purple",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/purple.jpg"
+        },
+        {
+          "name": "Summer Vacation",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/summer-vacation.jpg"
+        },
+        {
+          "name": "Sunshine",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/sunshine.jpg"
+        },
+        {
+          "name": "Watermelon",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/watermelon.jpg"
+        },
+        {
+          "name": "Yellow Shell",
+          "image": "assets/images/sonny-angel/summer-vacation-2017/yellow-shell.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sweets",
+      "name": "Sweets",
+      "palette": [
+        "#fdbb2d",
+        "#f57c00",
+        "#e65100"
+      ],
+      "items": [
+        {
+          "name": "Candy",
+          "image": "assets/images/sonny-angel/sweets/candy.jpg"
+        },
+        {
+          "name": "Cookie",
+          "image": "assets/images/sonny-angel/sweets/cookie.jpg"
+        },
+        {
+          "name": "Cream Puff",
+          "image": "assets/images/sonny-angel/sweets/cream-puff.jpg"
+        },
+        {
+          "name": "Cupcake",
+          "image": "assets/images/sonny-angel/sweets/cupcake.jpg"
+        },
+        {
+          "name": "Fruit Tart",
+          "image": "assets/images/sonny-angel/sweets/fruit-tart.jpg"
+        },
+        {
+          "name": "Ice Creams",
+          "image": "assets/images/sonny-angel/sweets/ice-creams.jpg"
+        },
+        {
+          "name": "Jelly Beans",
+          "image": "assets/images/sonny-angel/sweets/jelly-beans.jpg"
+        },
+        {
+          "name": "Konpeito",
+          "image": "assets/images/sonny-angel/sweets/konpeito.jpg"
+        },
+        {
+          "name": "Pancake",
+          "image": "assets/images/sonny-angel/sweets/pancake.jpg"
+        },
+        {
+          "name": "Popcorn",
+          "image": "assets/images/sonny-angel/sweets/popcorn.jpg"
+        },
+        {
+          "name": "Pudding",
+          "image": "assets/images/sonny-angel/sweets/pudding.jpg"
+        },
+        {
+          "name": "Strawberry Shortcake",
+          "image": "assets/images/sonny-angel/sweets/strawberry-shortcake.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sweets-2018",
+      "name": "Sweets 2018",
+      "palette": [
+        "#fdbb2d",
+        "#f57c00",
+        "#e65100"
+      ],
+      "items": [
+        {
+          "name": "Candy",
+          "image": "assets/images/sonny-angel/sweets-2018/candy.jpg"
+        },
+        {
+          "name": "Cookie",
+          "image": "assets/images/sonny-angel/sweets-2018/cookie.jpg"
+        },
+        {
+          "name": "Cream Puff",
+          "image": "assets/images/sonny-angel/sweets-2018/cream-puff.jpg"
+        },
+        {
+          "name": "Cupcake",
+          "image": "assets/images/sonny-angel/sweets-2018/cupcake.jpg"
+        },
+        {
+          "name": "Fruit Tart",
+          "image": "assets/images/sonny-angel/sweets-2018/fruit-tart.jpg"
+        },
+        {
+          "name": "Ice Cream",
+          "image": "assets/images/sonny-angel/sweets-2018/ice-cream.jpg"
+        },
+        {
+          "name": "Jelly Beans",
+          "image": "assets/images/sonny-angel/sweets-2018/jelly-beans.jpg"
+        },
+        {
+          "name": "Konpeito",
+          "image": "assets/images/sonny-angel/sweets-2018/konpeito.jpg"
+        },
+        {
+          "name": "Pancake",
+          "image": "assets/images/sonny-angel/sweets-2018/pancake.jpg"
+        },
+        {
+          "name": "Popcorn",
+          "image": "assets/images/sonny-angel/sweets-2018/popcorn.jpg"
+        },
+        {
+          "name": "Pudding",
+          "image": "assets/images/sonny-angel/sweets-2018/pudding.jpg"
+        },
+        {
+          "name": "Strawberry Shortcake",
+          "image": "assets/images/sonny-angel/sweets-2018/strawberry-shortcake.jpg"
+        }
+      ]
+    },
+    {
+      "id": "town-musicians-2021",
+      "name": "Town Musicians 2021",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Cat",
+          "image": "assets/images/sonny-angel/town-musicians-2021/cat.png"
+        },
+        {
+          "name": "Dog",
+          "image": "assets/images/sonny-angel/town-musicians-2021/dog.png"
+        },
+        {
+          "name": "Donkey",
+          "image": "assets/images/sonny-angel/town-musicians-2021/donkey.png"
+        },
+        {
+          "name": "Rooster",
+          "image": "assets/images/sonny-angel/town-musicians-2021/rooster.png"
+        },
+        {
+          "name": "Sonny",
+          "image": "assets/images/sonny-angel/town-musicians-2021/sonny.png"
+        },
+        {
+          "name": "Thief",
+          "image": "assets/images/sonny-angel/town-musicians-2021/thief.png"
+        }
+      ]
+    },
+    {
+      "id": "tropical-marine",
+      "name": "Tropical Marine",
+      "palette": [
+        "#6bb6ff",
+        "#1e88e5",
+        "#1565c0"
+      ],
+      "items": [
+        {
+          "name": "Elephant",
+          "image": "assets/images/sonny-angel/tropical-marine/elephant.jpg"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/tropical-marine/rabbit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "valentines-day-2017",
+      "name": "Valentines Day 2017",
+      "palette": [
+        "#f9a8d4",
+        "#ec4899",
+        "#db2777"
+      ],
+      "items": [
+        {
+          "name": "Bunny Doll",
+          "image": "assets/images/sonny-angel/valentines-day-2017/bunny-doll.jpg"
+        },
+        {
+          "name": "Puppy Plushie",
+          "image": "assets/images/sonny-angel/valentines-day-2017/puppy-plushie.jpg"
+        },
+        {
+          "name": "Sweet Kitty",
+          "image": "assets/images/sonny-angel/valentines-day-2017/sweet-kitty.jpg"
+        },
+        {
+          "name": "Teddy Bear",
+          "image": "assets/images/sonny-angel/valentines-day-2017/teddy-bear.jpg"
+        }
+      ]
+    },
+    {
+      "id": "valentines-day-2018",
+      "name": "Valentines Day 2018",
+      "palette": [
+        "#f9a8d4",
+        "#ec4899",
+        "#db2777"
+      ],
+      "items": [
+        {
+          "name": "Rose Basket",
+          "image": "assets/images/sonny-angel/valentines-day-2018/rose-basket.jpg"
+        },
+        {
+          "name": "Rose Bouquet",
+          "image": "assets/images/sonny-angel/valentines-day-2018/rose-bouquet.jpg"
+        },
+        {
+          "name": "Rose Box",
+          "image": "assets/images/sonny-angel/valentines-day-2018/rose-box.jpg"
+        },
+        {
+          "name": "Single Rose",
+          "image": "assets/images/sonny-angel/valentines-day-2018/single-rose.jpg"
+        }
+      ]
+    },
+    {
+      "id": "valentines-day-2019",
+      "name": "Valentines Day 2019",
+      "palette": [
+        "#f9a8d4",
+        "#ec4899",
+        "#db2777"
+      ],
+      "items": [
+        {
+          "name": "Chocolate_fawn",
+          "image": "assets/images/sonny-angel/valentines-day-2019/chocolate_fawn.jpg"
+        },
+        {
+          "name": "Chocolate_mouse",
+          "image": "assets/images/sonny-angel/valentines-day-2019/chocolate_mouse.jpg"
+        },
+        {
+          "name": "Chocolate_rabbit",
+          "image": "assets/images/sonny-angel/valentines-day-2019/chocolate_rabbit.jpg"
+        },
+        {
+          "name": "Chocolate_sheep",
+          "image": "assets/images/sonny-angel/valentines-day-2019/chocolate_sheep.jpg"
+        }
+      ]
+    },
+    {
+      "id": "valentines-day-2020",
+      "name": "Valentines Day 2020",
+      "palette": [
+        "#f9a8d4",
+        "#ec4899",
+        "#db2777"
+      ],
+      "items": [
+        {
+          "name": "Chocolate_cat",
+          "image": "assets/images/sonny-angel/valentines-day-2020/chocolate_cat.png"
+        },
+        {
+          "name": "Chocolate_elephant",
+          "image": "assets/images/sonny-angel/valentines-day-2020/chocolate_elephant.png"
+        },
+        {
+          "name": "Chocolate_french_bulldog",
+          "image": "assets/images/sonny-angel/valentines-day-2020/chocolate_french_bulldog.png"
+        },
+        {
+          "name": "Chocolate_rabbit",
+          "image": "assets/images/sonny-angel/valentines-day-2020/chocolate_rabbit.png"
+        }
+      ]
+    },
+    {
+      "id": "vegetable",
+      "name": "Vegetable",
+      "palette": [
+        "#74c365",
+        "#52a540",
+        "#3d7830"
+      ],
+      "items": [
+        {
+          "name": "Bok Choy",
+          "image": "assets/images/sonny-angel/vegetable/bok-choy.png"
+        },
+        {
+          "name": "Cabbage",
+          "image": "assets/images/sonny-angel/vegetable/cabbage.png"
+        },
+        {
+          "name": "Carrot",
+          "image": "assets/images/sonny-angel/vegetable/carrot.png"
+        },
+        {
+          "name": "Cauliflower",
+          "image": "assets/images/sonny-angel/vegetable/cauliflower.png"
+        },
+        {
+          "name": "Corn",
+          "image": "assets/images/sonny-angel/vegetable/corn.png"
+        },
+        {
+          "name": "Eggplant",
+          "image": "assets/images/sonny-angel/vegetable/eggplant.png"
+        },
+        {
+          "name": "Garlic",
+          "image": "assets/images/sonny-angel/vegetable/garlic.png"
+        },
+        {
+          "name": "Green Pepper",
+          "image": "assets/images/sonny-angel/vegetable/green-pepper.png"
+        },
+        {
+          "name": "Onion",
+          "image": "assets/images/sonny-angel/vegetable/onion.png"
+        },
+        {
+          "name": "Radish",
+          "image": "assets/images/sonny-angel/vegetable/radish.png"
+        },
+        {
+          "name": "Tomato",
+          "image": "assets/images/sonny-angel/vegetable/tomato.png"
+        },
+        {
+          "name": "Zucchini",
+          "image": "assets/images/sonny-angel/vegetable/zucchini.png"
+        }
+      ]
+    },
+    {
+      "id": "vegetable-2019",
+      "name": "Vegetable 2019",
+      "palette": [
+        "#74c365",
+        "#52a540",
+        "#3d7830"
+      ],
+      "items": [
+        {
+          "name": "Bamboo Shoot",
+          "image": "assets/images/sonny-angel/vegetable-2019/bamboo-shoot.jpg"
+        },
+        {
+          "name": "Cabbage",
+          "image": "assets/images/sonny-angel/vegetable-2019/cabbage.jpg"
+        },
+        {
+          "name": "Carrot",
+          "image": "assets/images/sonny-angel/vegetable-2019/carrot.jpg"
+        },
+        {
+          "name": "Corn",
+          "image": "assets/images/sonny-angel/vegetable-2019/corn.jpg"
+        },
+        {
+          "name": "Eggplant",
+          "image": "assets/images/sonny-angel/vegetable-2019/eggplant.jpg"
+        },
+        {
+          "name": "Japanese Ginger",
+          "image": "assets/images/sonny-angel/vegetable-2019/japanese-ginger.jpg"
+        },
+        {
+          "name": "Japanese Radish",
+          "image": "assets/images/sonny-angel/vegetable-2019/japanese-radish.jpg"
+        },
+        {
+          "name": "Onion",
+          "image": "assets/images/sonny-angel/vegetable-2019/onion.jpg"
+        },
+        {
+          "name": "Pimento",
+          "image": "assets/images/sonny-angel/vegetable-2019/pimento.jpg"
+        },
+        {
+          "name": "Radish",
+          "image": "assets/images/sonny-angel/vegetable-2019/radish.jpg"
+        },
+        {
+          "name": "Sweet Potato",
+          "image": "assets/images/sonny-angel/vegetable-2019/sweet-potato.jpg"
+        },
+        {
+          "name": "Tomato",
+          "image": "assets/images/sonny-angel/vegetable-2019/tomato.jpg"
+        }
+      ]
+    },
+    {
+      "id": "winter-wonderland-2023",
+      "name": "Winter Wonderland 2023",
+      "palette": [
+        "#0284c7",
+        "#0369a1",
+        "#075985"
+      ],
+      "items": [
+        {
+          "name": "Bear",
+          "image": "assets/images/sonny-angel/winter-wonderland-2023/bear.png"
+        },
+        {
+          "name": "Dalmatian",
+          "image": "assets/images/sonny-angel/winter-wonderland-2023/dalmatian.png"
+        },
+        {
+          "name": "Fawn",
+          "image": "assets/images/sonny-angel/winter-wonderland-2023/fawn.png"
+        },
+        {
+          "name": "Koala",
+          "image": "assets/images/sonny-angel/winter-wonderland-2023/koala.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/winter-wonderland-2023/rabbit.png"
+        },
+        {
+          "name": "Reindeer",
+          "image": "assets/images/sonny-angel/winter-wonderland-2023/reindeer.png"
+        }
+      ]
+    },
+    {
+      "id": "wonderland-2020",
+      "name": "Wonderland 2020",
+      "palette": [
+        "#be185d",
+        "#9d174d",
+        "#831843"
+      ],
+      "items": [
+        {
+          "name": "Card",
+          "image": "assets/images/sonny-angel/wonderland-2020/card.png"
+        },
+        {
+          "name": "Cheshire Cat",
+          "image": "assets/images/sonny-angel/wonderland-2020/cheshire-cat.png"
+        },
+        {
+          "name": "Mad Hatter",
+          "image": "assets/images/sonny-angel/wonderland-2020/mad-hatter.png"
+        },
+        {
+          "name": "Rabbit",
+          "image": "assets/images/sonny-angel/wonderland-2020/rabbit.png"
+        },
+        {
+          "name": "Sonny",
+          "image": "assets/images/sonny-angel/wonderland-2020/sonny.png"
+        },
+        {
+          "name": "Teapot",
+          "image": "assets/images/sonny-angel/wonderland-2020/teapot.png"
+        }
+      ]
+    }
+  ]
 }

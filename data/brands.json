@@ -46,8 +46,7 @@
     "name": "Sonny Angel",
     "data": "./data/sonny-angel.json",
     "featuredImage": "./assets/brand-previews/sonny-angel.png",
-    "tagline": "COMING SOON",
-    "popularity": 70
+    "popularity": 95
   },
   {
     "id": "farmer-bob",
@@ -58,7 +57,7 @@
   },
   {
     "id": "mr-bone",
-    "name": "Mr Bone",
+    "name": "Mr. Bone",
     "data": "./data/mr-bone.json",
     "featuredImage": "./assets/brand-previews/mr-bone.png",
     "tagline": "COMING SOON"

@@ -39,7 +39,11 @@
             "#0c2f23",
             "#061511"
           ],
-          "image": "./assets/images/smiski/hugging-knees.png"
+          "image": "./assets/images/smiski/hugging-knees.png",
+          "priceOverride": {
+            "amount": 15,
+            "listingCount": 1
+          }
         },
         {
           "id": "smiski-series-1-looking-back",
@@ -94,7 +98,8 @@
             "#0c2f23",
             "#061511"
           ],
-          "image": "./assets/images/smiski/little-lifting.png"
+          "image": "./assets/images/smiski/little-lifting.png",
+          "priceOverride": "no-data"
         },
         {
           "id": "smiski-series-1-little-peeking",
@@ -105,7 +110,8 @@
             "#0c2f23",
             "#061511"
           ],
-          "image": "./assets/images/smiski/little-peeking.png"
+          "image": "./assets/images/smiski/little-peeking.png",
+          "priceOverride": "no-data"
         },
         {
           "id": "smiski-series-1-little-hugging",
@@ -116,7 +122,8 @@
             "#0c2f23",
             "#061511"
           ],
-          "image": "./assets/images/smiski/little-hugging.png"
+          "image": "./assets/images/smiski/little-hugging.png",
+          "priceOverride": "no-data"
         },
         {
           "id": "smiski-series-1-the-scream",
@@ -131,14 +138,18 @@
         },
         {
           "id": "smiski-series-1-rudolph",
-          "name": "Rudolph",
+          "name": "Reindeer",
           "rarity": "Secret",
           "palette": [
             "#1f6f4d",
             "#0c2f23",
             "#061511"
           ],
-          "image": "./assets/images/smiski/rudolph.png"
+          "image": "./assets/images/smiski/rudolph.png",
+          "priceOverride": {
+            "amount": 313,
+            "listingCount": 2
+          }
         }
       ]
     },
@@ -158,7 +169,11 @@
             "#0c2f23",
             "#061511"
           ],
-          "image": "./assets/images/smiski/climbing.png"
+          "image": "./assets/images/smiski/climbing.png",
+          "priceOverride": {
+            "amount": 30,
+            "listingCount": 2
+          }
         },
         {
           "id": "smiski-series-2-daydreaming",
@@ -169,7 +184,11 @@
             "#0c2f23",
             "#061511"
           ],
-          "image": "./assets/images/smiski/daydreaming.png"
+          "image": "./assets/images/smiski/daydreaming.png",
+          "priceOverride": {
+            "amount": 46,
+            "listingCount": 1
+          }
         },
         {
           "id": "smiski-series-2-kneeling",
@@ -796,7 +815,11 @@
             "#1f6f4d",
             "#0c2f23",
             "#061511"
-          ]
+          ],
+          "priceOverride": {
+            "amount": 100,
+            "listingCount": 1
+          }
         }
       ]
     },
@@ -1437,6 +1460,640 @@
             "#0c2f23",
             "#061511"
           ]
+        }
+      ]
+    },
+    {
+      "id": "smiski-sensor-light",
+      "name": "Sensor Light",
+      "release": "",
+      "description": "",
+      "palette": ["#FFE4B5","#FFA500","#8B4513"],
+      "items": [
+        {
+          "id": "smiski-sensor-light-smiski",
+          "name": "Smiski",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/smiski-sensor-light.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-touch-light",
+      "name": "Touch Light",
+      "release": "",
+      "description": "",
+      "palette": ["#E6E6FA","#9370DB","#4B0082"],
+      "items": [
+        {
+          "id": "smiski-touch-light-smiski",
+          "name": "Smiski",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/smiski-touch-light.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-strap-accessories-1",
+      "name": "Strap Accessories 1",
+      "release": "",
+      "description": "",
+      "palette": ["#FFB6C1","#FF69B4","#C71585"],
+      "items": [
+        {
+          "id": "smiski-strap-accessories-1-hiding",
+          "name": "Hiding",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hiding-strap-accessories-1.png"
+        },
+        {
+          "id": "smiski-strap-accessories-1-hugging-knees",
+          "name": "Hugging Knees",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hugging-knees-strap-accessories-1.png"
+        },
+        {
+          "id": "smiski-strap-accessories-1-looking-back",
+          "name": "Looking Back",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/looking-back-strap-accessories-1.png"
+        },
+        {
+          "id": "smiski-strap-accessories-1-lounging",
+          "name": "Lounging",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/lounging-strap-accessories-1.png"
+        },
+        {
+          "id": "smiski-strap-accessories-1-peeking",
+          "name": "Peeking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/peeking-strap-accessories-1.png"
+        },
+        {
+          "id": "smiski-strap-accessories-1-sitting",
+          "name": "Sitting",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/sitting-strap-accessories-1.png"
+        },
+        {
+          "id": "smiski-strap-accessories-1-the-scream",
+          "name": "The Scream",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/the-scream-strap-accessories-1-secret.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-strap-accessories-2",
+      "name": "Strap Accessories 2",
+      "release": "",
+      "description": "",
+      "palette": ["#F0E68C","#DAA520","#B8860B"],
+      "items": [
+        {
+          "id": "smiski-strap-accessories-2-climbing",
+          "name": "Climbing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/climbing-strap-accessories-2.png"
+        },
+        {
+          "id": "smiski-strap-accessories-2-daydreaming",
+          "name": "Daydreaming",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/daydreaming-strap-accessories-2.png"
+        },
+        {
+          "id": "smiski-strap-accessories-2-kneeling",
+          "name": "Kneeling",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/kneeling-strap-accessories-2.png"
+        },
+        {
+          "id": "smiski-strap-accessories-2-listening",
+          "name": "Listening",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/listening-strap-accessories-2.png"
+        },
+        {
+          "id": "smiski-strap-accessories-2-peeking",
+          "name": "Peeking",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/peeking-strap-accessories-2.png"
+        },
+        {
+          "id": "smiski-strap-accessories-2-pushing",
+          "name": "Pushing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/pushing-strap-accessories-2.png"
+        },
+        {
+          "id": "smiski-strap-accessories-2-venus",
+          "name": "Venus",
+          "rarity": "Secret",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/venus-strap-accessories-2-secret.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-rain-bomb",
+      "name": "Rain Bomb",
+      "release": "",
+      "description": "",
+      "palette": ["#87CEEB","#4682B4","#191970"],
+      "items": [
+        {
+          "id": "smiski-rain-bomb-having-swim-ring",
+          "name": "Having Swim Ring",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/having-swim-ring-rain-bomb.png"
+        },
+        {
+          "id": "smiski-rain-bomb-lounging",
+          "name": "Lounging",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/lounging-rain-bomb.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-keychain",
+      "name": "Keychain",
+      "release": "",
+      "description": "",
+      "palette": ["#DDA0DD","#BA55D3","#8B008B"],
+      "items": [
+        {
+          "id": "smiski-keychain-carrying",
+          "name": "Carrying",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/carrying-keychain.png"
+        },
+        {
+          "id": "smiski-keychain-grabbing",
+          "name": "Grabbing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/grabbing-keychain.png"
+        },
+        {
+          "id": "smiski-keychain-pulling",
+          "name": "Pulling",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/pulling-keychain.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-zipperbite-1",
+      "name": "Zipperbite 1",
+      "release": "",
+      "description": "",
+      "palette": ["#FFA07A","#FF6347","#DC143C"],
+      "items": [
+        {
+          "id": "smiski-zipperbite-1-hanging-on",
+          "name": "Hanging On",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hanging-on-zipperbite-1.png"
+        },
+        {
+          "id": "smiski-zipperbite-1-hugging-knees",
+          "name": "Hugging Knees",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hugging-knees-zipperbite-1.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-zipperbite-2",
+      "name": "Zipperbite 2",
+      "release": "",
+      "description": "",
+      "palette": ["#98FB98","#32CD32","#228B22"],
+      "items": [
+        {
+          "id": "smiski-zipperbite-2-falling-down",
+          "name": "Falling Down",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/falling-down-zipperbite-2.png"
+        },
+        {
+          "id": "smiski-zipperbite-2-lotus-pose",
+          "name": "Lotus Pose",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/lotus-pose-zipperbite-2.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-toothbrush-stand",
+      "name": "Toothbrush Stand",
+      "release": "",
+      "description": "",
+      "palette": ["#F5DEB3","#DEB887","#CD853F"],
+      "items": [
+        {
+          "id": "smiski-toothbrush-stand-carrying",
+          "name": "Carrying",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/carrying-toothbrush-stand.png"
+        },
+        {
+          "id": "smiski-toothbrush-stand-holding",
+          "name": "Holding",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/holding-toothbrush-stand.png"
+        },
+        {
+          "id": "smiski-toothbrush-stand-hugging",
+          "name": "Hugging",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hugging-toothbrush-stand.png"
+        },
+        {
+          "id": "smiski-toothbrush-stand-protecting",
+          "name": "Protecting",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/protecting-toothbrush-stand.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-bath-ball-1",
+      "name": "Bath Ball 1",
+      "release": "",
+      "description": "",
+      "palette": ["#ADD8E6","#87CEFA","#4169E1"],
+      "items": [
+        {
+          "id": "smiski-bath-ball-1-little-afraid-of-water",
+          "name": "Little Afraid of Water",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-afraid-of-water-bath-ball-1.png"
+        },
+        {
+          "id": "smiski-bath-ball-1-little-curled-up",
+          "name": "Little Curled Up",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-curled-up-bath-ball-1.png"
+        },
+        {
+          "id": "smiski-bath-ball-1-little-having-swim-ring",
+          "name": "Little Having Swim Ring",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-having-swim-ring-bath-ball-1.png"
+        },
+        {
+          "id": "smiski-bath-ball-1-little-hesitating",
+          "name": "Little Hesitating",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-hesitating-bath-ball-1.png"
+        },
+        {
+          "id": "smiski-bath-ball-1-little-like-sea-otter",
+          "name": "Little Like Sea Otter",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-like-sea-otter-bath-ball-1.png"
+        },
+        {
+          "id": "smiski-bath-ball-1-little-mermaid-1",
+          "name": "Little Mermaid 1",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-mermaid-1-bath-ball-1.png"
+        },
+        {
+          "id": "smiski-bath-ball-1-little-swimming",
+          "name": "Little Swimming",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-swimming-bath-ball-1.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-bath-ball-2",
+      "name": "Bath Ball 2",
+      "release": "",
+      "description": "",
+      "palette": ["#F0F8FF","#B0E0E6","#4682B4"],
+      "items": [
+        {
+          "id": "smiski-bath-ball-2-little-diving",
+          "name": "Little Diving",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-diving-bath-ball-2.png"
+        },
+        {
+          "id": "smiski-bath-ball-2-little-duck-ing",
+          "name": "Little Duck-ing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-duck-ing-bath-ball-2.png"
+        },
+        {
+          "id": "smiski-bath-ball-2-little-floating",
+          "name": "Little Floating",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-floating-bath-ball-2.png"
+        },
+        {
+          "id": "smiski-bath-ball-2-little-laidback",
+          "name": "Little Laidback",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-laidback-bath-ball-2.png"
+        },
+        {
+          "id": "smiski-bath-ball-2-little-mermaid-2",
+          "name": "Little Mermaid 2",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-mermaid-2-bath-ball-2.png"
+        },
+        {
+          "id": "smiski-bath-ball-2-little-stretching",
+          "name": "Little Stretching",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-stretching-bath-ball-2.png"
+        },
+        {
+          "id": "smiski-bath-ball-2-little-washing",
+          "name": "Little Washing",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/little-washing-bath-ball-2.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-bobbing-head",
+      "name": "Bobbing Head",
+      "release": "",
+      "description": "",
+      "palette": ["#FFE4E1","#FFA0A0","#CD5C5C"],
+      "items": [
+        {
+          "id": "smiski-bobbing-head-hugging-knees",
+          "name": "Hugging Knees",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/hugging-knees-bobbing-head.png"
+        },
+        {
+          "id": "smiski-bobbing-head-looking-back",
+          "name": "Looking Back",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/looking-back-bobbing-head.png"
+        },
+        {
+          "id": "smiski-bobbing-head-lotus-pose",
+          "name": "Lotus Pose",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/lotus-pose-bobbing-head.png"
+        }
+      ]
+    },
+    {
+      "id": "smiski-cushion-pouch",
+      "name": "Cushion Pouch",
+      "release": "",
+      "description": "",
+      "palette": ["#D8BFD8","#DDA0DD","#9370DB"],
+      "items": [
+        {
+          "id": "smiski-cushion-pouch-smiski",
+          "name": "Smiski",
+          "rarity": "Standard",
+          "palette": [
+            "#1f6f4d",
+            "#0c2f23",
+            "#061511"
+          ],
+          "image": "./assets/images/smiski/smiski-cushion-pouch.png"
         }
       ]
     }

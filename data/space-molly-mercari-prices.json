@@ -1,0 +1,3657 @@
+{
+  "space-molly-series-1": {
+    "seriesName": "Series 1",
+    "items": {
+      "space-molly-spongebob": {
+        "name": "Spongebob",
+        "avgPrice": 81.37,
+        "minPrice": 38,
+        "maxPrice": 129.99,
+        "listingCount": 5,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "POP MART New AUTHENTIC Mega Space MOLLY Series 1 [SpongeBob] Display DP0001",
+            "price": 129.99,
+            "url": "https://www.mercari.com/us/item/m38444973203/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < SPONGEBOB > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 79.99,
+            "url": "https://www.mercari.com/us/item/m51264135243/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly Series 1 - SpongeBob",
+            "price": 50,
+            "url": "https://www.mercari.com/us/item/m95025820547/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Pop Mart Mega 100% Space Molly - PATRICK AND SPONGEBOB",
+            "price": 108.88,
+            "url": "https://www.mercari.com/us/item/m63098524859/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart SpongeBob SquarePants Patrick Star Astronaut Figure Space Molly 100%",
+            "price": 38,
+            "url": "https://www.mercari.com/us/item/m97312849629/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:07:43.450Z"
+      },
+      "space-molly-watermelon": {
+        "name": "Watermelon",
+        "avgPrice": 63.32,
+        "minPrice": 54.99,
+        "maxPrice": 79.99,
+        "listingCount": 3,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "AUTHENTIC < WATERMELON > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 54.99,
+            "url": "https://www.mercari.com/us/item/m10090377121/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Pop Mart Mega Space Molly Watermelon Figure Toy Series 01 Unopened Box",
+            "price": 79.99,
+            "url": "https://www.mercari.com/us/item/m16541853665/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < WATERMELON > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 54.99,
+            "url": "https://www.mercari.com/us/item/m12982652876/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:07:54.826Z"
+      },
+      "space-molly-toffee": {
+        "name": "Toffee",
+        "avgPrice": 62.99,
+        "minPrice": 62.99,
+        "maxPrice": 62.99,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "AUTHENTIC < TOFFEE > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 62.99,
+            "url": "https://www.mercari.com/us/item/m65737305405/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < TOFFEE > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 62.99,
+            "url": "https://www.mercari.com/us/item/m80396044828/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:08:06.360Z"
+      },
+      "space-molly-jelly": {
+        "name": "Jelly",
+        "avgPrice": 38.2,
+        "minPrice": 35,
+        "maxPrice": 41.39,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "Mega Space Molly 100% Series 1- Jelly",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m53973858012/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "POPMART MEGA SPACE MOLLY 100% JELLY",
+            "price": 41.39,
+            "url": "https://www.mercari.com/us/item/m22850124661/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:08:17.808Z"
+      },
+      "space-molly-keith-haring": {
+        "name": "Keith Haring",
+        "avgPrice": 42.5,
+        "minPrice": 40,
+        "maxPrice": 45,
+        "listingCount": 2,
+        "rawListingCount": 3,
+        "mercariItems": [
+          {
+            "title": "SPACE MOLLY MEGA 100% Series 1 Keith Haring",
+            "price": 45,
+            "url": "https://www.mercari.com/us/item/m73853424987/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Mega space Molly 100% Keith haring",
+            "price": 40,
+            "url": "https://www.mercari.com/us/item/m30649257267/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:08:29.357Z"
+      },
+      "space-molly-little-painter": {
+        "name": "Little Painter",
+        "avgPrice": 31.03,
+        "minPrice": 15,
+        "maxPrice": 58.99,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "POP MART Space Molly Series 1 - Little Painter",
+            "price": 40.72,
+            "url": "https://www.mercari.com/us/item/m98783518055/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "LEGO Compatible Minifigure SPACE MOLLY LITTLE PAINTER",
+            "price": 22.29,
+            "url": "https://www.mercari.com/us/item/m86214264678/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart SPACE MOLLY MEGA 100% Series 1 Little Painter",
+            "price": 16,
+            "url": "https://www.mercari.com/us/item/m71425847209/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Popmart Molly Little Painter - Paper Bag",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m54348103784/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MOLLY Little Painter - Paper bag",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m63834301581/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < LITTLE PAINTER > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 58.99,
+            "url": "https://www.mercari.com/us/item/m32018145000/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Molly Little Painter PU Teal Carrying Storage Pouch bag NEW",
+            "price": 16.24,
+            "url": "https://www.mercari.com/us/item/m34274852738/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < LITTLE PAINTER > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 58.99,
+            "url": "https://www.mercari.com/us/item/m45249058815/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:08:40.802Z"
+      },
+      "space-molly-christmas": {
+        "name": "Christmas",
+        "avgPrice": 22.91,
+        "minPrice": 12.75,
+        "maxPrice": 41,
+        "listingCount": 12,
+        "rawListingCount": 13,
+        "mercariItems": [
+          {
+            "title": "Mega Space Molly 100% Series 4 special christmas 2024 green",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m39638228818/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly - Christmas 2024",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m65709529271/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 4 special christmas 2024 green",
+            "price": 40,
+            "url": "https://www.mercari.com/us/item/m82990222147/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "100% MEGA SPACE MOLLY SERIES 4 BLIND BOX CONFIRMED FIGURE Christmas 2024 Red",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m20693225336/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Christmas 2024 Space Molly",
+            "price": 23.75,
+            "url": "https://www.mercari.com/us/item/m75329522322/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 4 Christmas 2024",
+            "price": 18.14,
+            "url": "https://www.mercari.com/us/item/m48393868038/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% Christmas 2024 For 1 Piece only",
+            "price": 12.75,
+            "url": "https://www.mercari.com/us/item/m29391166250/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart MEGA SPACE MOLLY 100% Series4_CHRISTMAS 2024",
+            "price": 13,
+            "url": "https://www.mercari.com/us/item/m88325432440/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Christmas 2024 - Red (#2)",
+            "price": 19.23,
+            "url": "https://www.mercari.com/us/item/m60025266303/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Space Molly series 4- Christmas 2024",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m16244602579/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly - Christmas 2024 Green (Special)",
+            "price": 41,
+            "url": "https://www.mercari.com/us/item/m94432168124/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "space molly 100% christmas 2024",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m80944736996/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:08:52.253Z"
+      },
+      "space-molly-instinctoy": {
+        "name": "Instinctoy",
+        "avgPrice": 82.67,
+        "minPrice": 65.34,
+        "maxPrice": 99.99,
+        "listingCount": 2,
+        "rawListingCount": 3,
+        "mercariItems": [
+          {
+            "title": "SPACE MOLLY MEGA 100% Series 1 Instinctoy",
+            "price": 65.34,
+            "url": "https://www.mercari.com/us/item/m88513325034/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < INSTINCTOY > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 99.99,
+            "url": "https://www.mercari.com/us/item/m14689119419/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:09:03.482Z"
+      },
+      "space-molly-candy": {
+        "name": "Candy",
+        "avgPrice": 62.99,
+        "minPrice": 62.99,
+        "maxPrice": 62.99,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "AUTHENTIC < CANDY > POP MART Mega Space MOLLY 100% Series 1",
+            "price": 62.99,
+            "url": "https://www.mercari.com/us/item/m19806043743/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:09:14.854Z"
+      },
+      "space-molly-the-girl-from-the-earth": {
+        "name": "The Girl from the Earth",
+        "avgPrice": 210,
+        "minPrice": 70,
+        "maxPrice": 350,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "Space Molly series 1 - Secret The girl from the earth ( unsealed) + Free Gift",
+            "price": 350,
+            "url": "https://www.mercari.com/us/item/m54794230465/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Series 1 - The Girl From The Earth - Secret",
+            "price": 70,
+            "url": "https://www.mercari.com/us/item/m37942790743/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:09:26.093Z"
+      }
+    }
+  },
+  "space-molly-series-2": {
+    "seriesName": "Series 2-A/B",
+    "items": {
+      "space-molly-meilin-panda": {
+        "name": "Meilin Panda",
+        "avgPrice": 31.28,
+        "minPrice": 16.2,
+        "maxPrice": 44.3,
+        "listingCount": 12,
+        "rawListingCount": 12,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 2-B: meilin panda",
+            "price": 23.4,
+            "url": "https://www.mercari.com/us/item/m54845505302/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% Series 2-B - MeiLin Panda",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m36751855636/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < MEILIN PANDA > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 37.99,
+            "url": "https://www.mercari.com/us/item/m37716271411/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Mega Space Molly Series 2-Meilin Panda",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m26791392134/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART x Mega Space Molly 100% Series 2 - MEILIN PANDA",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m17918040924/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 2 Meilin Panda",
+            "price": 44.3,
+            "url": "https://www.mercari.com/us/item/m16703129613/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Meilin Panda* Space Molly 100% Series 2-B",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m42842116010/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Meilin Panda* Space Molly 100% Series 2-B",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m72285609643/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Meilin Panda Series 2-B Mystery Figurine",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m51060824268/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ MEILIN PANDA ]",
+            "price": 37.99,
+            "url": "https://www.mercari.com/us/item/m66364034052/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < MEILIN PANDA > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 37.99,
+            "url": "https://www.mercari.com/us/item/m59487670876/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP Mart MEGA SPACE MOLLY 100% Series 2-B - Meilin Panda (read description!)",
+            "price": 16.2,
+            "url": "https://www.mercari.com/us/item/m73499210588/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:09:32.464Z"
+      },
+      "space-molly-jean-michel-basquiat": {
+        "name": "Jean-Michel Basquiat",
+        "avgPrice": 31.54,
+        "minPrice": 25,
+        "maxPrice": 44.3,
+        "listingCount": 7,
+        "rawListingCount": 7,
+        "mercariItems": [
+          {
+            "title": "Mega Space Molly 100% Series 2 Jean-Michel Basquiat",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m48698373487/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 2-B JEAN-MICHEL BASQUIAT POP MART NEW",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m92486177787/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 2 Jean-Michel Basquiat",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m38060584330/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Jean-Michel Basquiat* Space Molly 100% Series 2-B",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m73511334690/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Jean-Michel Basquiat* Space Molly 100% Series 2-B",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m25434305559/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 2 Jean-Michel Basquiat",
+            "price": 44.3,
+            "url": "https://www.mercari.com/us/item/m24536488910/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Pop Mart Mega Space Molly 100% Series 2 - Jean-Michel Basquiat",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m69851276164/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:09:38.854Z"
+      },
+      "space-molly-mint-chocolate": {
+        "name": "Mint Chocolate",
+        "avgPrice": 27.1,
+        "minPrice": 15,
+        "maxPrice": 39.89,
+        "listingCount": 14,
+        "rawListingCount": 14,
+        "mercariItems": [
+          {
+            "title": "MINT CHOCOLATE POPMART Mega Space Molly 100% Series 2-B Blind box",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m34013108052/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 2-B MINT CHOCOLATE—1000% authentic",
+            "price": 37.05,
+            "url": "https://www.mercari.com/us/item/m39097901320/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "&MINT CHOCOLATE& POPMART Mega Space Molly 100% Series 2-B Blind box",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m83676251156/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "[USA] Series 2-B - Mint Chocolate (Mega Space Molly 100%) - Sealed In Box!",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m33494180472/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 2-B Blind box - confirmed mint chocolate",
+            "price": 21.25,
+            "url": "https://www.mercari.com/us/item/m42377476008/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% series 2 - Mint chocolateh",
+            "price": 20.99,
+            "url": "https://www.mercari.com/us/item/m92330289410/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly Series 2- Mint Chocolate",
+            "price": 18.73,
+            "url": "https://www.mercari.com/us/item/m96933759822/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < MINT CHOCOLATE > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 39.89,
+            "url": "https://www.mercari.com/us/item/m35502796029/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "NEW! POP MART Mega Space Molly Series 02 (B) - “Mint Chocolate”",
+            "price": 23.16,
+            "url": "https://www.mercari.com/us/item/m28844566348/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ MINT CHOCOLATE ]",
+            "price": 39.89,
+            "url": "https://www.mercari.com/us/item/m50864335528/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < MINT CHOCOLATE > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 39.89,
+            "url": "https://www.mercari.com/us/item/m92100682900/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly Series 2 - Mint Chocolate",
+            "price": 26.6,
+            "url": "https://www.mercari.com/us/item/m71152453108/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART x Mega Space Molly 100% Series 2 - MINT CHOCOLATE",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m52914728443/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Mint Chocolate 100% POP MART",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m98011930546/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:09:45.294Z"
+      },
+      "space-molly-banana-2017": {
+        "name": "Banana 2017",
+        "avgPrice": 20.4,
+        "minPrice": 12.35,
+        "maxPrice": 33.25,
+        "listingCount": 13,
+        "rawListingCount": 13,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 2-B: BANANA 2017",
+            "price": 12.35,
+            "url": "https://www.mercari.com/us/item/m49650974019/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Series 2 (Banana 2017)",
+            "price": 16.5,
+            "url": "https://www.mercari.com/us/item/m41843748829/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 2-B : Banana 2017",
+            "price": 17.1,
+            "url": "https://www.mercari.com/us/item/m13387687488/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Molly - Mega Space Molly Series 2-B, Banana 2017",
+            "price": 16,
+            "url": "https://www.mercari.com/us/item/m45296996620/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Banana 2017* Space Molly 100% Series 2-B",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m51399239911/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Banana 2017* Space Molly 100% Series 2-B",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m44194490334/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "mega space molly series 2-B - BANANA 2017",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m17657872536/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega space molly 100% Series 2 - BANANA 2017",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m59395553634/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 2-B : Banana 2017",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m85469756959/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 2 Banana 2017",
+            "price": 20.9,
+            "url": "https://www.mercari.com/us/item/m47345335426/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% Series 2 - BANANA 2017",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m27857803022/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 2-B (Banana 2017)",
+            "price": 23.46,
+            "url": "https://www.mercari.com/us/item/m22734448771/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 2-B Banana 2017",
+            "price": 12.35,
+            "url": "https://www.mercari.com/us/item/m67229664872/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:09:51.659Z"
+      },
+      "space-molly-patrick-star": {
+        "name": "Patrick Star",
+        "avgPrice": 35.5,
+        "minPrice": 24,
+        "maxPrice": 45,
+        "listingCount": 10,
+        "rawListingCount": 11,
+        "mercariItems": [
+          {
+            "title": "Mega Space Molly 100% Series 2-B Patrick Star",
+            "price": 45,
+            "url": "https://www.mercari.com/us/item/m84377024748/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Patrick Star* Space Molly 100% Series 2-B",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m75174843708/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < PATRICK STAR > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 40.84,
+            "url": "https://www.mercari.com/us/item/m49702721591/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Patrick Star* Space Molly 100% Series 2-B",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m63302119129/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ PATRICK STAR ]",
+            "price": 40.84,
+            "url": "https://www.mercari.com/us/item/m36258171918/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Patrick Star Series 2-B Mystery Figurine",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m23038929590/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 2 Patrick Star",
+            "price": 44.3,
+            "url": "https://www.mercari.com/us/item/m20125222209/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC POPMART Mega Space Molly 100% Series 2 - Patrick Star",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m57184815330/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly x Patrick Star",
+            "price": 24,
+            "url": "https://www.mercari.com/us/item/m37091129178/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega space molly patrick star 100%",
+            "price": 28.5,
+            "url": "https://www.mercari.com/us/item/m73858726958/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:10:20.448Z"
+      },
+      "space-molly-heartbeat": {
+        "name": "Heartbeat",
+        "avgPrice": 26.87,
+        "minPrice": 12,
+        "maxPrice": 38.6,
+        "listingCount": 9,
+        "rawListingCount": 9,
+        "mercariItems": [
+          {
+            "title": "&HEARTBEAT& POPMART Mega Space Molly 100% Series 2-B Blind box",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m11402647938/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 2-B - Confirmed Heartbeat",
+            "price": 12,
+            "url": "https://www.mercari.com/us/item/m49908143519/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 2 HEARTBEAT",
+            "price": 38.6,
+            "url": "https://www.mercari.com/us/item/m60496343536/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly - Heartbeat",
+            "price": 20.7,
+            "url": "https://www.mercari.com/us/item/m19682358759/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart × Kennyswork Mega Space Molly Series 02 – Heartbeat Edition",
+            "price": 16.52,
+            "url": "https://www.mercari.com/us/item/m77174509715/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART SPACE MOLLY 100% 2-B HEARTBEAT",
+            "price": 38.09,
+            "url": "https://www.mercari.com/us/item/m86720610452/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "SPACE MOLLY SERIES 2 BLIND BOX FIGURE “HEARTBEAT”",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m61636327301/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY HEARTBEAT Figure Space Molly",
+            "price": 35.91,
+            "url": "https://www.mercari.com/us/item/m46932616969/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly heartbeat",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m35299485746/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:10:31.734Z"
+      },
+      "space-molly-glacier": {
+        "name": "Glacier",
+        "avgPrice": 22.12,
+        "minPrice": 15,
+        "maxPrice": 29.33,
+        "listingCount": 5,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 2 Glacier",
+            "price": 29.33,
+            "url": "https://www.mercari.com/us/item/m20373111048/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 2-B Glacier Figure",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m41867435135/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ GLACIER ]",
+            "price": 28.29,
+            "url": "https://www.mercari.com/us/item/m66638737385/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly Series 2 GLACIER authentic bag sealed",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m17231897097/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 2B Glacier NEW",
+            "price": 16,
+            "url": "https://www.mercari.com/us/item/m31364948767/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:10:43.554Z"
+      },
+      "space-molly-cheer-bear": {
+        "name": "Cheer Bear",
+        "avgPrice": 59.25,
+        "minPrice": 46.93,
+        "maxPrice": 79.99,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ CHEER BEAR ]",
+            "price": 79.99,
+            "url": "https://www.mercari.com/us/item/m35373570047/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% Series 2-B - Cheer Bear (SECRET)",
+            "price": 58.65,
+            "url": "https://www.mercari.com/us/item/m38349685331/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 2-B CHEER BEAR SECRET CARE BEAR",
+            "price": 52.25,
+            "url": "https://www.mercari.com/us/item/m55411839558/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 2-B CHEER BEAR SECRET CARE BEAR",
+            "price": 46.93,
+            "url": "https://www.mercari.com/us/item/m89326197955/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart 100% Mega Space Molly Series 2 - Cheer Bear (secret)",
+            "price": 55,
+            "url": "https://www.mercari.com/us/item/m60407681911/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < CHEER BEAR > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 50,
+            "url": "https://www.mercari.com/us/item/m60842618121/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < CHEER BEAR > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 73.14,
+            "url": "https://www.mercari.com/us/item/m41497933861/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% Secret Cheer Bear",
+            "price": 58,
+            "url": "https://www.mercari.com/us/item/m86788770697/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:10:50.002Z"
+      },
+      "space-molly-birthday-bear": {
+        "name": "Birthday Bear",
+        "avgPrice": 63.4,
+        "minPrice": 50,
+        "maxPrice": 79.99,
+        "listingCount": 8,
+        "rawListingCount": 9,
+        "mercariItems": [
+          {
+            "title": "Mega Space Molly Series 2-B- Birthday Bear SECRET",
+            "price": 58.66,
+            "url": "https://www.mercari.com/us/item/m29533299135/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ BIRTHDAY BEAR ]",
+            "price": 79.99,
+            "url": "https://www.mercari.com/us/item/m68693531017/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% Series 2-B - Birthday Bear Yellow (Secret) - RARE",
+            "price": 62,
+            "url": "https://www.mercari.com/us/item/m10724082399/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < BIRTHDAY BEAR > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 73.14,
+            "url": "https://www.mercari.com/us/item/m71846716036/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < BIRTHDAY BEAR > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 73.14,
+            "url": "https://www.mercari.com/us/item/m88576746152/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Birthday bear space Molly",
+            "price": 50,
+            "url": "https://www.mercari.com/us/item/m65980231853/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% Secret Birthday Bear",
+            "price": 58,
+            "url": "https://www.mercari.com/us/item/m80752598098/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Secret Birthday Bear Secret",
+            "price": 52.25,
+            "url": "https://www.mercari.com/us/item/m37696917839/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:10:56.352Z"
+      },
+      "space-molly-wish-bear": {
+        "name": "Wish Bear",
+        "avgPrice": 65.27,
+        "minPrice": 48,
+        "maxPrice": 80.75,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "AUTHENTIC < WISH BEAR > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 73.14,
+            "url": "https://www.mercari.com/us/item/m96212738228/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ WISH BEAR ]",
+            "price": 79.99,
+            "url": "https://www.mercari.com/us/item/m95343882706/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*SECRET Wish Bear* Space Molly 100% Series 2-B",
+            "price": 80.75,
+            "url": "https://www.mercari.com/us/item/m52620582706/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Pop Mart SECRET WISH BEAR Mega Space Molly 100% Series 2-B Figure New",
+            "price": 79.99,
+            "url": "https://www.mercari.com/us/item/m88445093464/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < WISH BEAR > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 50,
+            "url": "https://www.mercari.com/us/item/m37550863716/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 2-B Secret Rare Wish Bear NIB (Pop Now)",
+            "price": 48,
+            "url": "https://www.mercari.com/us/item/m21297261928/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Space Molly 100% Secret Wish Bear",
+            "price": 58,
+            "url": "https://www.mercari.com/us/item/m46407627342/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY WISH BEAR SECRET 100%",
+            "price": 52.25,
+            "url": "https://www.mercari.com/us/item/m44979738445/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:02.777Z"
+      },
+      "space-molly-meta": {
+        "name": "Meta",
+        "avgPrice": 75.67,
+        "minPrice": 50,
+        "maxPrice": 94.99,
+        "listingCount": 5,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "META (Super Secret A) (1/54 odds) MEGA SPACE MOLLY 100% Series 2-B",
+            "price": 60,
+            "url": "https://www.mercari.com/us/item/m63667485032/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega 100% Space Molly Series 2-B - META",
+            "price": 78.37,
+            "url": "https://www.mercari.com/us/item/m20551021258/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < META > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 94.99,
+            "url": "https://www.mercari.com/us/item/m29841821864/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ META ] SECRET",
+            "price": 94.99,
+            "url": "https://www.mercari.com/us/item/m64417121857/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly (META Super Secret A) 1/54 ratio. 100% Series 2-B",
+            "price": 50,
+            "url": "https://www.mercari.com/us/item/m61154340416/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:09.203Z"
+      },
+      "space-molly-melting": {
+        "name": "Melting",
+        "avgPrice": 145.5,
+        "minPrice": 138,
+        "maxPrice": 151.99,
+        "listingCount": 4,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "Rare Pop Mart Mega Space Molly 100% Series 2-B Super Secret MELTING (New)",
+            "price": 140,
+            "url": "https://www.mercari.com/us/item/m36012892721/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% Series 2-B - Melting [Secret/Hidden] - Like New",
+            "price": 138,
+            "url": "https://www.mercari.com/us/item/m57187989501/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 2-B Figure [ MELTING ] SECRET",
+            "price": 151.99,
+            "url": "https://www.mercari.com/us/item/m78322434983/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "AUTHENTIC < MELTING > POP MART Mega Space MOLLY 100% Series 2-B",
+            "price": 151.99,
+            "url": "https://www.mercari.com/us/item/m21776101753/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:15.706Z"
+      }
+    }
+  },
+  "space-molly-series-3": {
+    "seriesName": "Series 3",
+    "items": {
+      "space-molly-ted-2": {
+        "name": "Ted 2",
+        "avgPrice": 17.58,
+        "minPrice": 15.62,
+        "maxPrice": 20,
+        "listingCount": 4,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "Pop mart blind box mega space molly 100% series 3 Ted 2",
+            "price": 16.29,
+            "url": "https://www.mercari.com/us/item/m43335052725/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 3: Ted 2 Figure",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m51954624030/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Ted 2, Space Molly 100% Series 3",
+            "price": 18.4,
+            "url": "https://www.mercari.com/us/item/m80072641634/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% series 3- Ted2- Offers Accepted",
+            "price": 15.62,
+            "url": "https://www.mercari.com/us/item/m23792065797/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:22.783Z"
+      },
+      "space-molly-garfield": {
+        "name": "Garfield",
+        "avgPrice": 23.05,
+        "minPrice": 17.55,
+        "maxPrice": 27,
+        "listingCount": 5,
+        "rawListingCount": 7,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 3 Garfield Cat Blind Box Figure",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m97536446937/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Garfield Pop Now - MEGA SPACE MOLLY 100% Series 3",
+            "price": 22.8,
+            "url": "https://www.mercari.com/us/item/m86948954533/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 3: Garfield",
+            "price": 22.89,
+            "url": "https://www.mercari.com/us/item/m69430066819/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 3 Garfield",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m64669118728/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart series 3 Garfield Space Molly",
+            "price": 17.55,
+            "url": "https://www.mercari.com/us/item/m37754594522/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:29.212Z"
+      },
+      "space-molly-good-luck-bear": {
+        "name": "Good Luck Bear",
+        "avgPrice": 30.28,
+        "minPrice": 21,
+        "maxPrice": 36.54,
+        "listingCount": 7,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% GOOD LUCK BEAR",
+            "price": 36.54,
+            "url": "https://www.mercari.com/us/item/m39911915078/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART SPACE MOLLY 3 Good Luck Bear",
+            "price": 35.55,
+            "url": "https://www.mercari.com/us/item/m39168635636/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Molly good luck bear series 3 (V3)",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m42038145636/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Good Luck Bear",
+            "price": 33.88,
+            "url": "https://www.mercari.com/us/item/m54328846706/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart x Space Molly Care Bears - Authentic Collectible (Good Luck Bear)",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m41333543976/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart x Space Molly Care Bears - Authentic Collectible (Good Luck Bear)",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m98076476072/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 3 - Goodluck Bear",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m60561789499/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:35.634Z"
+      },
+      "space-molly-tenderheart-bear": {
+        "name": "Tenderheart Bear",
+        "avgPrice": 25.63,
+        "minPrice": 17.1,
+        "maxPrice": 40.84,
+        "listingCount": 6,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 3 - Tenderheart Bear (FULLY SEALED)",
+            "price": 24,
+            "url": "https://www.mercari.com/us/item/m86161910704/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% (V3 Series): Tenderheart Bear",
+            "price": 20.9,
+            "url": "https://www.mercari.com/us/item/m51593058351/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly, Series 3, Tenderheart Bear Confirmed Pop MART",
+            "price": 17.1,
+            "url": "https://www.mercari.com/us/item/m22685619363/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 3 (Tenderheart Bear)",
+            "price": 20.36,
+            "url": "https://www.mercari.com/us/item/m41160806239/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 3 Figure [ Tenderheart Bear ]",
+            "price": 40.84,
+            "url": "https://www.mercari.com/us/item/m48993607555/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGASPACEMOLLY 100% Series 3 Tenderheart Bear",
+            "price": 30.6,
+            "url": "https://www.mercari.com/us/item/m73950127237/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:42.073Z"
+      },
+      "space-molly-tetris": {
+        "name": "TETRIS",
+        "avgPrice": 23.58,
+        "minPrice": 20,
+        "maxPrice": 27,
+        "listingCount": 10,
+        "rawListingCount": 12,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 3 - TETRIS",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m72305323761/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 3- Tetris new",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m71325106537/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly Tetris",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m62926176657/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly MEGA Series 3 TETRIS",
+            "price": 25.03,
+            "url": "https://www.mercari.com/us/item/m88225226518/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "100% Space Molly series 3 - TETRIS - Pop Mart",
+            "price": 24.44,
+            "url": "https://www.mercari.com/us/item/m73602645362/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Tetris MEGA SPACE MOLLY 100% Series 3",
+            "price": 22.8,
+            "url": "https://www.mercari.com/us/item/m15572348974/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 3 - Tetris",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m11409299453/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega space molly series 3 Tetris",
+            "price": 22.56,
+            "url": "https://www.mercari.com/us/item/m53335944512/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly 100% Series 3 Tetris",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m38092314645/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Mega Space Molly 100% Series 3 Blind Box - CONFIRMED TETRIS",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m52580114919/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:49.103Z"
+      },
+      "space-molly-gary-baseman": {
+        "name": "Gary Baseman",
+        "avgPrice": 21.18,
+        "minPrice": 18.52,
+        "maxPrice": 25,
+        "listingCount": 5,
+        "rawListingCount": 7,
+        "mercariItems": [
+          {
+            "title": "100% Space Molly series 3 - Gary Baseman - Pop Mart",
+            "price": 18.52,
+            "url": "https://www.mercari.com/us/item/m80206650040/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart space Molly series 3 - Gary baseman",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m28514698902/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Space Molly Series 3- Gary Baseman",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m44036076330/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly series 03 GARY BASEMAN",
+            "price": 22.5,
+            "url": "https://www.mercari.com/us/item/m26992348344/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 3 Gary Baseman",
+            "price": 20.9,
+            "url": "https://www.mercari.com/us/item/m77911716927/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:11:55.587Z"
+      },
+      "space-molly-graffiti": {
+        "name": "Graffiti",
+        "avgPrice": 17.73,
+        "minPrice": 8.55,
+        "maxPrice": 22.5,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "Space Molly Series 3 Graffiti",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m47603113371/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Mega 100% Series 3 : Graffiti",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m83635715048/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 3- “Graffiti”",
+            "price": 19.95,
+            "url": "https://www.mercari.com/us/item/m97077010730/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART-MEGA SPACE MOLLY 100% Series 3, Graffiti *Missing Gun*",
+            "price": 8.55,
+            "url": "https://www.mercari.com/us/item/m73850374033/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Space Molly Series 3- Graffiti",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m49636522714/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly series 03 Graffiti",
+            "price": 22.5,
+            "url": "https://www.mercari.com/us/item/m95634238629/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 3 - Graffiti",
+            "price": 21.85,
+            "url": "https://www.mercari.com/us/item/m63454667282/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly Series 3 GRAFFITI SEALED",
+            "price": 14,
+            "url": "https://www.mercari.com/us/item/m81399494759/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:12:02.180Z"
+      },
+      "space-molly-heartfelt-words": {
+        "name": "Heartfelt Words",
+        "avgPrice": 25.28,
+        "minPrice": 18,
+        "maxPrice": 39,
+        "listingCount": 4,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "Space Molly Heartfelt Words from Popmart",
+            "price": 20.36,
+            "url": "https://www.mercari.com/us/item/m69295416652/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly Series 3 “Heartfelt Words” — New",
+            "price": 23.75,
+            "url": "https://www.mercari.com/us/item/m82918213790/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly Series 3- Heartfelt Words NEW in box",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m25473114473/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% Series 3 - Heartfelt Words - NEW",
+            "price": 39,
+            "url": "https://www.mercari.com/us/item/m39273265172/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:12:08.647Z"
+      },
+      "space-molly-peach-2016": {
+        "name": "Peach 2016",
+        "avgPrice": 17.1,
+        "minPrice": 15,
+        "maxPrice": 21,
+        "listingCount": 8,
+        "rawListingCount": 9,
+        "mercariItems": [
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% Series 3 - Peach 2016",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m78350846150/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 3: Peach 2016",
+            "price": 17.1,
+            "url": "https://www.mercari.com/us/item/m64168693705/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "[USA] Series 3 - Peach 2016 (Mega Space Molly 100%) - Sealed In Box!",
+            "price": 15.34,
+            "url": "https://www.mercari.com/us/item/m77021919764/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Mega Space Molly 100% Series 3 Blind Box - PEACH 2016",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m37459929988/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Series 3 Peach 2016",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m75831443510/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly Peach 2016",
+            "price": 15.34,
+            "url": "https://www.mercari.com/us/item/m55872821479/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly Series 3- Peach 2016",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m41315755469/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Peach 2016 Mega Space Molly 100% Series 3 POPMART",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m69229550024/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:12:15.111Z"
+      },
+      "space-molly-starry": {
+        "name": "Starry",
+        "avgPrice": 80,
+        "minPrice": 80,
+        "maxPrice": 80,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "POPMART Mega Space Molly 100% Series 3 Secret Edition 01 Starry",
+            "price": 80,
+            "url": "https://www.mercari.com/us/item/m16146978671/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:12:26.571Z"
+      },
+      "space-molly-louis-de-guzman": {
+        "name": "Louis De Guzman",
+        "avgPrice": 73.25,
+        "minPrice": 50,
+        "maxPrice": 100,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "POPMART - Louis De Guzman Space Molly (Secret 2)",
+            "price": 50,
+            "url": "https://www.mercari.com/us/item/m20950419264/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART MEGA SPACE MOLLY 100% Series 3 Confirmed BlindBox Figure Louis De Guzman",
+            "price": 52,
+            "url": "https://www.mercari.com/us/item/m36318162883/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega space Molly series 3 (SECRET2) Louis de Guzman",
+            "price": 79,
+            "url": "https://www.mercari.com/us/item/m86436681491/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% Series 3 Figure [ Louis De Guzman ]",
+            "price": 99.99,
+            "url": "https://www.mercari.com/us/item/m74275691578/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Space Molly Series 3- Louis De Guzman (Secret)",
+            "price": 85,
+            "url": "https://www.mercari.com/us/item/m71793022125/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% Secret 2 Louis De Guzman",
+            "price": 60,
+            "url": "https://www.mercari.com/us/item/m92508871647/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly - Louis De Guzman (Secret)",
+            "price": 100,
+            "url": "https://www.mercari.com/us/item/m67071207897/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Secret - Louis De Guzman",
+            "price": 60,
+            "url": "https://www.mercari.com/us/item/m97030893149/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:12:33.079Z"
+      },
+      "space-molly-team-coca-cola": {
+        "name": "Team Coca-Cola",
+        "avgPrice": 52.31,
+        "minPrice": 35,
+        "maxPrice": 68.85,
+        "listingCount": 3,
+        "rawListingCount": 4,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% SERIES 03 - Team Coca-Cola (Secret 3) **FULLY SEALED**",
+            "price": 53.09,
+            "url": "https://www.mercari.com/us/item/m79431378979/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART × Kennyswork Mega Space Molly 100% Series 3 – SECRET “Team Coca-Cola”",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m32600485357/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% 【team coca-cola】",
+            "price": 68.85,
+            "url": "https://www.mercari.com/us/item/m46934569611/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:12:44.393Z"
+      }
+    }
+  },
+  "space-molly-emoji-series": {
+    "seriesName": "emoji Series",
+    "items": {
+      "space-molly-lmao": {
+        "name": "LMAO",
+        "avgPrice": 22.29,
+        "minPrice": 12.18,
+        "maxPrice": 32.22,
+        "listingCount": 12,
+        "rawListingCount": 13,
+        "mercariItems": [
+          {
+            "title": "Space Molly 100% MOLLY emoji LMAO",
+            "price": 32.22,
+            "url": "https://www.mercari.com/us/item/m67979699446/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji™ Series - LMAO",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m28147854950/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Space Molly Emoji Figure (LMAO)",
+            "price": 12.18,
+            "url": "https://www.mercari.com/us/item/m90161023665/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% lmao",
+            "price": 28.51,
+            "url": "https://www.mercari.com/us/item/m72589015994/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Molly Mega Emoji - LMAO",
+            "price": 21.66,
+            "url": "https://www.mercari.com/us/item/m11966990580/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% Emoji LMAO",
+            "price": 18.95,
+            "url": "https://www.mercari.com/us/item/m56439023151/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% x Emoji Series - LMAO",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m87397788220/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% x Emoji Series {LMAO}",
+            "price": 24.22,
+            "url": "https://www.mercari.com/us/item/m90040212343/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "lmao space molly",
+            "price": 21.67,
+            "url": "https://www.mercari.com/us/item/m46691905759/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly Emoji Series LMAO",
+            "price": 17.15,
+            "url": "https://www.mercari.com/us/item/m80133753938/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Emoji LMAO",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m10809859550/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart - Space Molly 100% × emoji™ Series : LMAO (Sealed bag)",
+            "price": 15.89,
+            "url": "https://www.mercari.com/us/item/m69191213217/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:12:55.643Z"
+      },
+      "space-molly-admiration": {
+        "name": "Admiration",
+        "avgPrice": 25.71,
+        "minPrice": 20,
+        "maxPrice": 30,
+        "listingCount": 8,
+        "rawListingCount": 9,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji Series Admiration",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m35018754849/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% Emoji series- Admiration",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m30429895028/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% × emoji™ Series - Admiration - LIKE NEW",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m97133792570/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% × Emoji Series - Admiration",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m56881036687/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji Series Admiration 恋爱脑 Sealed Bag",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m53689278722/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega 100% Space Molly - ADMIRATION",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m58104345001/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "SPACE MOLLY 100% EMOJI CONFIRMED ADMIRATION",
+            "price": 25.65,
+            "url": "https://www.mercari.com/us/item/m73249825462/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Emoji ADMIRATION",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m32703309127/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:13:07.095Z"
+      },
+      "space-molly-confession": {
+        "name": "Confession",
+        "avgPrice": 19.38,
+        "minPrice": 14,
+        "maxPrice": 25,
+        "listingCount": 9,
+        "rawListingCount": 10,
+        "mercariItems": [
+          {
+            "title": "Space Molly Emoji Confession",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m46375336156/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART x MOLLY Mega Space Molly Emoji Blind Box Figure Series - Confession",
+            "price": 14,
+            "url": "https://www.mercari.com/us/item/m37645326195/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% × emoji™ Series - Confession - LIKE NEW",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m82789025270/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Confession, Space Molly 100% x emoji",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m97791535288/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "space molly - emoji confession",
+            "price": 14.25,
+            "url": "https://www.mercari.com/us/item/m83254875268/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Space Molly Emoji Series - Confession",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m77538303266/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Confession Emoji Space Molly 100%",
+            "price": 17.15,
+            "url": "https://www.mercari.com/us/item/m32449125854/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Mega 100% Space Molly Emoji “Confession”",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m33347534274/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Confession Space Molly",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m58596415629/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:13:18.426Z"
+      },
+      "space-molly-886": {
+        "name": "886",
+        "avgPrice": 28.12,
+        "minPrice": 22.5,
+        "maxPrice": 42.74,
+        "listingCount": 10,
+        "rawListingCount": 11,
+        "mercariItems": [
+          {
+            "title": "Mega Space Molly 100% Emoji Series - 886 Sealed Bag",
+            "price": 32,
+            "url": "https://www.mercari.com/us/item/m88724278674/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly - 886",
+            "price": 22.5,
+            "url": "https://www.mercari.com/us/item/m52409953338/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "886 Space Molly 100% x emoji",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m94375731892/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Emoji Series - 886 Sealed Bag",
+            "price": 32,
+            "url": "https://www.mercari.com/us/item/m45592094034/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega 100% Space Molly Emoji - 886",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m55001560586/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% × Emoji Series - 886",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m53521658092/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly - 886",
+            "price": 24.99,
+            "url": "https://www.mercari.com/us/item/m72445094236/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% × emoji™ Series Figure [ 886 ]",
+            "price": 42.74,
+            "url": "https://www.mercari.com/us/item/m72764917817/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "886 space Molly",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m13156329874/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega 100% Space Molly - 886",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m71426307015/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:13:29.748Z"
+      },
+      "space-molly-frozen-smile": {
+        "name": "Frozen Smile",
+        "avgPrice": 28.77,
+        "minPrice": 21.66,
+        "maxPrice": 35,
+        "listingCount": 8,
+        "rawListingCount": 10,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Mega Space Molly 100% × Emoji Series - Frozen Smile",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m79392216630/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGASPACEMOLLY100% × emoji FROZEN SMILE",
+            "price": 30.48,
+            "url": "https://www.mercari.com/us/item/m88759763365/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Emoji MEGA 100% - Pop Mart x Kennyswork - Frozen Smile",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m60949563301/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Molly Mega Emoji - Frozen Smile",
+            "price": 21.66,
+            "url": "https://www.mercari.com/us/item/m20981978065/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega 100% Space Molly Frozen Smile Emoji Series Figure (A14)",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m44176316702/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Emoji Series - Frozen Smile",
+            "price": 24,
+            "url": "https://www.mercari.com/us/item/m56625707951/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% × emoji Series Frozen Smile sealed bag",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m95286765529/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Emoji - Frozen Smile",
+            "price": 31,
+            "url": "https://www.mercari.com/us/item/m78969530819/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:13:41.406Z"
+      },
+      "space-molly-worn-out": {
+        "name": "Worn Out",
+        "avgPrice": 31.32,
+        "minPrice": 29,
+        "maxPrice": 34.96,
+        "listingCount": 3,
+        "rawListingCount": 4,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% x emoji™ Series-Worn Out ~ BOGO Alert!",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m31327611993/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pissed Off and Worn Out, Mega 100% Space Molly x emoji series (2 figures)",
+            "price": 34.96,
+            "url": "https://www.mercari.com/us/item/m19329319244/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% × Emoji Series - Worn Out",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m89619809720/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:13:52.877Z"
+      },
+      "space-molly-55555": {
+        "name": "55555",
+        "avgPrice": 26.33,
+        "minPrice": 14.53,
+        "maxPrice": 53,
+        "listingCount": 12,
+        "rawListingCount": 12,
+        "mercariItems": [
+          {
+            "title": "POP MART x MOLLY Mega Space Molly Emoji Blind Box Figure Series - 55555",
+            "price": 16,
+            "url": "https://www.mercari.com/us/item/m82226531392/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly emoji series “55555”",
+            "price": 15.39,
+            "url": "https://www.mercari.com/us/item/m49781547831/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Molly Space Molly 55555",
+            "price": 33.74,
+            "url": "https://www.mercari.com/us/item/m21067345094/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% × emoji™ Series Figure [ 55555 ]",
+            "price": 41.79,
+            "url": "https://www.mercari.com/us/item/m64094858263/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% × Emoji Series - 55555",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m56536761856/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Emoji MEGA 100% - Pop Mart x Kennyswork - 55555",
+            "price": 53,
+            "url": "https://www.mercari.com/us/item/m39666151920/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA 100% SPACE MOLLY Emoji Series - 55555",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m96999105483/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART SPACE MOLLY EMOJI 55555",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m86142022468/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "100% Mega Space Molly - 55555 - Emoji Series - Pop Mart",
+            "price": 17.57,
+            "url": "https://www.mercari.com/us/item/m45480506544/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly 55555",
+            "price": 14.53,
+            "url": "https://www.mercari.com/us/item/m31825071104/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "POP MART x MOLLY Mega Space Molly Emoji Blind Box Figure Series - 55555 SEALED",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m86544086097/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart “55555” Molly",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m73511795298/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:14:04.276Z"
+      },
+      "space-molly-so-what": {
+        "name": "So What",
+        "avgPrice": 21.5,
+        "minPrice": 13.89,
+        "maxPrice": 29.55,
+        "listingCount": 5,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "Mega Space Molly 100% Emoji SO WHAT",
+            "price": 13.89,
+            "url": "https://www.mercari.com/us/item/m25222288268/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly 100% emoji so what?",
+            "price": 29.55,
+            "url": "https://www.mercari.com/us/item/m98422754045/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% x Emoji Series {So What}",
+            "price": 24.22,
+            "url": "https://www.mercari.com/us/item/m57613483225/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "So What- Space Molly Emoji Pop Mart",
+            "price": 21.84,
+            "url": "https://www.mercari.com/us/item/m24940153777/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji™ Series - SO WHAT?",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m86981461411/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:14:15.613Z"
+      },
+      "space-molly-pissed-off": {
+        "name": "Pissed Off",
+        "avgPrice": 21.43,
+        "minPrice": 11.47,
+        "maxPrice": 34.96,
+        "listingCount": 10,
+        "rawListingCount": 10,
+        "mercariItems": [
+          {
+            "title": "POP MART MEGA 100% SPACE MOLLY Emoji Series - PISSED OFF",
+            "price": 26,
+            "url": "https://www.mercari.com/us/item/m75309045629/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART \"Mega Space Molly x emoji\" 100% figure - Pissed Off",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m76210119108/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Space Molly Emoji Pissed Off",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m73397937533/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% × Emoji Series - Pissed Off",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m14081655578/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pissed Off and Worn Out, Mega 100% Space Molly x emoji series (2 figures)",
+            "price": 34.96,
+            "url": "https://www.mercari.com/us/item/m19329319244/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly emoji- pissed off",
+            "price": 13,
+            "url": "https://www.mercari.com/us/item/m15130628593/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "100% Mega Space Molly - Pissed Off - Emoji Series- Pop Mart",
+            "price": 17.57,
+            "url": "https://www.mercari.com/us/item/m47045339343/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% Emoji Series Figure - PISSED OFF",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m82584591298/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Space Molly Emoji Figure PISSED OFF",
+            "price": 15.34,
+            "url": "https://www.mercari.com/us/item/m64895825671/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Space Molly Emoji Figure PISSED OFF",
+            "price": 11.47,
+            "url": "https://www.mercari.com/us/item/m26778736228/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:14:26.975Z"
+      },
+      "space-molly-lil-devil": {
+        "name": "Lil Devil",
+        "avgPrice": 35.91,
+        "minPrice": 30,
+        "maxPrice": 44.93,
+        "listingCount": 4,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY Purple × emoji™ Series Figure [ LIL DEVIL ]",
+            "price": 44.93,
+            "url": "https://www.mercari.com/us/item/m97135634181/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100%x emoji™ Series-LIL DEVIL ~ BOGO Alert!",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m74713703985/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly Emoji Series - LIL DEVIL 有点小坏Sealed Bag",
+            "price": 32,
+            "url": "https://www.mercari.com/us/item/m73950340090/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "SPACE MOLLY 【Lil Devil】",
+            "price": 36.72,
+            "url": "https://www.mercari.com/us/item/m42510937996/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:14:39.340Z"
+      },
+      "space-molly-why-so-serious": {
+        "name": "Why So Serious",
+        "avgPrice": 28.42,
+        "minPrice": 10.5,
+        "maxPrice": 46.29,
+        "listingCount": 12,
+        "rawListingCount": 12,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Why So Serious Series - Baby Molly String Puppet -AUTHENTIC",
+            "price": 38.57,
+            "url": "https://www.mercari.com/us/item/m90842570336/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly Emoji Series - WHY SO SERIOUS Sealed Bag",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m88745551337/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji Series - Why So Serious",
+            "price": 19.99,
+            "url": "https://www.mercari.com/us/item/m34788792294/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Space Molly Emoji Series Why So Serious Clown",
+            "price": 22.56,
+            "url": "https://www.mercari.com/us/item/m68157118208/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega 100% Space Molly - WHY SO SERIOUS",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m63178097521/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% × emoji™ Series [ WHY SO SERIOUS ]",
+            "price": 42.74,
+            "url": "https://www.mercari.com/us/item/m46526248281/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Emoji Series Why So Serious",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m72465433090/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART x MOLLY Mega Space Molly Emoji Blind Box Figure Series - Why So Serious",
+            "price": 26,
+            "url": "https://www.mercari.com/us/item/m28578366553/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "WHY SO SERIOUS SPACE MOLLY POPMART",
+            "price": 46.29,
+            "url": "https://www.mercari.com/us/item/m79747746816/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly Emoji Mega 100% New Sealed Unopened, Why so Serious",
+            "price": 24.69,
+            "url": "https://www.mercari.com/us/item/m98405547788/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "WHY SO SERIOUS Series Pendant Chain Baby Molly",
+            "price": 33.66,
+            "url": "https://www.mercari.com/us/item/m62433107157/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji Series - Why So Serious",
+            "price": 10.5,
+            "url": "https://www.mercari.com/us/item/m28959599923/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:14:45.756Z"
+      },
+      "space-molly-caution-the-ghost-is-here": {
+        "name": "Caution, the Ghost is Here",
+        "avgPrice": 24.85,
+        "minPrice": 24.69,
+        "maxPrice": 25,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "Space Molly Emoji Mega 100% New Sealed Unopened, Caution, The Ghost is Here",
+            "price": 24.69,
+            "url": "https://www.mercari.com/us/item/m15394111009/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% x Emoji Series {Caution, The Ghost is Here}",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m54617916510/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:14:56.650Z"
+      },
+      "space-molly-monkey-business": {
+        "name": "Monkey Business",
+        "avgPrice": 24,
+        "minPrice": 17,
+        "maxPrice": 29,
+        "listingCount": 5,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% emoji Series Monkey Business Sealed bag",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m29026135296/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% - Emoji Series - Monkey Business",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m14719964913/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Space Molly Emoji Figure MONKEY BUSINESS",
+            "price": 22.56,
+            "url": "https://www.mercari.com/us/item/m78416000225/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "100% Mega Space Molly - Monkey Business - Emoji Series - Pop Mart",
+            "price": 24.44,
+            "url": "https://www.mercari.com/us/item/m49367825238/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Emoji series- Monkey Business",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m49394573683/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:15:03.031Z"
+      },
+      "space-molly-cow-on-me": {
+        "name": "Cow on Me",
+        "avgPrice": 38.43,
+        "minPrice": 30,
+        "maxPrice": 47.5,
+        "listingCount": 5,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% × emoji™ Series Figure [ COW ON ME ]",
+            "price": 44.64,
+            "url": "https://www.mercari.com/us/item/m78738136843/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% Emoji Series Figure - COW ON ME",
+            "price": 40,
+            "url": "https://www.mercari.com/us/item/m85781954334/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% × emoji™ Series Figure [ COW ON ME ]",
+            "price": 47.5,
+            "url": "https://www.mercari.com/us/item/m40694025091/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART MEGA 100% Space Molly emoji series- Cow On Me",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m87769402284/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Space Molly emoji cow",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m10053092348/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:15:09.403Z"
+      },
+      "space-molly-happy-puppy": {
+        "name": "Happy Puppy",
+        "avgPrice": 32.57,
+        "minPrice": 25.73,
+        "maxPrice": 44.64,
+        "listingCount": 5,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% emoji Series Figure HAPPY PUPPY Sealed",
+            "price": 28.5,
+            "url": "https://www.mercari.com/us/item/m95346626346/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "100% Mega Space Molly - Happy Puppy - Emoji Series - Pop Mart",
+            "price": 25.73,
+            "url": "https://www.mercari.com/us/item/m31833154641/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% × Emoji Series - Happy Puppy",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m32575126836/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% emoji Series Figure HAPPY PUPPY Sealed",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m19962238081/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% × emoji™ Series Figure [ HAPPY PUPPY",
+            "price": 44.64,
+            "url": "https://www.mercari.com/us/item/m56729291404/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:15:15.757Z"
+      },
+      "space-molly-all-in-green": {
+        "name": "All in Green",
+        "avgPrice": 25.26,
+        "minPrice": 18,
+        "maxPrice": 32.62,
+        "listingCount": 5,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji™ Series - All in Green",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m33300467809/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "POPMART Space Molly ALL IN Green",
+            "price": 32.62,
+            "url": "https://www.mercari.com/us/item/m99517481088/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Hello Molly The Dance All Night Jumpsuit Green Party NWT 10 XL",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m59605422034/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly Emoji Mega 100% New Sealed Unopened, All in Green",
+            "price": 24.69,
+            "url": "https://www.mercari.com/us/item/m97595898175/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Molly Malloy All That Jazz Women's 12 Green Velvet Long Sleeve Vintage Dress",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m47800358092/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:15:27.070Z"
+      },
+      "space-molly-a-trying-situation": {
+        "name": "A Trying Situation",
+        "avgPrice": 20.31,
+        "minPrice": 13,
+        "maxPrice": 35,
+        "listingCount": 11,
+        "rawListingCount": 13,
+        "mercariItems": [
+          {
+            "title": "POP MART Mega Space Molly 100% Emoji A trying situation",
+            "price": 18.73,
+            "url": "https://www.mercari.com/us/item/m82785196889/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% × Emoji Series Figure- A Trying Situation (AUTHENTIC)",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m17176682876/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly - Emoji Series - A Trying Situation",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m10708305113/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Emoji Series - A Trying Situation",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m97459134284/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% Emoji A trying situation",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m94942083911/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Emoji Series - TRYING SITUATION [READ DESCRIPTION!!]",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m27549832546/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "100% Mega Space Molly - A Trying Situation - Emoji Series - Pop Mart",
+            "price": 18.5,
+            "url": "https://www.mercari.com/us/item/m60409749664/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART x MOLLY Mega Space Molly Emoji Blind Box Series - A Trying Situation",
+            "price": 16,
+            "url": "https://www.mercari.com/us/item/m86906419575/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% x Emoji Series {A Trying Situation}",
+            "price": 24.22,
+            "url": "https://www.mercari.com/us/item/m85453954082/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Emoji Series A Trying Situation",
+            "price": 20,
+            "url": "https://www.mercari.com/us/item/m72022768940/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "A Trying Situation - Space Molly Emoji Series",
+            "price": 13,
+            "url": "https://www.mercari.com/us/item/m61832154133/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:15:33.393Z"
+      },
+      "space-molly-bad-words": {
+        "name": "Bad Words",
+        "avgPrice": 22.67,
+        "minPrice": 22,
+        "maxPrice": 23,
+        "listingCount": 3,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% × emoji™ Series - Bad Words - NEW",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m75043178232/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Molly Emoji Mega 100% New Sealed Unopened, Bad Words",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m83338681830/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Space Molly Emoji Series - Bad Words",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m83063772148/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:15:44.593Z"
+      },
+      "space-molly-open-minded": {
+        "name": "Open Minded",
+        "avgPrice": 114.08,
+        "minPrice": 82.31,
+        "maxPrice": 169.99,
+        "listingCount": 4,
+        "rawListingCount": 4,
+        "mercariItems": [
+          {
+            "title": "SECRET SPACE MOLLY EMOJI - Open Minded",
+            "price": 82.31,
+            "url": "https://www.mercari.com/us/item/m30537406429/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART AUTHENTIC MEGA SPACE MOLLY 100% × emoji™ Series Figure [ OPEN MINDED",
+            "price": 169.99,
+            "url": "https://www.mercari.com/us/item/m63212332378/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "[Secret] Mega Space Molly Emoji Open Minded",
+            "price": 109,
+            "url": "https://www.mercari.com/us/item/m43115734982/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Mega Space Molly x emoji series - OPEN MINDED SECRET",
+            "price": 95,
+            "url": "https://www.mercari.com/us/item/m91082840088/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:15:55.866Z"
+      },
+      "space-molly-unicorn": {
+        "name": "Unicorn",
+        "avgPrice": 100.93,
+        "minPrice": 64.8,
+        "maxPrice": 150,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Space Molly Emoji Series - Unicorn ( SECRET)",
+            "price": 134.99,
+            "url": "https://www.mercari.com/us/item/m78252831662/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Emoji - Unicorn (secret)",
+            "price": 85.49,
+            "url": "https://www.mercari.com/us/item/m28163549691/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Emoji - Unicorn (secret)",
+            "price": 78.18,
+            "url": "https://www.mercari.com/us/item/m13549611064/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "UNICORN Mega Molly Space 100% Emoji SECRET RARE No. 2 Figure Pop Mart",
+            "price": 150,
+            "url": "https://www.mercari.com/us/item/m56048130062/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop mart Mega space molly emoji series (SECRET) unicorn",
+            "price": 79,
+            "url": "https://www.mercari.com/us/item/m73325870218/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART MEGA Space Molly 100% X Emoji series - Unicorn (Secret) Sealed Bag",
+            "price": 125,
+            "url": "https://www.mercari.com/us/item/m63167251730/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% emoji Series - Unicorn (Secret)",
+            "price": 90,
+            "url": "https://www.mercari.com/us/item/m14612412463/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly Emoji Unicorn Secret 02 Chase (1:108)",
+            "price": 64.8,
+            "url": "https://www.mercari.com/us/item/m69256469133/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:16:02.244Z"
+      },
+      "space-molly-ms-billionaire": {
+        "name": "Ms. Billionaire",
+        "avgPrice": 139.75,
+        "minPrice": 95,
+        "maxPrice": 179.99,
+        "listingCount": 4,
+        "rawListingCount": 4,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji Series Secret Ms. Billionaire 坐以待币 Sealed Bag",
+            "price": 135,
+            "url": "https://www.mercari.com/us/item/m71910374057/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% × emoji™ Series - Ms. Billionaire [Super Secret]",
+            "price": 149,
+            "url": "https://www.mercari.com/us/item/m82173515465/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% × emoji™ Series_POP MART AUTHENTIC [ MS. BILLIONAIRE ]",
+            "price": 179.99,
+            "url": "https://www.mercari.com/us/item/m67413371500/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Space Molly Emoji Ms. Billionaire CHASER HIDDEN",
+            "price": 95,
+            "url": "https://www.mercari.com/us/item/m46330041433/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:16:13.691Z"
+      }
+    }
+  },
+  "space-molly-series-4": {
+    "seriesName": "Series 4",
+    "items": {
+      "space-molly-jon-burgerman": {
+        "name": "Jon Burgerman",
+        "avgPrice": 35.79,
+        "minPrice": 29,
+        "maxPrice": 47.5,
+        "listingCount": 11,
+        "rawListingCount": 16,
+        "mercariItems": [
+          {
+            "title": "JON BURGERMAN Mega Space Molly 100% Series 4 Figure Pop Mart Popmart",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m67364091636/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart MEGA SPACE MOLLY 100% Series 4 - JON BURGERMAN",
+            "price": 31.99,
+            "url": "https://www.mercari.com/us/item/m44754135956/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space MOLLY 100% Series 4- JON BURGERMAN",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m80383027301/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart MEGA SPACE MOLLY 100% Series 4 - JON BURGERMAN",
+            "price": 33,
+            "url": "https://www.mercari.com/us/item/m44255751609/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart MEGA SPACE MOLLY 100% Series 4 - JON BURGERMAN",
+            "price": 45,
+            "url": "https://www.mercari.com/us/item/m23781854596/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Jon Burgerman* Space Molly 100% Series 04",
+            "price": 47.5,
+            "url": "https://www.mercari.com/us/item/m11908634736/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly - Jon Burgerman",
+            "price": 38,
+            "url": "https://www.mercari.com/us/item/m40750760762/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 4 - Jon Burgerman",
+            "price": 38.99,
+            "url": "https://www.mercari.com/us/item/m34199251293/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% V4 Series - Jon Burgerman",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m68903867521/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Jon Burgerman",
+            "price": 31.99,
+            "url": "https://www.mercari.com/us/item/m66774817333/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart MEGA SPACE MOLLY 100% Series 4 - JON BURGERMAN",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m79692211224/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:16:20.030Z"
+      },
+      "space-molly-trevor-andrew": {
+        "name": "Trevor Andrew",
+        "avgPrice": 24.47,
+        "minPrice": 18,
+        "maxPrice": 35.03,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "Mega Space Molly 100% Series 4 : Trevor Andrew CONFIRMED",
+            "price": 27.07,
+            "url": "https://www.mercari.com/us/item/m24969896785/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly Series 4 Trevor Andrew **SEALED**",
+            "price": 26.07,
+            "url": "https://www.mercari.com/us/item/m84311710763/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly series 4 100% - Trevor Andrew",
+            "price": 20.95,
+            "url": "https://www.mercari.com/us/item/m79953780135/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPNOW Mega Space Molly 100% Series 4: Trevor Andrew",
+            "price": 21.66,
+            "url": "https://www.mercari.com/us/item/m30431932680/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "SPACE MOLLY 100% Series 4 【Trevor Andrew】",
+            "price": 35.03,
+            "url": "https://www.mercari.com/us/item/m67973772317/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 4 - Trevor Andrew",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m70419875891/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% - Series 4 - Trevor Andrew",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m18410570563/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 4 Trevor Andrew",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m26029788127/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:16:26.422Z"
+      },
+      "space-molly-christmas2024": {
+        "name": "Christmas2024",
+        "avgPrice": 22.7,
+        "minPrice": 16.4,
+        "maxPrice": 29,
+        "listingCount": 5,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "Space Molly Series 4 100% - Christmas2024",
+            "price": 17.1,
+            "url": "https://www.mercari.com/us/item/m78055734040/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 4 *CHRISTMAS2024*",
+            "price": 16.4,
+            "url": "https://www.mercari.com/us/item/m45879731604/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART space molly 100% series 4 figures CHRISTMAS2024",
+            "price": 28,
+            "url": "https://www.mercari.com/us/item/m81009655169/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% - Series 4 - Christmas2024",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m51853505821/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Space Molly (Christmas2024 regular)",
+            "price": 23,
+            "url": "https://www.mercari.com/us/item/m70135386189/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:16:37.825Z"
+      },
+      "space-molly-optimus-prime": {
+        "name": "Optimus Prime",
+        "avgPrice": 32.02,
+        "minPrice": 25.65,
+        "maxPrice": 44.65,
+        "listingCount": 10,
+        "rawListingCount": 10,
+        "mercariItems": [
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4 - Optimus Prime (basic)",
+            "price": 25.65,
+            "url": "https://www.mercari.com/us/item/m70428823049/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Optimus Prime* Space Molly 100% Series 4",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m66601135701/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART x MOLLY MEGA SPACE MOLLY Series 4 Blind Box Figure - Optimus Prime",
+            "price": 28,
+            "url": "https://www.mercari.com/us/item/m67672220191/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4 - Optimus Prime (basic)",
+            "price": 30.4,
+            "url": "https://www.mercari.com/us/item/m51965563979/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "100% Authentic POP MART MEGA SPACE MOLLY 100% SERIES 4 OPTIMUS PRIME Confirmed",
+            "price": 34.99,
+            "url": "https://www.mercari.com/us/item/m65771446896/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Optimus Prime Mega Space Molly 100% Series4 POPMART",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m84029427837/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY SERIES 4 OPTIMUS PRIME",
+            "price": 26.5,
+            "url": "https://www.mercari.com/us/item/m18582193394/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart MEGA SPACE MOLLY 100% Series 4 - OPTIMUS PRIME",
+            "price": 40,
+            "url": "https://www.mercari.com/us/item/m43073883901/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 4 - Optimus Prime",
+            "price": 30,
+            "url": "https://www.mercari.com/us/item/m69455585305/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Space Molly Series 4 OPTIMUS PRIME",
+            "price": 44.65,
+            "url": "https://www.mercari.com/us/item/m75039527248/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:16:44.331Z"
+      },
+      "space-molly-orange-juice": {
+        "name": "Orange Juice",
+        "avgPrice": 18.5,
+        "minPrice": 13,
+        "maxPrice": 22.56,
+        "listingCount": 10,
+        "rawListingCount": 11,
+        "mercariItems": [
+          {
+            "title": "POPMART Mega Space Molly 100% Series 4 - Orange Juice",
+            "price": 17.15,
+            "url": "https://www.mercari.com/us/item/m49372492678/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 4 *Orange Juice*",
+            "price": 16.4,
+            "url": "https://www.mercari.com/us/item/m23782461598/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "PopNow Mega Space Molly 100% Series 4 Funshine Bear - Sealed - Orange Juice",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m70335501615/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 4 Orange Juice",
+            "price": 22,
+            "url": "https://www.mercari.com/us/item/m29012922478/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% - Series 4 (Orange Juice)",
+            "price": 13,
+            "url": "https://www.mercari.com/us/item/m32117742472/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 4 : Orange Juice CONFIRMED",
+            "price": 22.56,
+            "url": "https://www.mercari.com/us/item/m14218197265/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 4 Orange Juice",
+            "price": 17.35,
+            "url": "https://www.mercari.com/us/item/m81834192772/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Mega Space Molly 100% Series 4 Blind Box - CONFIRMED ORANGE JUICE",
+            "price": 18.5,
+            "url": "https://www.mercari.com/us/item/m50571685451/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% series 4 : Orange Juice (Sealed bag)",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m11705992630/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 4: ORANGE JUICE",
+            "price": 21,
+            "url": "https://www.mercari.com/us/item/m65058657904/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:16:51.306Z"
+      },
+      "space-molly-palmer-house": {
+        "name": "Palmer House",
+        "avgPrice": 18.95,
+        "minPrice": 15,
+        "maxPrice": 25,
+        "listingCount": 11,
+        "rawListingCount": 12,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Mega Space Molly 100% - Series 4 - Palmer House",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m74582955796/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART - Mega Space Molly Series 4 - Palmer House",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m12232356629/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "space molly palmer house",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m40466325712/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 4 Palmer House",
+            "price": 20.74,
+            "url": "https://www.mercari.com/us/item/m41129179631/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY Series 4 100% **Palmer House** OPEN BOX",
+            "price": 22.06,
+            "url": "https://www.mercari.com/us/item/m28960406844/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 4- Palmer House",
+            "price": 15.19,
+            "url": "https://www.mercari.com/us/item/m34565907069/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Mega Space Molly 100% Series 4 Blind Box - PALMER HOUSE",
+            "price": 16.75,
+            "url": "https://www.mercari.com/us/item/m43459913880/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart MEGA SPACE MOLLY 100% Series 4 Palmer House",
+            "price": 16.99,
+            "url": "https://www.mercari.com/us/item/m94762619906/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Palmer House - POP MART Mega Space Molly 100% series 4",
+            "price": 17.1,
+            "url": "https://www.mercari.com/us/item/m58400997323/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly Series 4 Palmer House Blind Box",
+            "price": 21.32,
+            "url": "https://www.mercari.com/us/item/m19107333087/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPNOW Mega Space Molly 100% Series 4: Palmer House",
+            "price": 20.3,
+            "url": "https://www.mercari.com/us/item/m51819259596/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:16:57.775Z"
+      },
+      "space-molly-durianman": {
+        "name": "DurianMan",
+        "avgPrice": 21.83,
+        "minPrice": 15,
+        "maxPrice": 30.47,
+        "listingCount": 9,
+        "rawListingCount": 9,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 4 Durianman",
+            "price": 16.33,
+            "url": "https://www.mercari.com/us/item/m16806172197/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Mega Space Molly 100% Series 4 Blind Box - CONFIRMED DURIANMAN",
+            "price": 28,
+            "url": "https://www.mercari.com/us/item/m71315299590/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY lala company durianman",
+            "price": 30.47,
+            "url": "https://www.mercari.com/us/item/m51658107828/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "New Sealed! Pop Mart Mega Space Molly 100 Series 4 Confirmed Durianman",
+            "price": 27,
+            "url": "https://www.mercari.com/us/item/m62856710158/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "mega space molly 100% series 4 durianman",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m73599018623/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 4 - DurianMan",
+            "price": 24,
+            "url": "https://www.mercari.com/us/item/m49255226250/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "NWT POP MART Mega Space Molly 100% Series 4 - DURIANMAN",
+            "price": 19.95,
+            "url": "https://www.mercari.com/us/item/m30779232731/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series4 - DurianMan (Basic)",
+            "price": 15,
+            "url": "https://www.mercari.com/us/item/m86236734677/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Popmart Space Molly 100% series 4 DurianMan",
+            "price": 17.75,
+            "url": "https://www.mercari.com/us/item/m89032254114/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:17:09.235Z"
+      },
+      "space-molly-smitten-love": {
+        "name": "Smitten Love",
+        "avgPrice": 28.97,
+        "minPrice": 11.95,
+        "maxPrice": 45,
+        "listingCount": 12,
+        "rawListingCount": 12,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Mega Space Molly 100% - Series 4 - Smitten Love",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m15270700218/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% Series 4 SPECIAL Smitten Love WHITE",
+            "price": 40,
+            "url": "https://www.mercari.com/us/item/m57924650191/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly White Smitten Love",
+            "price": 30.96,
+            "url": "https://www.mercari.com/us/item/m26992269505/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly Series 04 Smitten Love",
+            "price": 11.95,
+            "url": "https://www.mercari.com/us/item/m76585089577/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Space Molly series 4- Smitten Love",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m58059376481/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% Series 4 Smitten Love (2 Available)",
+            "price": 35,
+            "url": "https://www.mercari.com/us/item/m59955246471/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART - MEGA Space Molly 100% Series 4 - Smitten Love",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m30245405348/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart 100% Mega Space Molly Series 4 Smitten Love Figure (A14)",
+            "price": 38,
+            "url": "https://www.mercari.com/us/item/m38941814829/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly Series 4 Smitten Love Blind Box",
+            "price": 24.77,
+            "url": "https://www.mercari.com/us/item/m12266897899/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series4 SMITTEN LOVE (New)",
+            "price": 25.17,
+            "url": "https://www.mercari.com/us/item/m46506484304/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Like New Smitten Love- WHITE (Special, 1/36) Mega Space Molly 100% Series 4",
+            "price": 45,
+            "url": "https://www.mercari.com/us/item/m34315353048/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Space Mega Molly Series 4: Smitten Love-White",
+            "price": 29.75,
+            "url": "https://www.mercari.com/us/item/m34638964715/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:17:15.692Z"
+      },
+      "space-molly-funshine-bear": {
+        "name": "Funshine Bear",
+        "avgPrice": 24.8,
+        "minPrice": 17,
+        "maxPrice": 41.37,
+        "listingCount": 11,
+        "rawListingCount": 11,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Mega Space Molly 100% - Series 4 - Funshine Bear",
+            "price": 29,
+            "url": "https://www.mercari.com/us/item/m60319488924/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% - Series 4 - Funshine Bear",
+            "price": 18,
+            "url": "https://www.mercari.com/us/item/m86661610068/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Authentic Mega Space Molly 100% Series 4 Blind Box - FUNSHINE BEAR",
+            "price": 23.75,
+            "url": "https://www.mercari.com/us/item/m61732456743/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% Series 4 Funshine Bear",
+            "price": 30.4,
+            "url": "https://www.mercari.com/us/item/m57265168716/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "PopNow Mega Space Molly 100% Series 4 Funshine Bear - Sealed - Orange Juice",
+            "price": 19,
+            "url": "https://www.mercari.com/us/item/m70335501615/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART MEGA SPACE MOLLY 100% SERIES 4: FUNSHINE BEAR",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m94566242700/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Space Molly series 4- Funshine Bear",
+            "price": 17,
+            "url": "https://www.mercari.com/us/item/m98550682893/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 4 - Funshine Bear",
+            "price": 23.99,
+            "url": "https://www.mercari.com/us/item/m64218359086/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY 100% Series 4 Funshine Bear",
+            "price": 41.37,
+            "url": "https://www.mercari.com/us/item/m46187262392/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega space molly series 4- funshine bear",
+            "price": 20.3,
+            "url": "https://www.mercari.com/us/item/m32322561647/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Funshine Bear Mega Space Molly 100% Series4 POPMART",
+            "price": 25,
+            "url": "https://www.mercari.com/us/item/m13491124392/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:17:22.567Z"
+      },
+      "space-molly-bedtime-bear": {
+        "name": "Bedtime Bear",
+        "avgPrice": 47.83,
+        "minPrice": 45,
+        "maxPrice": 51,
+        "listingCount": 3,
+        "rawListingCount": 5,
+        "mercariItems": [
+          {
+            "title": "POP MART x MOLLY MEGA SPACE MOLLY Series 4 BlindBox Figure - Bedtime Bear",
+            "price": 45,
+            "url": "https://www.mercari.com/us/item/m61963769556/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Bedtime Bear-Special* Space Molly 100% Series 04",
+            "price": 47.5,
+            "url": "https://www.mercari.com/us/item/m12024032582/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Space Molly 100% Series 4 - Bedtime Bear (Special)",
+            "price": 51,
+            "url": "https://www.mercari.com/us/item/m98239308724/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:17:29.035Z"
+      },
+      "space-molly-smitten-love-white": {
+        "name": "Smitten Love-White",
+        "avgPrice": 28.18,
+        "minPrice": 26.6,
+        "maxPrice": 29.75,
+        "listingCount": 2,
+        "rawListingCount": 2,
+        "mercariItems": [
+          {
+            "title": "Pop Mart Space Mega Molly Series 4: Smitten Love-White",
+            "price": 29.75,
+            "url": "https://www.mercari.com/us/item/m34638964715/?ref=search_results",
+            "status": "sold"
+          },
+          {
+            "title": "Space Molly 100% • [SPECIAL Edition] Smitten Love-White •PopMart",
+            "price": 26.6,
+            "url": "https://www.mercari.com/us/item/m78015949642/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:17:40.520Z"
+      },
+      "space-molly-christmas2024-green": {
+        "name": "Christmas2024-Green",
+        "avgPrice": 50,
+        "minPrice": 50,
+        "maxPrice": 50,
+        "listingCount": 1,
+        "rawListingCount": 1,
+        "mercariItems": [
+          {
+            "title": "Space Molly Series4 Christmas2024-GREEN special 1/36",
+            "price": 50,
+            "url": "https://www.mercari.com/us/item/m28952617295/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:17:51.773Z"
+      },
+      "space-molly-purple-sweet-potato": {
+        "name": "Purple Sweet Potato",
+        "avgPrice": 42.37,
+        "minPrice": 24.92,
+        "maxPrice": 62.7,
+        "listingCount": 13,
+        "rawListingCount": 13,
+        "mercariItems": [
+          {
+            "title": "MEGA SPACE MOLLY 100% purple sweet potato",
+            "price": 41.66,
+            "url": "https://www.mercari.com/us/item/m97869445114/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY Purple Sweet Potato",
+            "price": 46.19,
+            "url": "https://www.mercari.com/us/item/m49016588236/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart - Space Molly 100% series 4 : PURPLE SWEET POTATO (SPECIAL) (Sealed bag",
+            "price": 62.7,
+            "url": "https://www.mercari.com/us/item/m55351022108/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "MEGA SPACE MOLLY4 Purple Sweet Potato",
+            "price": 48.15,
+            "url": "https://www.mercari.com/us/item/m17678084987/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series4 PURPLE SWEET POTATO SPECIAL (New)",
+            "price": 36.49,
+            "url": "https://www.mercari.com/us/item/m50165012979/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Molly Mega Space 100% Series 4 Purple Sweet Potato UNOPENED | POP NOW",
+            "price": 42.75,
+            "url": "https://www.mercari.com/us/item/m56824288332/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*Purple Sweet Potato - Special* Space Molly 100% Series 04",
+            "price": 47.5,
+            "url": "https://www.mercari.com/us/item/m45929115743/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Special POP MART- MEGA SPACE MOLLY 100% SERIES 4 Purple Sweet Potato",
+            "price": 47.49,
+            "url": "https://www.mercari.com/us/item/m29336112867/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "*SPECIAL* Purple Sweet Potato Mega Space Molly 100% Seires4 POPMART",
+            "price": 45.6,
+            "url": "https://www.mercari.com/us/item/m87562834062/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART Mega Space Molly 100% Series 4 Purple Sweet Potato",
+            "price": 40,
+            "url": "https://www.mercari.com/us/item/m28462881396/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "【Purple Sweet Potato】SPACE MOLLY 100%",
+            "price": 34.12,
+            "url": "https://www.mercari.com/us/item/m64229649018/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Purple Sweet Potato (Special) Space Molly",
+            "price": 33.25,
+            "url": "https://www.mercari.com/us/item/m99970306456/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Pop Mart Mega Space Molly 100% Series 4 – Purple Sweet Potato (Special Edition)",
+            "price": 24.92,
+            "url": "https://www.mercari.com/us/item/m36231302445/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:17:58.185Z"
+      },
+      "space-molly-angel": {
+        "name": "Angel",
+        "avgPrice": 164.58,
+        "minPrice": 130,
+        "maxPrice": 219.31,
+        "listingCount": 6,
+        "rawListingCount": 6,
+        "mercariItems": [
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4- angel (super secret)",
+            "price": 136.18,
+            "url": "https://www.mercari.com/us/item/m47277120046/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4 #angel (secret 02)",
+            "price": 219.31,
+            "url": "https://www.mercari.com/us/item/m83295434121/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4 #angel (secret 02)",
+            "price": 151.99,
+            "url": "https://www.mercari.com/us/item/m54389061144/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4 secret angel",
+            "price": 190,
+            "url": "https://www.mercari.com/us/item/m38534046442/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4- angel (super secret) sealed",
+            "price": 160,
+            "url": "https://www.mercari.com/us/item/m27771975273/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "Mega Space Molly 100% series 4 - Angel (secret)",
+            "price": 130,
+            "url": "https://www.mercari.com/us/item/m27962566127/?ref=search_results",
+            "status": "sold"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:18:04.677Z"
+      },
+      "space-molly-celebration": {
+        "name": "Celebration",
+        "avgPrice": 125.25,
+        "minPrice": 88.23,
+        "maxPrice": 200,
+        "listingCount": 8,
+        "rawListingCount": 8,
+        "mercariItems": [
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4 - celebration (secret 01)",
+            "price": 88.23,
+            "url": "https://www.mercari.com/us/item/m85878229888/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% series 4 - celebration (secret)",
+            "price": 95,
+            "url": "https://www.mercari.com/us/item/m79018916246/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART Mega Space Molly 100% series 4 - celebration (secret)",
+            "price": 99,
+            "url": "https://www.mercari.com/us/item/m57203150133/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART x Molly \"Mega Space Molly\" 100% series 4 - Celebration *SECRET*",
+            "price": 150,
+            "url": "https://www.mercari.com/us/item/m98237857978/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART - MEGA SPACE MOLLY 100% Series 4 - Secret 01 Celebration",
+            "price": 120,
+            "url": "https://www.mercari.com/us/item/m73059400485/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "space molly series 4- celebration (secret)",
+            "price": 200,
+            "url": "https://www.mercari.com/us/item/m98067385670/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POPMART space molly 100% series 4 figures CELEBRATION secret Pop Now Sealed",
+            "price": 154.75,
+            "url": "https://www.mercari.com/us/item/m43981304613/?ref=search_results",
+            "status": "active"
+          },
+          {
+            "title": "POP MART- Mega Space Molly 100% series 4 - celebration (secret 01)",
+            "price": 95,
+            "url": "https://www.mercari.com/us/item/m20423847148/?ref=search_results",
+            "status": "active"
+          }
+        ],
+        "lastUpdated": "2025-10-27T04:18:11.128Z"
+      }
+    }
+  },
+  "space-molly-blooming": {
+    "seriesName": "Blooming",
+    "items": {}
+  }
+}

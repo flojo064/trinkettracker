@@ -1,15 +1,226 @@
 {
-  "id": "farmer-bob",
-  "name": "Farmer Bob",
+  "brand": {
+    "id": "farmer-bob",
+    "name": "Farmer Bob",
+    "tagline": "Down-to-earth farming fun",
+    "description": "Udderly collectible farm-fresh finds by Finding Unicorn.",
+    "palette": [
+      "#22c55e",
+      "#84cc16",
+      "#15803d",
+      "#052e16",
+      "#fbbf24",
+      "#92400e"
+    ]
+  },
   "series": [
     {
-      "id": "series-1",
-      "name": "Series 1",
+      "id": "harvest-time",
+      "name": "Harvest Time",
+      "color": "#22c55e",
       "items": [
         {
-          "id": "farmer-bob-1",
-          "name": "Farmer Bob",
-          "image": "./assets/images/farmer-bob.png"
+          "id": "corn-farmer",
+          "name": "Corn Farmer",
+          "image": "./assets/images/farmer-bob/harvest-time/corn-farmer.png"
+        },
+        {
+          "id": "apple-picker",
+          "name": "Apple Picker",
+          "image": "./assets/images/farmer-bob/harvest-time/apple-picker.png"
+        },
+        {
+          "id": "pumpkin-grower",
+          "name": "Pumpkin Grower",
+          "image": "./assets/images/farmer-bob/harvest-time/pumpkin-grower.png"
+        },
+        {
+          "id": "wheat-farmer",
+          "name": "Wheat Farmer",
+          "image": "./assets/images/farmer-bob/harvest-time/wheat-farmer.png"
+        },
+        {
+          "id": "berry-collector",
+          "name": "Berry Collector",
+          "image": "./assets/images/farmer-bob/harvest-time/berry-collector.png"
+        },
+        {
+          "id": "golden-harvest",
+          "name": "Golden Harvest",
+          "image": "./assets/images/farmer-bob/harvest-time/golden-harvest-secret.png",
+          "rarity": "secret"
+        }
+      ]
+    },
+    {
+      "id": "barnyard-friends",
+      "name": "Barnyard Friends",
+      "color": "#84cc16",
+      "items": [
+        {
+          "id": "cow-keeper",
+          "name": "Cow Keeper",
+          "image": "./assets/images/farmer-bob/barnyard-friends/cow-keeper.png"
+        },
+        {
+          "id": "pig-farmer",
+          "name": "Pig Farmer",
+          "image": "./assets/images/farmer-bob/barnyard-friends/pig-farmer.png"
+        },
+        {
+          "id": "chicken-tender",
+          "name": "Chicken Tender",
+          "image": "./assets/images/farmer-bob/barnyard-friends/chicken-tender.png"
+        },
+        {
+          "id": "sheep-herder",
+          "name": "Sheep Herder",
+          "image": "./assets/images/farmer-bob/barnyard-friends/sheep-herder.png"
+        },
+        {
+          "id": "goat-guardian",
+          "name": "Goat Guardian",
+          "image": "./assets/images/farmer-bob/barnyard-friends/goat-guardian.png"
+        },
+        {
+          "id": "barn-boss",
+          "name": "Barn Boss",
+          "image": "./assets/images/farmer-bob/barnyard-friends/barn-boss-secret.png",
+          "rarity": "secret"
+        }
+      ]
+    },
+    {
+      "id": "garden-party",
+      "name": "Garden Party",
+      "color": "#15803d",
+      "items": [
+        {
+          "id": "tomato-tender",
+          "name": "Tomato Tender",
+          "image": "./assets/images/farmer-bob/garden-party/tomato-tender.png"
+        },
+        {
+          "id": "carrot-cultivator",
+          "name": "Carrot Cultivator",
+          "image": "./assets/images/farmer-bob/garden-party/carrot-cultivator.png"
+        },
+        {
+          "id": "lettuce-lover",
+          "name": "Lettuce Lover",
+          "image": "./assets/images/farmer-bob/garden-party/lettuce-lover.png"
+        },
+        {
+          "id": "herb-harvester",
+          "name": "Herb Harvester",
+          "image": "./assets/images/farmer-bob/garden-party/herb-harvester.png"
+        },
+        {
+          "id": "flower-farmer",
+          "name": "Flower Farmer",
+          "image": "./assets/images/farmer-bob/garden-party/flower-farmer.png"
+        },
+        {
+          "id": "greenhouse-guru",
+          "name": "Greenhouse Guru",
+          "image": "./assets/images/farmer-bob/garden-party/greenhouse-guru-secret.png",
+          "rarity": "secret"
+        }
+      ]
+    },
+    {
+      "id": "seasonal-harvest",
+      "name": "Seasonal Harvest",
+      "color": "#fbbf24",
+      "items": [
+        {
+          "id": "spring-planter",
+          "name": "Spring Planter",
+          "image": "./assets/images/farmer-bob/seasonal-harvest/spring-planter.png"
+        },
+        {
+          "id": "summer-sprinkler",
+          "name": "Summer Sprinkler",
+          "image": "./assets/images/farmer-bob/seasonal-harvest/summer-sprinkler.png"
+        },
+        {
+          "id": "autumn-gatherer",
+          "name": "Autumn Gatherer",
+          "image": "./assets/images/farmer-bob/seasonal-harvest/autumn-gatherer.png"
+        },
+        {
+          "id": "winter-prepper",
+          "name": "Winter Prepper",
+          "image": "./assets/images/farmer-bob/seasonal-harvest/winter-prepper.png"
+        },
+        {
+          "id": "harvest-moon",
+          "name": "Harvest Moon",
+          "image": "./assets/images/farmer-bob/seasonal-harvest/harvest-moon-secret.png",
+          "rarity": "secret"
+        }
+      ]
+    },
+    {
+      "id": "farm-tools",
+      "name": "Farm Tools",
+      "color": "#92400e",
+      "items": [
+        {
+          "id": "tractor-driver",
+          "name": "Tractor Driver",
+          "image": "./assets/images/farmer-bob/farm-tools/tractor-driver.png"
+        },
+        {
+          "id": "plowman",
+          "name": "Plowman",
+          "image": "./assets/images/farmer-bob/farm-tools/plowman.png"
+        },
+        {
+          "id": "rake-master",
+          "name": "Rake Master",
+          "image": "./assets/images/farmer-bob/farm-tools/rake-master.png"
+        },
+        {
+          "id": "shovel-specialist",
+          "name": "Shovel Specialist",
+          "image": "./assets/images/farmer-bob/farm-tools/shovel-specialist.png"
+        },
+        {
+          "id": "watering-wizard",
+          "name": "Watering Wizard",
+          "image": "./assets/images/farmer-bob/farm-tools/watering-wizard.png"
+        },
+        {
+          "id": "master-mechanic",
+          "name": "Master Mechanic",
+          "image": "./assets/images/farmer-bob/farm-tools/master-mechanic-secret.png",
+          "rarity": "secret"
+        }
+      ]
+    },
+    {
+      "id": "limited-edition",
+      "name": "Limited Edition",
+      "color": "#052e16",
+      "items": [
+        {
+          "id": "vintage-farmer",
+          "name": "Vintage Farmer",
+          "image": "./assets/images/farmer-bob/limited-edition/vintage-farmer-limited.png",
+          "rarity": "limited"
+        },
+        {
+          "id": "golden-overalls",
+          "name": "Golden Overalls",
+          "image": "./assets/images/farmer-bob/limited-edition/golden-overalls-limited.png",
+          "rarity": "limited"
+        },
+        {
+          "id": "festival-farmer",
+          "name": "Festival Farmer",
+          "image": "./assets/images/farmer-bob/limited-edition/festival-farmer-limited.png",
+          "rarity": "limited"
         }
       ]
     }

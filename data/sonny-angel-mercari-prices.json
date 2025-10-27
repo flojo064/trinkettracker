@@ -1,0 +1,7307 @@
+{
+  "brand": "sonny-angel",
+  "scrapedAt": "2025-10-27T05:46:23.947Z",
+  "series": [
+    {
+      "seriesId": "15th-anniversary-cake",
+      "seriesName": "15th Anniversary Cake",
+      "items": [
+        {
+          "name": "Blueberry Sheep Cake",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Lemon Cake Cat",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Mint Chocolate Cake Dalmatian",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rabbit Cake",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Strawberry Cake Poodle",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "afternoon-tea-2023",
+      "seriesName": "Afternoon Tea 2023",
+      "items": [
+        {
+          "name": "Cherry_pudding",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Cupcake",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Happy Bear",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Herbal_tea",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "angel-in-the-bird-garden",
+      "seriesName": "Angel In The Bird Garden",
+      "items": [
+        {
+          "name": "Annasui Elephant",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Annasui Rabbit",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-1",
+      "seriesName": "Animal 1",
+      "items": [
+        {
+          "name": "Chipmunk",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Cockerel",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Dalmatian",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Frog",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Koala",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Monkey",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Owl",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Panda",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Sloth",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Tiger",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "White Bear",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-1-2018",
+      "seriesName": "Animal 1 2018",
+      "items": [
+        {
+          "name": "Cheetah",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Cockerel",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Crocodile",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Dalmatian",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Frog",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Koala",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Lion",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Monkey",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Panda",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Tiger",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-2",
+      "seriesName": "Animal 2",
+      "items": [
+        {
+          "name": "Chameleon",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Cow",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Duck",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Fawn",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Hedgehog",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Kappa",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Lesser Panda",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Mouse",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Pig",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Reindeer",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Skunk",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Uribou",
+          "rarity": "Regular",
+          "averagePrice": 12.4,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 9,
+            "max": 15.2
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-2-2018",
+      "seriesName": "Animal 2 2018",
+      "items": [
+        {
+          "name": "Cow",
+          "rarity": "Regular",
+          "averagePrice": 36.05,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 23,
+            "max": 50
+          }
+        },
+        {
+          "name": "Fawn",
+          "rarity": "Regular",
+          "averagePrice": 17.59,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 11.382,
+            "max": 28
+          }
+        },
+        {
+          "name": "Giraffe",
+          "rarity": "Regular",
+          "averagePrice": 15.86,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 10,
+            "max": 23
+          }
+        },
+        {
+          "name": "Lesser Panda",
+          "rarity": "Regular",
+          "averagePrice": 15.21,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 9,
+            "max": 22.66
+          }
+        },
+        {
+          "name": "Mouse",
+          "rarity": "Regular",
+          "averagePrice": 16.09,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 10.58,
+            "max": 21.7
+          }
+        },
+        {
+          "name": "Parakeet",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Pig",
+          "rarity": "Regular",
+          "averagePrice": 25.92,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 8.55,
+            "max": 45
+          }
+        },
+        {
+          "name": "Reindeer",
+          "rarity": "Regular",
+          "averagePrice": 16.86,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 10.45,
+            "max": 30
+          }
+        },
+        {
+          "name": "Rhinoceros",
+          "rarity": "Regular",
+          "averagePrice": 14.56,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 11.4,
+            "max": 18.0024
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 14.41,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 10,
+            "max": 18.05
+          }
+        },
+        {
+          "name": "Uribou",
+          "rarity": "Regular",
+          "averagePrice": 13.01,
+          "listingCount": 25,
+          "priceRange": {
+            "min": 8,
+            "max": 21
+          }
+        },
+        {
+          "name": "White Bear",
+          "rarity": "Regular",
+          "averagePrice": 16.4,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 13,
+            "max": 20
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-3",
+      "seriesName": "Animal 3",
+      "items": [
+        {
+          "name": "American Short Hair",
+          "rarity": "Regular",
+          "averagePrice": 18.29,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 13,
+            "max": 27.07
+          }
+        },
+        {
+          "name": "Chihuahua",
+          "rarity": "Regular",
+          "averagePrice": 12.75,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 8.55,
+            "max": 20
+          }
+        },
+        {
+          "name": "Crocodile",
+          "rarity": "Regular",
+          "averagePrice": 13.8,
+          "listingCount": 25,
+          "priceRange": {
+            "min": 8,
+            "max": 18
+          }
+        },
+        {
+          "name": "French Bulldog",
+          "rarity": "Regular",
+          "averagePrice": 16.27,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 10,
+            "max": 25
+          }
+        },
+        {
+          "name": "Giraffe",
+          "rarity": "Regular",
+          "averagePrice": 18.86,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 13,
+            "max": 29.58
+          }
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 55.91,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 16,
+            "max": 120
+          }
+        },
+        {
+          "name": "Macaw",
+          "rarity": "Regular",
+          "averagePrice": 12.4,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 9.5,
+            "max": 19
+          }
+        },
+        {
+          "name": "Parrot",
+          "rarity": "Regular",
+          "averagePrice": 12.84,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 9.5,
+            "max": 19.75
+          }
+        },
+        {
+          "name": "Rhinoceros",
+          "rarity": "Regular",
+          "averagePrice": 14.31,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 11.4,
+            "max": 18
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": 117.5,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 53.75,
+            "max": 195
+          }
+        },
+        {
+          "name": "Snake",
+          "rarity": "Regular",
+          "averagePrice": 14.55,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 13,
+            "max": 16.5022
+          }
+        },
+        {
+          "name": "Toy Poodle",
+          "rarity": "Regular",
+          "averagePrice": 18.7,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 5,
+            "max": 35
+          }
+        },
+        {
+          "name": "Unicorn",
+          "rarity": "Secret",
+          "averagePrice": 91.93,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 50,
+            "max": 150
+          }
+        },
+        {
+          "name": "Zebra",
+          "rarity": "Regular",
+          "averagePrice": 14.48,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 7.33,
+            "max": 18.5
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-3-2018",
+      "seriesName": "Animal 3 2018",
+      "items": [
+        {
+          "name": "Alpaca",
+          "rarity": "Regular",
+          "averagePrice": 14.68,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 7,
+            "max": 20
+          }
+        },
+        {
+          "name": "American Short Hair",
+          "rarity": "Regular",
+          "averagePrice": 16.73,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 13,
+            "max": 26.6
+          }
+        },
+        {
+          "name": "Buffalo",
+          "rarity": "Regular",
+          "averagePrice": 15.43,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 10,
+            "max": 27.44
+          }
+        },
+        {
+          "name": "Chameleon",
+          "rarity": "Regular",
+          "averagePrice": 14.72,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 12,
+            "max": 20
+          }
+        },
+        {
+          "name": "Duckbill",
+          "rarity": "Regular",
+          "averagePrice": 45,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 40,
+            "max": 50
+          }
+        },
+        {
+          "name": "French Bulldog",
+          "rarity": "Regular",
+          "averagePrice": 16.36,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 10,
+            "max": 25
+          }
+        },
+        {
+          "name": "Gorilla",
+          "rarity": "Regular",
+          "averagePrice": 13.12,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 6,
+            "max": 18
+          }
+        },
+        {
+          "name": "Hippopotamus",
+          "rarity": "Regular",
+          "averagePrice": 26.63,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 16,
+            "max": 35.0055
+          }
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 45.21,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 20,
+            "max": 65
+          }
+        },
+        {
+          "name": "Owl",
+          "rarity": "Regular",
+          "averagePrice": 13.59,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 8,
+            "max": 25
+          }
+        },
+        {
+          "name": "Parrot",
+          "rarity": "Regular",
+          "averagePrice": 13.41,
+          "listingCount": 37,
+          "priceRange": {
+            "min": 8,
+            "max": 20
+          }
+        },
+        {
+          "name": "Zebra",
+          "rarity": "Regular",
+          "averagePrice": 14.14,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 7.33,
+            "max": 23.28
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-4",
+      "seriesName": "Animal 4",
+      "items": [
+        {
+          "name": "Alpaca",
+          "rarity": "Regular",
+          "averagePrice": 13.23,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 7,
+            "max": 20
+          }
+        },
+        {
+          "name": "Anteater",
+          "rarity": "Regular",
+          "averagePrice": 11.71,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 9.5,
+            "max": 15
+          }
+        },
+        {
+          "name": "Buffalo",
+          "rarity": "Regular",
+          "averagePrice": 12.4,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 12,
+            "max": 13
+          }
+        },
+        {
+          "name": "Calico Cat",
+          "rarity": "Regular",
+          "averagePrice": 31.34,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 5.509,
+            "max": 50
+          }
+        },
+        {
+          "name": "Cheetah",
+          "rarity": "Regular",
+          "averagePrice": 12.42,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 9.5,
+            "max": 18
+          }
+        },
+        {
+          "name": "Dragon",
+          "rarity": "Secret",
+          "averagePrice": 182.49,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 120,
+            "max": 244.97
+          }
+        },
+        {
+          "name": "Goat",
+          "rarity": "Regular",
+          "averagePrice": 18.63,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 10,
+            "max": 40
+          }
+        },
+        {
+          "name": "Gorilla",
+          "rarity": "Regular",
+          "averagePrice": 13.11,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 10,
+            "max": 15
+          }
+        },
+        {
+          "name": "Hippopotamus",
+          "rarity": "Regular",
+          "averagePrice": 24.64,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 16,
+            "max": 29.05
+          }
+        },
+        {
+          "name": "Horse",
+          "rarity": "Regular",
+          "averagePrice": 14.42,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 13.3,
+            "max": 15.2
+          }
+        },
+        {
+          "name": "Lion",
+          "rarity": "Regular",
+          "averagePrice": 22.02,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 9.99,
+            "max": 36.8
+          }
+        },
+        {
+          "name": "Peacock",
+          "rarity": "Regular",
+          "averagePrice": 12.66,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 9.7218,
+            "max": 15
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": 123.85,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 53.75,
+            "max": 195
+          }
+        },
+        {
+          "name": "Shiba Inu",
+          "rarity": "Regular",
+          "averagePrice": 13.32,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 7.22,
+            "max": 20.003
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-4-2018",
+      "seriesName": "Animal 4 2018",
+      "items": [
+        {
+          "name": "Calico Cat",
+          "rarity": "Regular",
+          "averagePrice": 29.94,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 26,
+            "max": 35
+          }
+        },
+        {
+          "name": "Chihuahua",
+          "rarity": "Regular",
+          "averagePrice": 12.9,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 8.55,
+            "max": 20
+          }
+        },
+        {
+          "name": "Duck",
+          "rarity": "Regular",
+          "averagePrice": 27.66,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 19,
+            "max": 40
+          }
+        },
+        {
+          "name": "Goat",
+          "rarity": "Regular",
+          "averagePrice": 14,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 10,
+            "max": 18
+          }
+        },
+        {
+          "name": "Hamadryas Baboon",
+          "rarity": "Regular",
+          "averagePrice": 15.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 13,
+            "max": 18
+          }
+        },
+        {
+          "name": "Horse",
+          "rarity": "Regular",
+          "averagePrice": 14.78,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 9.57,
+            "max": 22
+          }
+        },
+        {
+          "name": "Japanese Crane",
+          "rarity": "Regular",
+          "averagePrice": 15,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 15,
+            "max": 15
+          }
+        },
+        {
+          "name": "Mongoose",
+          "rarity": "Regular",
+          "averagePrice": 24.67,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 18,
+            "max": 28.0038
+          }
+        },
+        {
+          "name": "Peacock",
+          "rarity": "Regular",
+          "averagePrice": 13.58,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 9.002,
+            "max": 20
+          }
+        },
+        {
+          "name": "Shiba Inu",
+          "rarity": "Regular",
+          "averagePrice": 15.35,
+          "listingCount": 26,
+          "priceRange": {
+            "min": 7.22,
+            "max": 27.35
+          }
+        },
+        {
+          "name": "Skunk",
+          "rarity": "Regular",
+          "averagePrice": 14.72,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 9.49,
+            "max": 21
+          }
+        },
+        {
+          "name": "Snake",
+          "rarity": "Regular",
+          "averagePrice": 16.12,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 12,
+            "max": 24.43
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "animal-ver-3-special-color",
+      "seriesName": "Animal Ver 3 Special Color",
+      "items": [
+        {
+          "name": "Alpaca",
+          "rarity": "Regular",
+          "averagePrice": 15.72,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 10,
+            "max": 20
+          }
+        },
+        {
+          "name": "American Short Hair",
+          "rarity": "Regular",
+          "averagePrice": 16.94,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 13.99,
+            "max": 25
+          }
+        },
+        {
+          "name": "Buffalo",
+          "rarity": "Regular",
+          "averagePrice": 25.77,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 10,
+            "max": 50
+          }
+        },
+        {
+          "name": "Chameleon",
+          "rarity": "Regular",
+          "averagePrice": 14.49,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 12,
+            "max": 18
+          }
+        },
+        {
+          "name": "Duckbill",
+          "rarity": "Regular",
+          "averagePrice": 50,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 50,
+            "max": 50
+          }
+        },
+        {
+          "name": "French Bulldog",
+          "rarity": "Regular",
+          "averagePrice": 15.5,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 10,
+            "max": 25
+          }
+        },
+        {
+          "name": "Gorilla",
+          "rarity": "Regular",
+          "averagePrice": 13.29,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 10,
+            "max": 18
+          }
+        },
+        {
+          "name": "Hippopotamus",
+          "rarity": "Regular",
+          "averagePrice": 22.44,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 16,
+            "max": 28.88
+          }
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 45.78,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 20,
+            "max": 65
+          }
+        },
+        {
+          "name": "Owl",
+          "rarity": "Regular",
+          "averagePrice": 13.25,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 8,
+            "max": 25
+          }
+        },
+        {
+          "name": "Parrot",
+          "rarity": "Regular",
+          "averagePrice": 14.24,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 9,
+            "max": 20
+          }
+        },
+        {
+          "name": "Zebra",
+          "rarity": "Regular",
+          "averagePrice": 13.72,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 7.33,
+            "max": 20
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "birthday-gift-2017",
+      "seriesName": "Birthday Gift 2017",
+      "items": [
+        {
+          "name": "Blueberry Cake",
+          "rarity": "Regular",
+          "averagePrice": 18.58,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 11.99,
+            "max": 36.8
+          }
+        },
+        {
+          "name": "Cake",
+          "rarity": "Secret",
+          "averagePrice": 22.34,
+          "listingCount": 35,
+          "priceRange": {
+            "min": 10.83,
+            "max": 47.5
+          }
+        },
+        {
+          "name": "Chocolate Cake",
+          "rarity": "Regular",
+          "averagePrice": 23.56,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 14,
+            "max": 39.99
+          }
+        },
+        {
+          "name": "Lemon Cake",
+          "rarity": "Regular",
+          "averagePrice": 20.45,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 13,
+            "max": 39.99
+          }
+        },
+        {
+          "name": "Mint Cake",
+          "rarity": "Regular",
+          "averagePrice": 12.91,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 10.0816,
+            "max": 16
+          }
+        },
+        {
+          "name": "Raspberry Cake",
+          "rarity": "Regular",
+          "averagePrice": 31.87,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 17,
+            "max": 47.5
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": 175.92,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 100,
+            "max": 310
+          }
+        },
+        {
+          "name": "Strawberry Shortcake",
+          "rarity": "Regular",
+          "averagePrice": 21.07,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 14,
+            "max": 32.0045
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "birthday-gift-bear-2021",
+      "seriesName": "Birthday Gift Bear 2021",
+      "items": [
+        {
+          "name": "Birthday Cake Hug",
+          "rarity": "Regular",
+          "averagePrice": 28.76,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 25,
+            "max": 30.09
+          }
+        },
+        {
+          "name": "Heart Balloon",
+          "rarity": "Regular",
+          "averagePrice": 21.74,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 14.99,
+            "max": 29.95
+          }
+        },
+        {
+          "name": "Heart Hug",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Present Hug",
+          "rarity": "Regular",
+          "averagePrice": 23.26,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 11.002,
+            "max": 39.99
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Round Balloon",
+          "rarity": "Regular",
+          "averagePrice": 17.05,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 15,
+            "max": 20
+          }
+        },
+        {
+          "name": "Star Balloon",
+          "rarity": "Regular",
+          "averagePrice": 22.56,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 13,
+            "max": 39.99
+          }
+        },
+        {
+          "name": "White Bear",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "birthday-ribbon",
+      "seriesName": "Birthday Ribbon",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 12.97,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 12.35,
+            "max": 13.54
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 21,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 21,
+            "max": 21
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "bobbing-head",
+      "seriesName": "Bobbing Head",
+      "items": [
+        {
+          "name": "Cloud Cow",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Cloud Rabbit",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Cloud Sheep",
+          "rarity": "Regular",
+          "averagePrice": 28.26,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 28.26,
+            "max": 28.26
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "bobbing-head-1",
+      "seriesName": "Bobbing Head 1",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 17.81,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 11.73,
+            "max": 34
+          }
+        },
+        {
+          "name": "Frog",
+          "rarity": "Regular",
+          "averagePrice": 23.9,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 17.15,
+            "max": 30
+          }
+        },
+        {
+          "name": "Koala",
+          "rarity": "Regular",
+          "averagePrice": 13.41,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 5,
+            "max": 21
+          }
+        },
+        {
+          "name": "Panda",
+          "rarity": "Regular",
+          "averagePrice": 24.7,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 9.0013,
+            "max": 40
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 36,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 21,
+            "max": 48
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 24.21,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 10,
+            "max": 49
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "bobbing-head-butterfly",
+      "seriesName": "Bobbing Head Butterfly",
+      "items": [
+        {
+          "name": "Rabbit Pink",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rabbit Red",
+          "rarity": "Regular",
+          "averagePrice": 86.67,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 75,
+            "max": 95
+          }
+        },
+        {
+          "name": "Rabbit White",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "bugs-world-2022",
+      "seriesName": "Bugs World 2022",
+      "items": [
+        {
+          "name": "Ant",
+          "rarity": "Regular",
+          "averagePrice": 75.03,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 9.9322,
+            "max": 149.47
+          }
+        },
+        {
+          "name": "Bee",
+          "rarity": "Secret",
+          "averagePrice": 187.44,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 134.39,
+            "max": 230
+          }
+        },
+        {
+          "name": "Butterfly",
+          "rarity": "Regular",
+          "averagePrice": 185,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 180,
+            "max": 190
+          }
+        },
+        {
+          "name": "Caterpillar",
+          "rarity": "Regular",
+          "averagePrice": 169.78,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 148.8,
+            "max": 200
+          }
+        },
+        {
+          "name": "Dragonfly",
+          "rarity": "Regular",
+          "averagePrice": 15.58,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 15.5825,
+            "max": 15.5825
+          }
+        },
+        {
+          "name": "Ladybug",
+          "rarity": "Regular",
+          "averagePrice": 18.95,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 18.95,
+            "max": 18.95
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": 750,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 750,
+            "max": 750
+          }
+        },
+        {
+          "name": "Snail",
+          "rarity": "Regular",
+          "averagePrice": 86.13,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 6.0017,
+            "max": 148.8
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "cactus-2020",
+      "seriesName": "Cactus 2020",
+      "items": [
+        {
+          "name": "Cactus",
+          "rarity": "Secret",
+          "averagePrice": 32.36,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 5,
+            "max": 82.44
+          }
+        },
+        {
+          "name": "Cactus_monkey",
+          "rarity": "Regular",
+          "averagePrice": 39,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 39,
+            "max": 39
+          }
+        },
+        {
+          "name": "Cactus_mouse",
+          "rarity": "Regular",
+          "averagePrice": 28.12,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 18,
+            "max": 35
+          }
+        },
+        {
+          "name": "Cactus_parrot",
+          "rarity": "Regular",
+          "averagePrice": 19.58,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 13.3,
+            "max": 38
+          }
+        },
+        {
+          "name": "Cactus_rabbit",
+          "rarity": "Regular",
+          "averagePrice": 50.64,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 26.6,
+            "max": 100
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": 50.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 45,
+            "max": 55.99
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "cat-life-2023",
+      "seriesName": "Cat Life 2023",
+      "items": [
+        {
+          "name": "Black",
+          "rarity": "Regular",
+          "averagePrice": 33.27,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 12.95,
+            "max": 69.36
+          }
+        },
+        {
+          "name": "Bluish_gray",
+          "rarity": "Regular",
+          "averagePrice": 21.56,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 15,
+            "max": 30
+          }
+        },
+        {
+          "name": "Brown_and_black",
+          "rarity": "Regular",
+          "averagePrice": 32.2,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 20,
+            "max": 56.99
+          }
+        },
+        {
+          "name": "Calico",
+          "rarity": "Regular",
+          "averagePrice": 34.43,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 10.0025,
+            "max": 65
+          }
+        },
+        {
+          "name": "Happy Pink",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Red_tabby",
+          "rarity": "Regular",
+          "averagePrice": 31.08,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 24,
+            "max": 40
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Siamese",
+          "rarity": "Regular",
+          "averagePrice": 31.41,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 7,
+            "max": 59.3
+          }
+        },
+        {
+          "name": "Silver Tabby",
+          "rarity": "Regular",
+          "averagePrice": 29.34,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 16.29,
+            "max": 40
+          }
+        },
+        {
+          "name": "Tuxedo",
+          "rarity": "Regular",
+          "averagePrice": 30.11,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 11.4,
+            "max": 50
+          }
+        },
+        {
+          "name": "White",
+          "rarity": "Regular",
+          "averagePrice": 40.11,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 12.95,
+            "max": 70
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "charm-candy-store-2023",
+      "seriesName": "Charm Candy Store 2023",
+      "items": [
+        {
+          "name": "Clear Rabbit",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Grape Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 61.73,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 43,
+            "max": 74.34
+          }
+        },
+        {
+          "name": "Lime Dog",
+          "rarity": "Regular",
+          "averagePrice": 42.72,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 28.42,
+            "max": 68.59
+          }
+        },
+        {
+          "name": "Orange Sheep",
+          "rarity": "Regular",
+          "averagePrice": 27.4,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 20,
+            "max": 35
+          }
+        },
+        {
+          "name": "Peach Bear",
+          "rarity": "Regular",
+          "averagePrice": 57.96,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 45,
+            "max": 70
+          }
+        },
+        {
+          "name": "Soda Pig",
+          "rarity": "Regular",
+          "averagePrice": 41.54,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 25,
+            "max": 70
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "cherry-blossom",
+      "seriesName": "Cherry Blossom",
+      "items": [
+        {
+          "name": "Calico Cat",
+          "rarity": "Regular",
+          "averagePrice": 42.67,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 23.75,
+            "max": 90
+          }
+        },
+        {
+          "name": "Cherry",
+          "rarity": "Secret",
+          "averagePrice": 106.38,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 5.0012,
+            "max": 225
+          }
+        },
+        {
+          "name": "Goat",
+          "rarity": "Regular",
+          "averagePrice": 36.52,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 8.1013,
+            "max": 65
+          }
+        },
+        {
+          "name": "Peacock",
+          "rarity": "Regular",
+          "averagePrice": 43.94,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 8.1013,
+            "max": 85.0015
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 62.36,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 20,
+            "max": 145
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": 124.79,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 15,
+            "max": 256.58
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "cherry-blossom-hanami",
+      "seriesName": "Cherry Blossom Hanami",
+      "items": [
+        {
+          "name": "Calico Cat",
+          "rarity": "Regular",
+          "averagePrice": 30.41,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 25,
+            "max": 40
+          }
+        },
+        {
+          "name": "Cherry Tree",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Fawn",
+          "rarity": "Regular",
+          "averagePrice": 26,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 21.66,
+            "max": 35
+          }
+        },
+        {
+          "name": "Goat",
+          "rarity": "Regular",
+          "averagePrice": 26.3,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 20,
+            "max": 35
+          }
+        },
+        {
+          "name": "Parrot",
+          "rarity": "Regular",
+          "averagePrice": 17.51,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 12.92,
+            "max": 25
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 45.87,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 20,
+            "max": 100
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 22.9,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 18,
+            "max": 30
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "cherry-blossom-night-version-2021",
+      "seriesName": "Cherry Blossom Night Version 2021",
+      "items": [
+        {
+          "name": "Carico_cat",
+          "rarity": "Regular",
+          "averagePrice": 180,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 180,
+            "max": 180
+          }
+        },
+        {
+          "name": "Goat",
+          "rarity": "Regular",
+          "averagePrice": 39.33,
+          "listingCount": 25,
+          "priceRange": {
+            "min": 5.0018,
+            "max": 95
+          }
+        },
+        {
+          "name": "Peacock",
+          "rarity": "Regular",
+          "averagePrice": 39.07,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 8,
+            "max": 59.99
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 72.54,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 20,
+            "max": 145
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "cherry-blossom-peaceful-spring-2022",
+      "seriesName": "Cherry Blossom Peaceful Spring 2022",
+      "items": [
+        {
+          "name": "Calico Cat",
+          "rarity": "Regular",
+          "averagePrice": 59.43,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 23.75,
+            "max": 119.99
+          }
+        },
+        {
+          "name": "Cherry",
+          "rarity": "Secret",
+          "averagePrice": 56.26,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 11.4,
+            "max": 115
+          }
+        },
+        {
+          "name": "Goat",
+          "rarity": "Regular",
+          "averagePrice": 33.33,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 10,
+            "max": 65
+          }
+        },
+        {
+          "name": "Peacock",
+          "rarity": "Regular",
+          "averagePrice": 39.26,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 8,
+            "max": 79.99
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 74.49,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 29.92,
+            "max": 145
+          }
+        },
+        {
+          "name": "Robby",
+          "rarity": "Secret",
+          "averagePrice": 155,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 115,
+            "max": 195
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "christmas-2016",
+      "seriesName": "Christmas 2016",
+      "items": [
+        {
+          "name": "Christmas Gift",
+          "rarity": "Regular",
+          "averagePrice": 15.04,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 14,
+            "max": 17.14
+          }
+        },
+        {
+          "name": "Christmas Stocking",
+          "rarity": "Regular",
+          "averagePrice": 31.12,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 30,
+            "max": 32.24
+          }
+        },
+        {
+          "name": "Reindeer",
+          "rarity": "Regular",
+          "averagePrice": 24.16,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 12.0036,
+            "max": 42.99
+          }
+        },
+        {
+          "name": "Santa Clause",
+          "rarity": "Regular",
+          "averagePrice": 277.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 55,
+            "max": 500
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "christmas-2017",
+      "seriesName": "Christmas 2017",
+      "items": [
+        {
+          "name": "Drum Boy",
+          "rarity": "Regular",
+          "averagePrice": 19.18,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 11.4,
+            "max": 26
+          }
+        },
+        {
+          "name": "Reindeer Plushie",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rocking Horse",
+          "rarity": "Regular",
+          "averagePrice": 36.32,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 22,
+            "max": 45.12
+          }
+        },
+        {
+          "name": "Wood Doll Santa",
+          "rarity": "Regular",
+          "averagePrice": 26.03,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 17.1,
+            "max": 42.99
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "christmas-2018",
+      "seriesName": "Christmas 2018",
+      "items": [
+        {
+          "name": "Christmas Angel",
+          "rarity": "Regular",
+          "averagePrice": 25.52,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 11.73,
+            "max": 60
+          }
+        },
+        {
+          "name": "Church Bell",
+          "rarity": "Regular",
+          "averagePrice": 21.75,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 15,
+            "max": 32.24
+          }
+        },
+        {
+          "name": "Classic Reindeer",
+          "rarity": "Regular",
+          "averagePrice": 31.12,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 30,
+            "max": 32.24
+          }
+        },
+        {
+          "name": "Classic Santa",
+          "rarity": "Regular",
+          "averagePrice": 30.37,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 28.5,
+            "max": 32.24
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "christmas-2019",
+      "seriesName": "Christmas 2019",
+      "items": [
+        {
+          "name": "Wool_Bear 1",
+          "rarity": "Regular",
+          "averagePrice": 33.02,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 17.1,
+            "max": 55
+          }
+        },
+        {
+          "name": "Wool_Penguin 1",
+          "rarity": "Regular",
+          "averagePrice": 26.31,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 16,
+            "max": 42.99
+          }
+        },
+        {
+          "name": "Wool_Reindeer 1",
+          "rarity": "Regular",
+          "averagePrice": 20.67,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 18,
+            "max": 24
+          }
+        },
+        {
+          "name": "Wool_Sheep 1",
+          "rarity": "Regular",
+          "averagePrice": 22.75,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 20,
+            "max": 25
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "christmas-dinner-2024",
+      "seriesName": "Christmas Dinner 2024",
+      "items": [
+        {
+          "name": "Carrot",
+          "rarity": "Regular",
+          "averagePrice": 15.01,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 8.0019,
+            "max": 22
+          }
+        },
+        {
+          "name": "Crocodile",
+          "rarity": "Regular",
+          "averagePrice": 15.38,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 11.5919,
+            "max": 22.7032
+          }
+        },
+        {
+          "name": "Lion",
+          "rarity": "Regular",
+          "averagePrice": 17.08,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 13,
+            "max": 22.7032
+          }
+        },
+        {
+          "name": "Owl",
+          "rarity": "Regular",
+          "averagePrice": 14.68,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 9.04,
+            "max": 25
+          }
+        },
+        {
+          "name": "Reindeer",
+          "rarity": "Regular",
+          "averagePrice": 15.58,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 10,
+            "max": 22.22
+          }
+        },
+        {
+          "name": "Strawberry",
+          "rarity": "Regular",
+          "averagePrice": 41.15,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 33.0845,
+            "max": 58
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "christmas-ornament-2022",
+      "seriesName": "Christmas Ornament 2022",
+      "items": [
+        {
+          "name": "Angel",
+          "rarity": "Regular",
+          "averagePrice": 26.57,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 18,
+            "max": 50
+          }
+        },
+        {
+          "name": "Christmas_Tree",
+          "rarity": "Regular",
+          "averagePrice": 15,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 15,
+            "max": 15
+          }
+        },
+        {
+          "name": "Reindeer",
+          "rarity": "Regular",
+          "averagePrice": 23.96,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 12.22,
+            "max": 45
+          }
+        },
+        {
+          "name": "Santa Claus",
+          "rarity": "Regular",
+          "averagePrice": 36.64,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 36.64,
+            "max": 36.64
+          }
+        },
+        {
+          "name": "Snowman",
+          "rarity": "Regular",
+          "averagePrice": 51,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 25,
+            "max": 99
+          }
+        },
+        {
+          "name": "Star",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "christmas-ornament-2023",
+      "seriesName": "Christmas Ornament 2023",
+      "items": [
+        {
+          "name": "Cheetah",
+          "rarity": "Regular",
+          "averagePrice": 15.53,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 9.5,
+            "max": 24
+          }
+        },
+        {
+          "name": "Koala",
+          "rarity": "Regular",
+          "averagePrice": 20.23,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 15,
+            "max": 30
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 25.67,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 21.85,
+            "max": 30
+          }
+        },
+        {
+          "name": "Reindeer",
+          "rarity": "Regular",
+          "averagePrice": 21.04,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 12.22,
+            "max": 35
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 23.12,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 18,
+            "max": 26.82
+          }
+        },
+        {
+          "name": "Sloth",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "christmas-presents-2020",
+      "seriesName": "Christmas Presents 2020",
+      "items": [
+        {
+          "name": "Christmas_stocking",
+          "rarity": "Regular",
+          "averagePrice": 31.12,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 30,
+            "max": 32.24
+          }
+        },
+        {
+          "name": "Mittens",
+          "rarity": "Regular",
+          "averagePrice": 23.35,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 22.7,
+            "max": 24
+          }
+        },
+        {
+          "name": "Poinsettia",
+          "rarity": "Regular",
+          "averagePrice": 30.37,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 28,
+            "max": 34.35
+          }
+        },
+        {
+          "name": "Snow_globe",
+          "rarity": "Regular",
+          "averagePrice": 92.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 90,
+            "max": 95
+          }
+        },
+        {
+          "name": "Stuffed_robby",
+          "rarity": "Regular",
+          "averagePrice": 45,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 45,
+            "max": 45
+          }
+        },
+        {
+          "name": "Wrapped_present",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "circus",
+      "seriesName": "Circus",
+      "items": [
+        {
+          "name": "Bear",
+          "rarity": "Regular",
+          "averagePrice": 52.36,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 12.35,
+            "max": 95
+          }
+        },
+        {
+          "name": "Circus Tent",
+          "rarity": "Regular",
+          "averagePrice": 56.83,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 30,
+            "max": 79.99
+          }
+        },
+        {
+          "name": "Clown",
+          "rarity": "Regular",
+          "averagePrice": 187.5,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 175,
+            "max": 200
+          }
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 52.31,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 8,
+            "max": 99.99
+          }
+        },
+        {
+          "name": "Lion",
+          "rarity": "Regular",
+          "averagePrice": 34.92,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 8.0013,
+            "max": 49.98
+          }
+        },
+        {
+          "name": "Ringmaster",
+          "rarity": "Regular",
+          "averagePrice": 44.4,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 8.8,
+            "max": 89.99
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "circus-join-the-circus",
+      "seriesName": "Circus Join The Circus",
+      "items": [
+        {
+          "name": "Bear",
+          "rarity": "Regular",
+          "averagePrice": 63,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 36,
+            "max": 95
+          }
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 61.6,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 8,
+            "max": 99.99
+          }
+        },
+        {
+          "name": "Horse",
+          "rarity": "Regular",
+          "averagePrice": 22.37,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 8,
+            "max": 30
+          }
+        },
+        {
+          "name": "Monkey",
+          "rarity": "Regular",
+          "averagePrice": 66.05,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 40,
+            "max": 99.99
+          }
+        },
+        {
+          "name": "Ringmaster",
+          "rarity": "Regular",
+          "averagePrice": 44.87,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 8.8012,
+            "max": 89.99
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 205.57,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 25,
+            "max": 300
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "collaboration-with-cai",
+      "seriesName": "Collaboration With Cai",
+      "items": [
+        {
+          "name": "Best Of You",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Brave As Me",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "creatures-2022",
+      "seriesName": "Creatures 2022",
+      "items": [
+        {
+          "name": "Bibi",
+          "rarity": "Regular",
+          "averagePrice": 91.94,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 75,
+            "max": 100
+          }
+        },
+        {
+          "name": "Brian",
+          "rarity": "Regular",
+          "averagePrice": 290,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 290,
+            "max": 290
+          }
+        },
+        {
+          "name": "Charlie",
+          "rarity": "Regular",
+          "averagePrice": 56,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 32,
+            "max": 80
+          }
+        },
+        {
+          "name": "Cilla",
+          "rarity": "Regular",
+          "averagePrice": 130,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 130,
+            "max": 130
+          }
+        },
+        {
+          "name": "Cyril",
+          "rarity": "Regular",
+          "averagePrice": 79,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 40,
+            "max": 140
+          }
+        },
+        {
+          "name": "Digby",
+          "rarity": "Regular",
+          "averagePrice": 80,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 80,
+            "max": 80
+          }
+        },
+        {
+          "name": "Monocat",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Pia",
+          "rarity": "Regular",
+          "averagePrice": 84.33,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 75,
+            "max": 98
+          }
+        },
+        {
+          "name": "Richie",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rill",
+          "rarity": "Regular",
+          "averagePrice": 87.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 75,
+            "max": 100
+          }
+        },
+        {
+          "name": "Rudie",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rusty",
+          "rarity": "Regular",
+          "averagePrice": 124.72,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 104.17,
+            "max": 140
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "dinosaur-2024",
+      "seriesName": "Dinosaur 2024",
+      "items": [
+        {
+          "name": "Brachiosaurus",
+          "rarity": "Regular",
+          "averagePrice": 32.69,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 20,
+            "max": 56.99
+          }
+        },
+        {
+          "name": "Pteranodon",
+          "rarity": "Regular",
+          "averagePrice": 33.66,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 21,
+            "max": 40
+          }
+        },
+        {
+          "name": "Spinosaurus",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Stegosaurus",
+          "rarity": "Regular",
+          "averagePrice": 37.51,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 21.55,
+            "max": 45.99
+          }
+        },
+        {
+          "name": "Triceratops",
+          "rarity": "Regular",
+          "averagePrice": 56.99,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 56.99,
+            "max": 56.99
+          }
+        },
+        {
+          "name": "Tyrannosaurus",
+          "rarity": "Regular",
+          "averagePrice": 27.92,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 17.1,
+            "max": 40
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "dog-time-2024",
+      "seriesName": "Dog Time 2024",
+      "items": [
+        {
+          "name": "Beagle",
+          "rarity": "Regular",
+          "averagePrice": 16.08,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 11,
+            "max": 25
+          }
+        },
+        {
+          "name": "Chihuahua",
+          "rarity": "Regular",
+          "averagePrice": 16.01,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 10.0014,
+            "max": 30
+          }
+        },
+        {
+          "name": "Dachshund",
+          "rarity": "Regular",
+          "averagePrice": 25.9,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 22,
+            "max": 31.58
+          }
+        },
+        {
+          "name": "Dalmatian",
+          "rarity": "Regular",
+          "averagePrice": 18.19,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 12,
+            "max": 25.47
+          }
+        },
+        {
+          "name": "French Bull Dog",
+          "rarity": "Regular",
+          "averagePrice": 19.3,
+          "listingCount": 27,
+          "priceRange": {
+            "min": 11.4,
+            "max": 33.25
+          }
+        },
+        {
+          "name": "Pomeranian",
+          "rarity": "Regular",
+          "averagePrice": 28.55,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 7.59,
+            "max": 66.5
+          }
+        },
+        {
+          "name": "Pug",
+          "rarity": "Regular",
+          "averagePrice": 22.88,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 14.25,
+            "max": 39.36
+          }
+        },
+        {
+          "name": "Shiba Inu",
+          "rarity": "Regular",
+          "averagePrice": 15.94,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 10,
+            "max": 20
+          }
+        },
+        {
+          "name": "Toy Poodle",
+          "rarity": "Regular",
+          "averagePrice": 17.03,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 13.97,
+            "max": 21.003
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "dreaming-christmas-2021",
+      "seriesName": "Dreaming Christmas 2021",
+      "items": [
+        {
+          "name": "Fawn",
+          "rarity": "Regular",
+          "averagePrice": 31,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 20,
+            "max": 45
+          }
+        },
+        {
+          "name": "Monkey",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Owl",
+          "rarity": "Regular",
+          "averagePrice": 14.27,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 10,
+            "max": 18
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 59.37,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 21.85,
+            "max": 95
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 28.83,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 15,
+            "max": 50
+          }
+        },
+        {
+          "name": "Tapir",
+          "rarity": "Regular",
+          "averagePrice": 71.25,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 71.25,
+            "max": 71.25
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "enjoy-the-moment-2022",
+      "seriesName": "Enjoy The Moment 2022",
+      "items": [
+        {
+          "name": "Capture Warmth",
+          "rarity": "Regular",
+          "averagePrice": 49.54,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 21.95,
+            "max": 76
+          }
+        },
+        {
+          "name": "Close To Nature",
+          "rarity": "Regular",
+          "averagePrice": 119.49,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 21.95,
+            "max": 180
+          }
+        },
+        {
+          "name": "Diary Time",
+          "rarity": "Regular",
+          "averagePrice": 28.48,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 21.95,
+            "max": 35.005
+          }
+        },
+        {
+          "name": "Easy Moment",
+          "rarity": "Regular",
+          "averagePrice": 145,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 145,
+            "max": 145
+          }
+        },
+        {
+          "name": "Enjoy Music",
+          "rarity": "Regular",
+          "averagePrice": 82.88,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 66.5,
+            "max": 100
+          }
+        },
+        {
+          "name": "Spiritual Growth",
+          "rarity": "Regular",
+          "averagePrice": 29.43,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 11.4024,
+            "max": 75
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "flower",
+      "seriesName": "Flower",
+      "items": [
+        {
+          "name": "Acorn",
+          "rarity": "Regular",
+          "averagePrice": 18.46,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 7,
+            "max": 34.21
+          }
+        },
+        {
+          "name": "Cactus",
+          "rarity": "Regular",
+          "averagePrice": 24.86,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 5,
+            "max": 48
+          }
+        },
+        {
+          "name": "Carnation",
+          "rarity": "Regular",
+          "averagePrice": 14.31,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 8.5,
+            "max": 21
+          }
+        },
+        {
+          "name": "Cherry Blossom",
+          "rarity": "Regular",
+          "averagePrice": 32.78,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 15,
+            "max": 70
+          }
+        },
+        {
+          "name": "Hydrangea",
+          "rarity": "Regular",
+          "averagePrice": 19.07,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 11.39,
+            "max": 34.29
+          }
+        },
+        {
+          "name": "Lily Bell",
+          "rarity": "Regular",
+          "averagePrice": 18.88,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 5.008,
+            "max": 30
+          }
+        },
+        {
+          "name": "Morning Glory",
+          "rarity": "Regular",
+          "averagePrice": 16.89,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 10.29,
+            "max": 34.29
+          }
+        },
+        {
+          "name": "Pansy",
+          "rarity": "Regular",
+          "averagePrice": 11.05,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 7.69,
+            "max": 16.25
+          }
+        },
+        {
+          "name": "Poppy",
+          "rarity": "Regular",
+          "averagePrice": 16.2,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 10,
+            "max": 27.49
+          }
+        },
+        {
+          "name": "Rose",
+          "rarity": "Regular",
+          "averagePrice": 14.14,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 10,
+            "max": 18.05
+          }
+        },
+        {
+          "name": "Sunflower",
+          "rarity": "Regular",
+          "averagePrice": 19.37,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 13,
+            "max": 32.13
+          }
+        },
+        {
+          "name": "Tulip",
+          "rarity": "Regular",
+          "averagePrice": 13.85,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 10.29,
+            "max": 18
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "flower-2019",
+      "seriesName": "Flower 2019",
+      "items": [
+        {
+          "name": "Acorn",
+          "rarity": "Regular",
+          "averagePrice": 19.11,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 7,
+            "max": 34.21
+          }
+        },
+        {
+          "name": "Cactus",
+          "rarity": "Regular",
+          "averagePrice": 23.46,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 5,
+            "max": 45
+          }
+        },
+        {
+          "name": "Carnation",
+          "rarity": "Regular",
+          "averagePrice": 15.25,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 8.5,
+            "max": 21
+          }
+        },
+        {
+          "name": "Cherry Blossoms",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Dandelion",
+          "rarity": "Regular",
+          "averagePrice": 40.73,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 40.73,
+            "max": 40.73
+          }
+        },
+        {
+          "name": "Hydrangea",
+          "rarity": "Regular",
+          "averagePrice": 19.25,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 11.39,
+            "max": 34.29
+          }
+        },
+        {
+          "name": "Lily Bell",
+          "rarity": "Regular",
+          "averagePrice": 22.28,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 15,
+            "max": 30
+          }
+        },
+        {
+          "name": "Morning Glory",
+          "rarity": "Regular",
+          "averagePrice": 13.08,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 10.29,
+            "max": 15
+          }
+        },
+        {
+          "name": "Pansy",
+          "rarity": "Regular",
+          "averagePrice": 11.7,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 7.69,
+            "max": 20
+          }
+        },
+        {
+          "name": "Poppy",
+          "rarity": "Regular",
+          "averagePrice": 16.74,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 12,
+            "max": 27.49
+          }
+        },
+        {
+          "name": "Rose",
+          "rarity": "Regular",
+          "averagePrice": 18.5,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 10,
+            "max": 40.64
+          }
+        },
+        {
+          "name": "Tulip",
+          "rarity": "Regular",
+          "averagePrice": 14.55,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 9.5,
+            "max": 22.22
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "flower-gift-2023",
+      "seriesName": "Flower Gift 2023",
+      "items": [
+        {
+          "name": "Daisy Lion Lime Green",
+          "rarity": "Regular",
+          "averagePrice": 17.63,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 14,
+            "max": 23.75
+          }
+        },
+        {
+          "name": "Daisy Lion Orange",
+          "rarity": "Regular",
+          "averagePrice": 21.4,
+          "listingCount": 30,
+          "priceRange": {
+            "min": 8.0013,
+            "max": 35.81
+          }
+        },
+        {
+          "name": "Rose Lion Pink",
+          "rarity": "Regular",
+          "averagePrice": 19.2,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 13,
+            "max": 25
+          }
+        },
+        {
+          "name": "Rose Lion Yellow",
+          "rarity": "Regular",
+          "averagePrice": 18.8,
+          "listingCount": 25,
+          "priceRange": {
+            "min": 9.992,
+            "max": 28
+          }
+        },
+        {
+          "name": "Sunflower Lion Blue",
+          "rarity": "Regular",
+          "averagePrice": 21.54,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 16.6627,
+            "max": 29.99
+          }
+        },
+        {
+          "name": "Sunflower Lion Mint Green",
+          "rarity": "Regular",
+          "averagePrice": 21.15,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 16.6627,
+            "max": 28
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "fruit",
+      "seriesName": "Fruit",
+      "items": [
+        {
+          "name": "Apple",
+          "rarity": "Regular",
+          "averagePrice": 16.37,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 9.0013,
+            "max": 25
+          }
+        },
+        {
+          "name": "Dragonfruit",
+          "rarity": "Regular",
+          "averagePrice": 15.52,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 5.008,
+            "max": 20.36
+          }
+        },
+        {
+          "name": "Durian",
+          "rarity": "Regular",
+          "averagePrice": 14.34,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 9.4,
+            "max": 20
+          }
+        },
+        {
+          "name": "Grape",
+          "rarity": "Regular",
+          "averagePrice": 15.85,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 8,
+            "max": 30
+          }
+        },
+        {
+          "name": "Melon",
+          "rarity": "Regular",
+          "averagePrice": 12.26,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 9,
+            "max": 20
+          }
+        },
+        {
+          "name": "Orange",
+          "rarity": "Regular",
+          "averagePrice": 20.52,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 10,
+            "max": 33.25
+          }
+        },
+        {
+          "name": "Peach",
+          "rarity": "Regular",
+          "averagePrice": 23.59,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 12,
+            "max": 35
+          }
+        },
+        {
+          "name": "Pear",
+          "rarity": "Regular",
+          "averagePrice": 14.39,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 10,
+            "max": 20
+          }
+        },
+        {
+          "name": "Pineapple",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Raspberry",
+          "rarity": "Regular",
+          "averagePrice": 19.8,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 10,
+            "max": 30
+          }
+        },
+        {
+          "name": "Strawberry",
+          "rarity": "Regular",
+          "averagePrice": 56.66,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 40.61,
+            "max": 80
+          }
+        },
+        {
+          "name": "Watermelon",
+          "rarity": "Regular",
+          "averagePrice": 13.95,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 10,
+            "max": 20
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "fruit-2019",
+      "seriesName": "Fruit 2019",
+      "items": [
+        {
+          "name": "Apple",
+          "rarity": "Regular",
+          "averagePrice": 15.64,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 8.8012,
+            "max": 22.22
+          }
+        },
+        {
+          "name": "Chestnut",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Grapes",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Lemon",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Mangosteen",
+          "rarity": "Regular",
+          "averagePrice": 27.2,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 25,
+            "max": 30
+          }
+        },
+        {
+          "name": "Melon",
+          "rarity": "Regular",
+          "averagePrice": 13.18,
+          "listingCount": 26,
+          "priceRange": {
+            "min": 9,
+            "max": 21
+          }
+        },
+        {
+          "name": "Peach",
+          "rarity": "Regular",
+          "averagePrice": 23.85,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 12,
+            "max": 31.59
+          }
+        },
+        {
+          "name": "Pear",
+          "rarity": "Regular",
+          "averagePrice": 15.58,
+          "listingCount": 25,
+          "priceRange": {
+            "min": 10,
+            "max": 26
+          }
+        },
+        {
+          "name": "Persimmon",
+          "rarity": "Regular",
+          "averagePrice": 45.39,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 45.39,
+            "max": 45.39
+          }
+        },
+        {
+          "name": "Pineapple",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Strawberry",
+          "rarity": "Regular",
+          "averagePrice": 54.87,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 30,
+            "max": 84
+          }
+        },
+        {
+          "name": "Watermelon",
+          "rarity": "Regular",
+          "averagePrice": 14.15,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 10,
+            "max": 22
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "gifts-of-love-2024",
+      "seriesName": "Gifts Of Love 2024",
+      "items": [
+        {
+          "name": "Balloon",
+          "rarity": "Regular",
+          "averagePrice": 26.27,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 13,
+            "max": 39.99
+          }
+        },
+        {
+          "name": "Chocolate",
+          "rarity": "Regular",
+          "averagePrice": 23.56,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 10,
+            "max": 51
+          }
+        },
+        {
+          "name": "Cuddly Bear",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Love",
+          "rarity": "Regular",
+          "averagePrice": 35.29,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 12,
+            "max": 70
+          }
+        },
+        {
+          "name": "Rose",
+          "rarity": "Regular",
+          "averagePrice": 27.94,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 19.66,
+            "max": 38
+          }
+        },
+        {
+          "name": "You",
+          "rarity": "Regular",
+          "averagePrice": 24.61,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 5.5,
+            "max": 53
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "halloween-2021",
+      "seriesName": "Halloween 2021",
+      "items": [
+        {
+          "name": "Bat",
+          "rarity": "Regular",
+          "averagePrice": 45.12,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 45.12,
+            "max": 45.12
+          }
+        },
+        {
+          "name": "Cat",
+          "rarity": "Regular",
+          "averagePrice": 53.69,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 25,
+            "max": 115
+          }
+        },
+        {
+          "name": "Ghost",
+          "rarity": "Regular",
+          "averagePrice": 130.16,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 79.99,
+            "max": 250
+          }
+        },
+        {
+          "name": "Owl",
+          "rarity": "Regular",
+          "averagePrice": 35.33,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 15,
+            "max": 69.99
+          }
+        },
+        {
+          "name": "Pumpkin",
+          "rarity": "Regular",
+          "averagePrice": 32.41,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 18,
+            "max": 71.25
+          }
+        },
+        {
+          "name": "Witch",
+          "rarity": "Regular",
+          "averagePrice": 51.42,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 22.8,
+            "max": 98.0018
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "halloween-night",
+      "seriesName": "Halloween Night",
+      "items": [
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 66.08,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 20,
+            "max": 125
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 60,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 60,
+            "max": 60
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "halloween-pumpkin",
+      "seriesName": "Halloween Pumpkin",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 19.05,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 14.67,
+            "max": 29
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 28.24,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 20,
+            "max": 50
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "happiness-snow",
+      "seriesName": "Happiness Snow",
+      "items": [
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 48.02,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 7.2213,
+            "max": 95
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 31.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 15,
+            "max": 48
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "harvest-2021",
+      "seriesName": "Harvest 2021",
+      "items": [
+        {
+          "name": "Autumn",
+          "rarity": "Regular",
+          "averagePrice": 85.74,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 85.74,
+            "max": 85.74
+          }
+        },
+        {
+          "name": "Ginkgo_Leaf",
+          "rarity": "Regular",
+          "averagePrice": 90,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 90,
+            "max": 90
+          }
+        },
+        {
+          "name": "Maple_Leaf",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Pumpkin",
+          "rarity": "Regular",
+          "averagePrice": 28.53,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 10,
+            "max": 75
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "heart-chocolate",
+      "seriesName": "Heart Chocolate",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 30.94,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 12.35,
+            "max": 40
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 49.52,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 25.204,
+            "max": 104.5
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "hello-jeju-2022",
+      "seriesName": "Hello Jeju 2022",
+      "items": [
+        {
+          "name": "Camellia_rabbit",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Canola_flower",
+          "rarity": "Regular",
+          "averagePrice": 89.99,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 89.99,
+            "max": 89.99
+          }
+        },
+        {
+          "name": "Chocolate_pig",
+          "rarity": "Regular",
+          "averagePrice": 369.99,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 369.99,
+            "max": 369.99
+          }
+        },
+        {
+          "name": "Halla_mountain",
+          "rarity": "Regular",
+          "averagePrice": 120,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 70,
+            "max": 169.99
+          }
+        },
+        {
+          "name": "Jeju_horse",
+          "rarity": "Regular",
+          "averagePrice": 30.2,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 20,
+            "max": 38
+          }
+        },
+        {
+          "name": "Jeju_tangerine",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "hippers-2021",
+      "seriesName": "Hippers 2021",
+      "items": [
+        {
+          "name": "Duck",
+          "rarity": "Regular",
+          "averagePrice": 17.53,
+          "listingCount": 25,
+          "priceRange": {
+            "min": 7.2718,
+            "max": 27.53
+          }
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 21.22,
+          "listingCount": 26,
+          "priceRange": {
+            "min": 11.73,
+            "max": 38
+          }
+        },
+        {
+          "name": "Fawn",
+          "rarity": "Regular",
+          "averagePrice": 25.66,
+          "listingCount": 28,
+          "priceRange": {
+            "min": 11.73,
+            "max": 50
+          }
+        },
+        {
+          "name": "Giraffe",
+          "rarity": "Regular",
+          "averagePrice": 26.18,
+          "listingCount": 28,
+          "priceRange": {
+            "min": 10,
+            "max": 65
+          }
+        },
+        {
+          "name": "Koala",
+          "rarity": "Regular",
+          "averagePrice": 14.75,
+          "listingCount": 26,
+          "priceRange": {
+            "min": 5.552,
+            "max": 20.9
+          }
+        },
+        {
+          "name": "Lion",
+          "rarity": "Regular",
+          "averagePrice": 23.26,
+          "listingCount": 26,
+          "priceRange": {
+            "min": 9.0014,
+            "max": 40.33
+          }
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 45.07,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 16,
+            "max": 90
+          }
+        },
+        {
+          "name": "Mouse",
+          "rarity": "Regular",
+          "averagePrice": 19.29,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 11,
+            "max": 38
+          }
+        },
+        {
+          "name": "Panda",
+          "rarity": "Regular",
+          "averagePrice": 24.56,
+          "listingCount": 29,
+          "priceRange": {
+            "min": 9.93,
+            "max": 39.99
+          }
+        },
+        {
+          "name": "Pig",
+          "rarity": "Regular",
+          "averagePrice": 25.5,
+          "listingCount": 26,
+          "priceRange": {
+            "min": 8.7512,
+            "max": 42.69
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 41.06,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 13.6,
+            "max": 62
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 22.45,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 8,
+            "max": 49.64
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "hippers-dreaming-2022",
+      "seriesName": "Hippers Dreaming 2022",
+      "items": [
+        {
+          "name": "Duck",
+          "rarity": "Regular",
+          "averagePrice": 22.14,
+          "listingCount": 25,
+          "priceRange": {
+            "min": 9.93,
+            "max": 30
+          }
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 21.35,
+          "listingCount": 35,
+          "priceRange": {
+            "min": 9.5,
+            "max": 38
+          }
+        },
+        {
+          "name": "Fawn",
+          "rarity": "Regular",
+          "averagePrice": 27.96,
+          "listingCount": 30,
+          "priceRange": {
+            "min": 11.73,
+            "max": 55
+          }
+        },
+        {
+          "name": "Giraffe",
+          "rarity": "Regular",
+          "averagePrice": 25.92,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 10.83,
+            "max": 65
+          }
+        },
+        {
+          "name": "Koala",
+          "rarity": "Regular",
+          "averagePrice": 15.02,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 5.552,
+            "max": 26.5
+          }
+        },
+        {
+          "name": "Lion",
+          "rarity": "Regular",
+          "averagePrice": 29.32,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 12,
+            "max": 56.36
+          }
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 43.19,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 16,
+            "max": 66.5
+          }
+        },
+        {
+          "name": "Mouse",
+          "rarity": "Regular",
+          "averagePrice": 26.2,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 9,
+            "max": 50.92
+          }
+        },
+        {
+          "name": "Panda",
+          "rarity": "Regular",
+          "averagePrice": 33.23,
+          "listingCount": 31,
+          "priceRange": {
+            "min": 9.93,
+            "max": 77.74
+          }
+        },
+        {
+          "name": "Pig",
+          "rarity": "Regular",
+          "averagePrice": 23.86,
+          "listingCount": 27,
+          "priceRange": {
+            "min": 11.73,
+            "max": 35
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 40.07,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 13.6,
+            "max": 74.99
+          }
+        },
+        {
+          "name": "Sheep",
+          "rarity": "Regular",
+          "averagePrice": 30.52,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 25,
+            "max": 39.51
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "hippers-harvest-2022",
+      "seriesName": "Hippers Harvest 2022",
+      "items": [
+        {
+          "name": "Apple",
+          "rarity": "Regular",
+          "averagePrice": 28.07,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 11.73,
+            "max": 49.85
+          }
+        },
+        {
+          "name": "Carrot",
+          "rarity": "Regular",
+          "averagePrice": 19.02,
+          "listingCount": 40,
+          "priceRange": {
+            "min": 8,
+            "max": 35
+          }
+        },
+        {
+          "name": "Cherry",
+          "rarity": "Regular",
+          "averagePrice": 37.82,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 14.44,
+            "max": 53.03
+          }
+        },
+        {
+          "name": "Eggplant",
+          "rarity": "Regular",
+          "averagePrice": 21.23,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 10.45,
+            "max": 30
+          }
+        },
+        {
+          "name": "Grape",
+          "rarity": "Regular",
+          "averagePrice": 18.51,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 8,
+            "max": 33.32
+          }
+        },
+        {
+          "name": "Melon",
+          "rarity": "Regular",
+          "averagePrice": 20.21,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 5,
+            "max": 33.75
+          }
+        },
+        {
+          "name": "Mushroom",
+          "rarity": "Regular",
+          "averagePrice": 27.67,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 12.35,
+            "max": 46
+          }
+        },
+        {
+          "name": "Pear",
+          "rarity": "Regular",
+          "averagePrice": 19.33,
+          "listingCount": 28,
+          "priceRange": {
+            "min": 5,
+            "max": 36.99
+          }
+        },
+        {
+          "name": "Pineapple",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Radish",
+          "rarity": "Regular",
+          "averagePrice": 16.1,
+          "listingCount": 27,
+          "priceRange": {
+            "min": 6,
+            "max": 29.33
+          }
+        },
+        {
+          "name": "Strawberry",
+          "rarity": "Regular",
+          "averagePrice": 56.63,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 45,
+            "max": 80
+          }
+        },
+        {
+          "name": "Tomato",
+          "rarity": "Regular",
+          "averagePrice": 22.61,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 10,
+            "max": 41.45
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "hippers-looking-back-2024",
+      "seriesName": "Hippers Looking Back 2024",
+      "items": [
+        {
+          "name": "Cat",
+          "rarity": "Regular",
+          "averagePrice": 23.01,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 15.0022,
+            "max": 30
+          }
+        },
+        {
+          "name": "Crocodile",
+          "rarity": "Regular",
+          "averagePrice": 16,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 10,
+            "max": 22
+          }
+        },
+        {
+          "name": "Duck",
+          "rarity": "Regular",
+          "averagePrice": 15.56,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 10.83,
+            "max": 19.39
+          }
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 15.18,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 15,
+            "max": 15.48
+          }
+        },
+        {
+          "name": "Fawn",
+          "rarity": "Regular",
+          "averagePrice": 12.52,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 10.83,
+            "max": 15
+          }
+        },
+        {
+          "name": "French Bull Dog",
+          "rarity": "Regular",
+          "averagePrice": 16.63,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 11.73,
+            "max": 24
+          }
+        },
+        {
+          "name": "Hamster",
+          "rarity": "Regular",
+          "averagePrice": 21.88,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 10.83,
+            "max": 30.47
+          }
+        },
+        {
+          "name": "Koala",
+          "rarity": "Regular",
+          "averagePrice": 13.98,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 5,
+            "max": 21.66
+          }
+        },
+        {
+          "name": "Monkey",
+          "rarity": "Regular",
+          "averagePrice": 19.15,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 13.3,
+            "max": 25
+          }
+        },
+        {
+          "name": "Mouse",
+          "rarity": "Regular",
+          "averagePrice": 16.58,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 11.73,
+            "max": 23
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 42.87,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 38.88,
+            "max": 49.75
+          }
+        },
+        {
+          "name": "Sloth",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "home-sweet-home-2024",
+      "seriesName": "Home Sweet Home 2024",
+      "items": [
+        {
+          "name": "Baking Treats",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Bubble Bath",
+          "rarity": "Regular",
+          "averagePrice": 44.19,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 9.5015,
+            "max": 62.83
+          }
+        },
+        {
+          "name": "Cozy Reading",
+          "rarity": "Regular",
+          "averagePrice": 75.75,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 50,
+            "max": 100
+          }
+        },
+        {
+          "name": "Gardening",
+          "rarity": "Regular",
+          "averagePrice": 36.55,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 18,
+            "max": 59.99
+          }
+        },
+        {
+          "name": "Getting Ready",
+          "rarity": "Regular",
+          "averagePrice": 70,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 70,
+            "max": 70
+          }
+        },
+        {
+          "name": "Sleepy Time",
+          "rarity": "Regular",
+          "averagePrice": 56.92,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 40,
+            "max": 70
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "i-love-rainy-day",
+      "seriesName": "I Love Rainy Day",
+      "items": [
+        {
+          "name": "Axolotl",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Duck",
+          "rarity": "Regular",
+          "averagePrice": 26.61,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 19,
+            "max": 30.004
+          }
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 18.76,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 13.972,
+            "max": 25.5
+          }
+        },
+        {
+          "name": "Frog",
+          "rarity": "Regular",
+          "averagePrice": 29.69,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 27.55,
+            "max": 31.505
+          }
+        },
+        {
+          "name": "Goldfish",
+          "rarity": "Regular",
+          "averagePrice": 20.52,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 15.483,
+            "max": 29.85
+          }
+        },
+        {
+          "name": "Hippopotamus",
+          "rarity": "Regular",
+          "averagePrice": 25.14,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 22.053,
+            "max": 28
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "its-bananas!",
+      "seriesName": "Its Bananas!",
+      "items": [
+        {
+          "name": "Banana Monkey Green",
+          "rarity": "Regular",
+          "averagePrice": 39,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 39,
+            "max": 39
+          }
+        },
+        {
+          "name": "Banana Monkey Pink",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Banana Monkey Yellow",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "japanese-good-luck-2021",
+      "seriesName": "Japanese Good Luck 2021",
+      "items": [
+        {
+          "name": "Daruma",
+          "rarity": "Regular",
+          "averagePrice": 116.25,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 35,
+            "max": 200
+          }
+        },
+        {
+          "name": "Ebisuten",
+          "rarity": "Regular",
+          "averagePrice": 22.15,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 13.5,
+            "max": 36.1
+          }
+        },
+        {
+          "name": "Guardian_dog",
+          "rarity": "Regular",
+          "averagePrice": 32.21,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 23,
+            "max": 45
+          }
+        },
+        {
+          "name": "Lucky_cat",
+          "rarity": "Regular",
+          "averagePrice": 89.06,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 70,
+            "max": 125
+          }
+        },
+        {
+          "name": "Mount_fuji",
+          "rarity": "Regular",
+          "averagePrice": 55.51,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 14.25,
+            "max": 85
+          }
+        },
+        {
+          "name": "Raccoon_dog",
+          "rarity": "Regular",
+          "averagePrice": 34.49,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 28,
+            "max": 40
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "jimmy-liao-a-garden-in-my-heart",
+      "seriesName": "Jimmy Liao A Garden In My Heart",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 14.61,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 12,
+            "max": 20
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 42.39,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 25.72,
+            "max": 68
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "joyful-garden",
+      "seriesName": "Joyful Garden",
+      "items": [
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 43.4,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 29.92,
+            "max": 55
+          }
+        },
+        {
+          "name": "Shiba Inu",
+          "rarity": "Regular",
+          "averagePrice": 16.14,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 10.4115,
+            "max": 25
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "keme-life-everything-have-souls",
+      "seriesName": "Keme Life Everything Have Souls",
+      "items": [
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 44,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 44,
+            "max": 44
+          }
+        },
+        {
+          "name": "Tiger",
+          "rarity": "Regular",
+          "averagePrice": 12,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 12,
+            "max": 12
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "kiss-kiss-2025",
+      "seriesName": "Kiss Kiss 2025",
+      "items": [
+        {
+          "name": "Cat",
+          "rarity": "Regular",
+          "averagePrice": 24.64,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 9,
+            "max": 50
+          }
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 19.91,
+          "listingCount": 31,
+          "priceRange": {
+            "min": 10,
+            "max": 30
+          }
+        },
+        {
+          "name": "Fennec",
+          "rarity": "Regular",
+          "averagePrice": 21.26,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 13,
+            "max": 28
+          }
+        },
+        {
+          "name": "Mouse",
+          "rarity": "Regular",
+          "averagePrice": 20,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 9,
+            "max": 35
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 38.46,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 30,
+            "max": 48
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "kiss-mark-leopard",
+      "seriesName": "Kiss Mark Leopard",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 13.68,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 12.35,
+            "max": 15
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 30,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 30,
+            "max": 30
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "laduree-patisserie-collection",
+      "seriesName": "Laduree Patisserie Collection",
+      "items": [
+        {
+          "name": "Corolle Rose Framboise",
+          "rarity": "Regular",
+          "averagePrice": 39.66,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 30,
+            "max": 46
+          }
+        },
+        {
+          "name": "Ispahan",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Macaron Chocolat",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Macaron Citron",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Macaron Fruits Rouges",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Macaron Menthe Glaclale",
+          "rarity": "Regular",
+          "averagePrice": 25,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 25,
+            "max": 25
+          }
+        },
+        {
+          "name": "Macaron Pistache",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Macaron Rose",
+          "rarity": "Regular",
+          "averagePrice": 36.63,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 33.25,
+            "max": 40
+          }
+        },
+        {
+          "name": "Religieuse cassis violette",
+          "rarity": "Regular",
+          "averagePrice": 32,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 32,
+            "max": 32
+          }
+        },
+        {
+          "name": "Religieuse Pistache",
+          "rarity": "Regular",
+          "averagePrice": 20,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 20,
+            "max": 20
+          }
+        },
+        {
+          "name": "Saint Honore Rose Framboise",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Tarte Passion Framboise",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "love-the-music-2022",
+      "seriesName": "Love The Music 2022",
+      "items": [
+        {
+          "name": "Bossa_nova",
+          "rarity": "Regular",
+          "averagePrice": 27.85,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 27.854,
+            "max": 27.854
+          }
+        },
+        {
+          "name": "Folk",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Jazz",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rock",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "lucky-galo",
+      "seriesName": "Lucky Galo",
+      "items": [
+        {
+          "name": "Cockerel",
+          "rarity": "Regular",
+          "averagePrice": 13.9,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 12,
+            "max": 15.2
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 40.77,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 21,
+            "max": 55.38
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "marguerite",
+      "seriesName": "Marguerite",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 13.56,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 11,
+            "max": 17
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 39.6,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 24.65,
+            "max": 55.38
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "marine",
+      "seriesName": "Marine",
+      "items": [
+        {
+          "name": "Blowfish",
+          "rarity": "Regular",
+          "averagePrice": 12.82,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 8,
+            "max": 20
+          }
+        },
+        {
+          "name": "Clownfish",
+          "rarity": "Regular",
+          "averagePrice": 14.72,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 10,
+            "max": 18.0025
+          }
+        },
+        {
+          "name": "Dolphin",
+          "rarity": "Regular",
+          "averagePrice": 14.46,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 10,
+            "max": 22
+          }
+        },
+        {
+          "name": "Jellyfish",
+          "rarity": "Regular",
+          "averagePrice": 17.24,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 12.22,
+            "max": 28
+          }
+        },
+        {
+          "name": "Manta",
+          "rarity": "Regular",
+          "averagePrice": 13.13,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 10.99,
+            "max": 15
+          }
+        },
+        {
+          "name": "Penguin",
+          "rarity": "Regular",
+          "averagePrice": 16.52,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 13.5,
+            "max": 23
+          }
+        },
+        {
+          "name": "Seahorse",
+          "rarity": "Regular",
+          "averagePrice": 12.16,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 7,
+            "max": 15
+          }
+        },
+        {
+          "name": "Seal",
+          "rarity": "Regular",
+          "averagePrice": 15.6,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 9.5,
+            "max": 30
+          }
+        },
+        {
+          "name": "Shark",
+          "rarity": "Regular",
+          "averagePrice": 23.03,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 16.15,
+            "max": 30.005
+          }
+        },
+        {
+          "name": "Shell",
+          "rarity": "Regular",
+          "averagePrice": 11.98,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 7.59,
+            "max": 16.15
+          }
+        },
+        {
+          "name": "Starfish",
+          "rarity": "Regular",
+          "averagePrice": 34.68,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 32.58,
+            "max": 36.78
+          }
+        },
+        {
+          "name": "Whale",
+          "rarity": "Regular",
+          "averagePrice": 13.05,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 8.0011,
+            "max": 16
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "marine-2019",
+      "seriesName": "Marine 2019",
+      "items": [
+        {
+          "name": "Blowfish",
+          "rarity": "Regular",
+          "averagePrice": 14.1,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 8,
+            "max": 21
+          }
+        },
+        {
+          "name": "Clownfish",
+          "rarity": "Regular",
+          "averagePrice": 18.15,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 10,
+            "max": 29.58
+          }
+        },
+        {
+          "name": "Dolphin",
+          "rarity": "Regular",
+          "averagePrice": 16.85,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 10,
+            "max": 35
+          }
+        },
+        {
+          "name": "Jellyfish",
+          "rarity": "Regular",
+          "averagePrice": 16.92,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 12,
+            "max": 28
+          }
+        },
+        {
+          "name": "Penguin",
+          "rarity": "Regular",
+          "averagePrice": 17.82,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 12,
+            "max": 30
+          }
+        },
+        {
+          "name": "Ray",
+          "rarity": "Regular",
+          "averagePrice": 12.89,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 12,
+            "max": 14
+          }
+        },
+        {
+          "name": "Seahorse",
+          "rarity": "Regular",
+          "averagePrice": 13.19,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 9.9314,
+            "max": 18.75
+          }
+        },
+        {
+          "name": "Seal",
+          "rarity": "Regular",
+          "averagePrice": 17.15,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 9.5,
+            "max": 30
+          }
+        },
+        {
+          "name": "Shark",
+          "rarity": "Regular",
+          "averagePrice": 22.95,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 16.15,
+            "max": 30.005
+          }
+        },
+        {
+          "name": "Shell",
+          "rarity": "Regular",
+          "averagePrice": 13.4,
+          "listingCount": 29,
+          "priceRange": {
+            "min": 7.59,
+            "max": 20
+          }
+        },
+        {
+          "name": "Starfish",
+          "rarity": "Regular",
+          "averagePrice": 34.01,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 30,
+            "max": 36.78
+          }
+        },
+        {
+          "name": "Whale",
+          "rarity": "Regular",
+          "averagePrice": 14.49,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 11,
+            "max": 20.77
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "master-collection",
+      "seriesName": "Master Collection",
+      "items": [
+        {
+          "name": "Clover Rabbit",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Heart Rabbit",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 36.38,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 20.5,
+            "max": 45
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "message-of-love-2022",
+      "seriesName": "Message Of Love 2022",
+      "items": [
+        {
+          "name": "Cow",
+          "rarity": "Regular",
+          "averagePrice": 32.56,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 23,
+            "max": 40
+          }
+        },
+        {
+          "name": "Dalmatian",
+          "rarity": "Regular",
+          "averagePrice": 17.24,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 12,
+            "max": 21
+          }
+        },
+        {
+          "name": "Deer",
+          "rarity": "Regular",
+          "averagePrice": 44.27,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 12,
+            "max": 100
+          }
+        },
+        {
+          "name": "Fennec",
+          "rarity": "Regular",
+          "averagePrice": 48.08,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 13,
+            "max": 90
+          }
+        },
+        {
+          "name": "Mouse",
+          "rarity": "Regular",
+          "averagePrice": 69.1,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 9,
+            "max": 185
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 51.57,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 25.72,
+            "max": 100
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "my-happy-snack",
+      "seriesName": "My Happy Snack",
+      "items": [
+        {
+          "name": "Monkey",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 44,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 44,
+            "max": 44
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "my-sweet-honey",
+      "seriesName": "My Sweet Honey",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 13.84,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 10.8,
+            "max": 16
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 38.24,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 21,
+            "max": 48
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "new-year-card",
+      "seriesName": "New Year Card",
+      "items": [
+        {
+          "name": "Cockerel 2017 Blue",
+          "rarity": "Regular",
+          "averagePrice": 150,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 150,
+            "max": 150
+          }
+        },
+        {
+          "name": "Cockerel 2017 Red",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Cow 2009",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Dragon 2012",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Horse 2014",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Monkey 2016 Red",
+          "rarity": "Regular",
+          "averagePrice": 22,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 22,
+            "max": 22
+          }
+        },
+        {
+          "name": "Monkey 2016 White",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Mouse 2008",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Normal 2006",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Rabbit 2011",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Sheep 2015",
+          "rarity": "Regular",
+          "averagePrice": 230,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 230,
+            "max": 230
+          }
+        },
+        {
+          "name": "Shiba Inu 2018 Blue",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Shiba Inu 2018 Pink",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Snake 2013",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Tiger 2010 Usa",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Tiger 2010",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Uribou 2007",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "new-york",
+      "seriesName": "New York",
+      "items": [
+        {
+          "name": "BigApple",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Broadway",
+          "rarity": "Regular",
+          "averagePrice": 51.64,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 38,
+            "max": 62.72
+          }
+        },
+        {
+          "name": "Statue_of_Liberty",
+          "rarity": "Regular",
+          "averagePrice": 88.32,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 88.32,
+            "max": 88.32
+          }
+        },
+        {
+          "name": "YellowCab",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "nippon-asagao",
+      "seriesName": "Nippon Asagao",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 14.1,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 10,
+            "max": 21
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 40.93,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 25,
+            "max": 63.17
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "okinawa",
+      "seriesName": "Okinawa",
+      "items": [
+        {
+          "name": "Chibariyo Good Luck",
+          "rarity": "Regular",
+          "averagePrice": 33.5,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 19,
+            "max": 60
+          }
+        },
+        {
+          "name": "Chimu Don Don Spark Joy",
+          "rarity": "Regular",
+          "averagePrice": 36.44,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 33.25,
+            "max": 39.63
+          }
+        },
+        {
+          "name": "Haisai Hello",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Masan Yummy",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Nankuru Naisa Dont Worry",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Yuimaru Unity",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "painted-by-robby",
+      "seriesName": "Painted By Robby",
+      "items": [
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 39.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 35,
+            "max": 44
+          }
+        },
+        {
+          "name": "Uribou",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "pet-treats",
+      "seriesName": "Pet Treats",
+      "items": [
+        {
+          "name": "Cookie Cat",
+          "rarity": "Regular",
+          "averagePrice": 500,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 500,
+            "max": 500
+          }
+        },
+        {
+          "name": "Jelly Puppy",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "plush-collection-cuddly-bear",
+      "seriesName": "Plush Collection Cuddly Bear",
+      "items": [
+        {
+          "name": "Brown Bear",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "White Bear",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "plush-collection-cuddly-rabbit",
+      "seriesName": "Plush Collection Cuddly Rabbit",
+      "items": [
+        {
+          "name": "Pink",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "White",
+          "rarity": "Regular",
+          "averagePrice": 15.52,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 12,
+            "max": 22.56
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "pumpkin-patch",
+      "seriesName": "Pumpkin Patch",
+      "items": [
+        {
+          "name": "Cat",
+          "rarity": "Regular",
+          "averagePrice": 34.32,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 28.5,
+            "max": 40
+          }
+        },
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 20.2,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 14.6,
+            "max": 34
+          }
+        },
+        {
+          "name": "Frog",
+          "rarity": "Regular",
+          "averagePrice": 21.36,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 14,
+            "max": 34
+          }
+        },
+        {
+          "name": "Lop Ear Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 37.55,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 20,
+            "max": 90
+          }
+        },
+        {
+          "name": "Mouse",
+          "rarity": "Regular",
+          "averagePrice": 18.91,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 15.34,
+            "max": 28.5
+          }
+        },
+        {
+          "name": "Panda",
+          "rarity": "Regular",
+          "averagePrice": 23.89,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 18,
+            "max": 35
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "refreshing-cold-drinks-2022",
+      "seriesName": "Refreshing Cold Drinks 2022",
+      "items": [
+        {
+          "name": "Grape",
+          "rarity": "Regular",
+          "averagePrice": 14.2,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 6.3615,
+            "max": 25.72
+          }
+        },
+        {
+          "name": "Peach",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Strawberry",
+          "rarity": "Regular",
+          "averagePrice": 62.76,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 30,
+            "max": 110
+          }
+        },
+        {
+          "name": "Watermelon",
+          "rarity": "Regular",
+          "averagePrice": 15.78,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 12,
+            "max": 25
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "seoul",
+      "seriesName": "Seoul",
+      "items": [
+        {
+          "name": "Cafe Time",
+          "rarity": "Regular",
+          "averagePrice": 64.83,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 48,
+            "max": 80
+          }
+        },
+        {
+          "name": "Hello!",
+          "rarity": "Regular",
+          "averagePrice": 79,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 77,
+            "max": 80
+          }
+        },
+        {
+          "name": "Love Sweets",
+          "rarity": "Regular",
+          "averagePrice": 110.99,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 75,
+            "max": 167.96
+          }
+        },
+        {
+          "name": "Time For A Break",
+          "rarity": "Regular",
+          "averagePrice": 79.34,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 78.02,
+            "max": 80
+          }
+        },
+        {
+          "name": "Welcome!",
+          "rarity": "Regular",
+          "averagePrice": 85,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 75,
+            "max": 95
+          }
+        },
+        {
+          "name": "Yummy",
+          "rarity": "Regular",
+          "averagePrice": 71.2,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 55,
+            "max": 84
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "sky-color-2020",
+      "seriesName": "Sky Color 2020",
+      "items": [
+        {
+          "name": "Cloudy",
+          "rarity": "Regular",
+          "averagePrice": 29.56,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 28,
+            "max": 32.24
+          }
+        },
+        {
+          "name": "Rainbow",
+          "rarity": "Regular",
+          "averagePrice": 35.51,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 18.0026,
+            "max": 54.15
+          }
+        },
+        {
+          "name": "Rainy",
+          "rarity": "Regular",
+          "averagePrice": 26.97,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 17.1,
+            "max": 34.35
+          }
+        },
+        {
+          "name": "Snowy",
+          "rarity": "Regular",
+          "averagePrice": 26.74,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 13,
+            "max": 39.95
+          }
+        },
+        {
+          "name": "Sunny",
+          "rarity": "Regular",
+          "averagePrice": 29.84,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 20,
+            "max": 41.39
+          }
+        },
+        {
+          "name": "Thunder",
+          "rarity": "Regular",
+          "averagePrice": 34.53,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 24.01,
+            "max": 45
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "snack",
+      "seriesName": "Snack",
+      "items": [
+        {
+          "name": "Coffee",
+          "rarity": "Regular",
+          "averagePrice": 35.47,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 30,
+            "max": 40
+          }
+        },
+        {
+          "name": "Donut",
+          "rarity": "Regular",
+          "averagePrice": 14.47,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 11,
+            "max": 18
+          }
+        },
+        {
+          "name": "French Fries",
+          "rarity": "Regular",
+          "averagePrice": 16.87,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 13.5015,
+            "max": 21.99
+          }
+        },
+        {
+          "name": "Fried Chicken Sandwich",
+          "rarity": "Regular",
+          "averagePrice": 15.28,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 10.4515,
+            "max": 22.22
+          }
+        },
+        {
+          "name": "Fried Chicken",
+          "rarity": "Regular",
+          "averagePrice": 15.59,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 10.0012,
+            "max": 22
+          }
+        },
+        {
+          "name": "Hamburger",
+          "rarity": "Regular",
+          "averagePrice": 16.63,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 12.8436,
+            "max": 25
+          }
+        },
+        {
+          "name": "Hotdog",
+          "rarity": "Regular",
+          "averagePrice": 19.97,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 14.25,
+            "max": 30.4
+          }
+        },
+        {
+          "name": "Ketchup",
+          "rarity": "Regular",
+          "averagePrice": 17.5,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 10,
+            "max": 29.53
+          }
+        },
+        {
+          "name": "Milkshake",
+          "rarity": "Regular",
+          "averagePrice": 33.52,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 25,
+            "max": 50
+          }
+        },
+        {
+          "name": "Mustard",
+          "rarity": "Regular",
+          "averagePrice": 17.66,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 12,
+            "max": 28.73
+          }
+        },
+        {
+          "name": "Sandwich",
+          "rarity": "Regular",
+          "averagePrice": 16.06,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 8.1213,
+            "max": 28
+          }
+        },
+        {
+          "name": "Sugar",
+          "rarity": "Regular",
+          "averagePrice": 27.85,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 18,
+            "max": 40
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "snow-globe-laduree-patisserie-collection",
+      "seriesName": "Snow Globe Laduree Patisserie Collection",
+      "items": [
+        {
+          "name": "Snow Globe Laduree Patisserie Collection",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "space-adventure-2020",
+      "seriesName": "Space Adventure 2020",
+      "items": [
+        {
+          "name": "Alien",
+          "rarity": "Regular",
+          "averagePrice": 62.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 45,
+            "max": 79.99
+          }
+        },
+        {
+          "name": "Astronaut",
+          "rarity": "Regular",
+          "averagePrice": 110,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 110,
+            "max": 110
+          }
+        },
+        {
+          "name": "Earth",
+          "rarity": "Regular",
+          "averagePrice": 57.59,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 49.98,
+            "max": 70
+          }
+        },
+        {
+          "name": "Moon",
+          "rarity": "Regular",
+          "averagePrice": 109.5,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 88,
+            "max": 150
+          }
+        },
+        {
+          "name": "Rocket",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Sun",
+          "rarity": "Regular",
+          "averagePrice": 58.89,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 40.6265,
+            "max": 79.99
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "summer-2018",
+      "seriesName": "Summer 2018",
+      "items": [
+        {
+          "name": "Blue Penguin",
+          "rarity": "Regular",
+          "averagePrice": 52.25,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 52.25,
+            "max": 52.25
+          }
+        },
+        {
+          "name": "Blue Whale",
+          "rarity": "Regular",
+          "averagePrice": 2000,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 2000,
+            "max": 2000
+          }
+        },
+        {
+          "name": "Gray Penguin",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Green Penguin",
+          "rarity": "Regular",
+          "averagePrice": 69.99,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 69.99,
+            "max": 69.99
+          }
+        },
+        {
+          "name": "Light Blue Penguin",
+          "rarity": "Regular",
+          "averagePrice": 57.41,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 52.25,
+            "max": 59.99
+          }
+        },
+        {
+          "name": "Light Blue Whale",
+          "rarity": "Regular",
+          "averagePrice": 59.99,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 59.99,
+            "max": 59.99
+          }
+        },
+        {
+          "name": "Orange Whale",
+          "rarity": "Regular",
+          "averagePrice": 69.99,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 69.99,
+            "max": 69.99
+          }
+        },
+        {
+          "name": "Pink Penguin",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Pink Whale",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Purple Penguin",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Teal Whale",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Yellow Whale",
+          "rarity": "Regular",
+          "averagePrice": 51.2,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 32.4065,
+            "max": 69.99
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "summer-festival-2021",
+      "seriesName": "Summer Festival 2021",
+      "items": [
+        {
+          "name": "Fan",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Goldfish",
+          "rarity": "Regular",
+          "averagePrice": 21.19,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 13.75,
+            "max": 26
+          }
+        },
+        {
+          "name": "Kitsune Mask",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Water Balloon",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "summer-island-holiday",
+      "seriesName": "Summer Island Holiday",
+      "items": [
+        {
+          "name": "Morning Glow",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Sunset Glow",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "summer-vacation-2017",
+      "seriesName": "Summer Vacation 2017",
+      "items": [
+        {
+          "name": "Blue Fish",
+          "rarity": "Regular",
+          "averagePrice": 89.99,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 89.99,
+            "max": 89.99
+          }
+        },
+        {
+          "name": "Enjoy Summer",
+          "rarity": "Regular",
+          "averagePrice": 49.33,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 28,
+            "max": 69.99
+          }
+        },
+        {
+          "name": "Green",
+          "rarity": "Regular",
+          "averagePrice": 38.27,
+          "listingCount": 14,
+          "priceRange": {
+            "min": 10,
+            "max": 71.25
+          }
+        },
+        {
+          "name": "Ice Cream",
+          "rarity": "Regular",
+          "averagePrice": 14.91,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 12,
+            "max": 20
+          }
+        },
+        {
+          "name": "Lets Play",
+          "rarity": "Regular",
+          "averagePrice": 41.55,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 26.6,
+            "max": 49.8
+          }
+        },
+        {
+          "name": "Love Peace",
+          "rarity": "Regular",
+          "averagePrice": 61.78,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 49.8,
+            "max": 85.74
+          }
+        },
+        {
+          "name": "Palm Tree",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Purple",
+          "rarity": "Regular",
+          "averagePrice": 31,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 15.002,
+            "max": 50.99
+          }
+        },
+        {
+          "name": "Summer Vacation",
+          "rarity": "Regular",
+          "averagePrice": 46.75,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 40,
+            "max": 50
+          }
+        },
+        {
+          "name": "Sunshine",
+          "rarity": "Regular",
+          "averagePrice": 49.93,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 49.8,
+            "max": 50
+          }
+        },
+        {
+          "name": "Watermelon",
+          "rarity": "Regular",
+          "averagePrice": 15.14,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 8.55,
+            "max": 25
+          }
+        },
+        {
+          "name": "Yellow Shell",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        }
+      ]
+    },
+    {
+      "seriesId": "sweets",
+      "seriesName": "Sweets",
+      "items": [
+        {
+          "name": "Candy",
+          "rarity": "Regular",
+          "averagePrice": 14.12,
+          "listingCount": 17,
+          "priceRange": {
+            "min": 9,
+            "max": 17.57
+          }
+        },
+        {
+          "name": "Cookie",
+          "rarity": "Regular",
+          "averagePrice": 13.1,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 9.05,
+            "max": 18
+          }
+        },
+        {
+          "name": "Cream Puff",
+          "rarity": "Regular",
+          "averagePrice": 12.19,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 7.26,
+            "max": 18
+          }
+        },
+        {
+          "name": "Cupcake",
+          "rarity": "Regular",
+          "averagePrice": 17.35,
+          "listingCount": 23,
+          "priceRange": {
+            "min": 12,
+            "max": 31.6
+          }
+        },
+        {
+          "name": "Fruit Tart",
+          "rarity": "Regular",
+          "averagePrice": 13.16,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 9.5,
+            "max": 15
+          }
+        },
+        {
+          "name": "Ice Creams",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Jelly Beans",
+          "rarity": "Regular",
+          "averagePrice": 14.1,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 10.45,
+            "max": 19.72
+          }
+        },
+        {
+          "name": "Konpeito",
+          "rarity": "Regular",
+          "averagePrice": 17.7,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 11,
+            "max": 35
+          }
+        },
+        {
+          "name": "Pancake",
+          "rarity": "Regular",
+          "averagePrice": 13.86,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 6.5,
+            "max": 20.9
+          }
+        },
+        {
+          "name": "Popcorn",
+          "rarity": "Regular",
+          "averagePrice": 12.06,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 9,
+            "max": 17
+          }
+        },
+        {
+          "name": "Pudding",
+          "rarity": "Regular",
+          "averagePrice": 17.39,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 11,
+            "max": 28.5
+          }
+        },
+        {
+          "name": "Strawberry Shortcake",
+          "rarity": "Regular",
+          "averagePrice": 25.59,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 14,
+            "max": 41.81
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "sweets-2018",
+      "seriesName": "Sweets 2018",
+      "items": [
+        {
+          "name": "Candy",
+          "rarity": "Regular",
+          "averagePrice": 15.5,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 9,
+            "max": 25
+          }
+        },
+        {
+          "name": "Cookie",
+          "rarity": "Regular",
+          "averagePrice": 13.32,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 9.74,
+            "max": 19.11
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "town-musicians-2021",
+      "seriesName": "Town Musicians 2021",
+      "items": [
+        {
+          "name": "Cat",
+          "rarity": "Regular",
+          "averagePrice": 34.13,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 9,
+            "max": 79.99
+          }
+        },
+        {
+          "name": "Dog",
+          "rarity": "Regular",
+          "averagePrice": 23.01,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 12.22,
+            "max": 40
+          }
+        },
+        {
+          "name": "Donkey",
+          "rarity": "Regular",
+          "averagePrice": 37.66,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 18,
+            "max": 59.99
+          }
+        },
+        {
+          "name": "Rooster",
+          "rarity": "Regular",
+          "averagePrice": 60.59,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 45,
+            "max": 77.38
+          }
+        },
+        {
+          "name": "Sonny",
+          "rarity": "Regular",
+          "averagePrice": 28.43,
+          "listingCount": 43,
+          "priceRange": {
+            "min": 10.99,
+            "max": 60
+          }
+        },
+        {
+          "name": "Thief",
+          "rarity": "Regular",
+          "averagePrice": 130,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 130,
+            "max": 130
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "tropical-marine",
+      "seriesName": "Tropical Marine",
+      "items": [
+        {
+          "name": "Elephant",
+          "rarity": "Regular",
+          "averagePrice": 13.42,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 10,
+            "max": 17
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 33,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 24,
+            "max": 40.006
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "valentines-day-2017",
+      "seriesName": "Valentines Day 2017",
+      "items": [
+        {
+          "name": "Bunny Doll",
+          "rarity": "Regular",
+          "averagePrice": 44.4,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 29,
+            "max": 59.8
+          }
+        },
+        {
+          "name": "Puppy Plushie",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Sweet Kitty",
+          "rarity": "Regular",
+          "averagePrice": 35.37,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 14.25,
+            "max": 49.8
+          }
+        },
+        {
+          "name": "Teddy Bear",
+          "rarity": "Regular",
+          "averagePrice": 30.31,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 9.5,
+            "max": 50
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "valentines-day-2018",
+      "seriesName": "Valentines Day 2018",
+      "items": [
+        {
+          "name": "Rose Basket",
+          "rarity": "Regular",
+          "averagePrice": 20.27,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 16.76,
+            "max": 25
+          }
+        },
+        {
+          "name": "Rose Bouquet",
+          "rarity": "Regular",
+          "averagePrice": 25,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 25,
+            "max": 25
+          }
+        },
+        {
+          "name": "Rose Box",
+          "rarity": "Regular",
+          "averagePrice": 25,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 25,
+            "max": 25
+          }
+        },
+        {
+          "name": "Single Rose",
+          "rarity": "Regular",
+          "averagePrice": 35,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 26,
+            "max": 49.99
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "valentines-day-2019",
+      "seriesName": "Valentines Day 2019",
+      "items": [
+        {
+          "name": "Chocolate_fawn",
+          "rarity": "Regular",
+          "averagePrice": 35.15,
+          "listingCount": 1,
+          "priceRange": {
+            "min": 35.15,
+            "max": 35.15
+          }
+        },
+        {
+          "name": "Chocolate_mouse",
+          "rarity": "Regular",
+          "averagePrice": 51.6,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 35,
+            "max": 69.99
+          }
+        },
+        {
+          "name": "Chocolate_rabbit",
+          "rarity": "Regular",
+          "averagePrice": 43.78,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 28,
+            "max": 76
+          }
+        },
+        {
+          "name": "Chocolate_sheep",
+          "rarity": "Regular",
+          "averagePrice": 64.3,
+          "listingCount": 4,
+          "priceRange": {
+            "min": 47.5,
+            "max": 82
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "valentines-day-2020",
+      "seriesName": "Valentines Day 2020",
+      "items": [
+        {
+          "name": "Chocolate_cat",
+          "rarity": "Regular",
+          "averagePrice": 40.03,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 30,
+            "max": 49.99
+          }
+        },
+        {
+          "name": "Chocolate_elephant",
+          "rarity": "Regular",
+          "averagePrice": 37.77,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 35,
+            "max": 40
+          }
+        },
+        {
+          "name": "Chocolate_french_bulldog",
+          "rarity": "Regular",
+          "averagePrice": 35.5,
+          "listingCount": 2,
+          "priceRange": {
+            "min": 33,
+            "max": 38
+          }
+        },
+        {
+          "name": "Chocolate_rabbit",
+          "rarity": "Regular",
+          "averagePrice": 43.78,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 28,
+            "max": 76
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "vegetable",
+      "seriesName": "Vegetable",
+      "items": [
+        {
+          "name": "Bok Choy",
+          "rarity": "Regular",
+          "averagePrice": 33.83,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 20,
+            "max": 45
+          }
+        },
+        {
+          "name": "Cabbage",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Carrot",
+          "rarity": "Regular",
+          "averagePrice": 13.94,
+          "listingCount": 24,
+          "priceRange": {
+            "min": 9.42,
+            "max": 22
+          }
+        },
+        {
+          "name": "Cauliflower",
+          "rarity": "Regular",
+          "averagePrice": 12.27,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 8,
+            "max": 20
+          }
+        },
+        {
+          "name": "Corn",
+          "rarity": "Regular",
+          "averagePrice": 14.27,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 10,
+            "max": 20
+          }
+        },
+        {
+          "name": "Eggplant",
+          "rarity": "Regular",
+          "averagePrice": 14.24,
+          "listingCount": 18,
+          "priceRange": {
+            "min": 8.12,
+            "max": 23
+          }
+        },
+        {
+          "name": "Garlic",
+          "rarity": "Regular",
+          "averagePrice": 17.82,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 5.008,
+            "max": 25.5
+          }
+        },
+        {
+          "name": "Green Pepper",
+          "rarity": "Regular",
+          "averagePrice": 15.14,
+          "listingCount": 10,
+          "priceRange": {
+            "min": 8.07,
+            "max": 24.99
+          }
+        },
+        {
+          "name": "Onion",
+          "rarity": "Regular",
+          "averagePrice": 14.13,
+          "listingCount": 7,
+          "priceRange": {
+            "min": 13,
+            "max": 15
+          }
+        },
+        {
+          "name": "Radish",
+          "rarity": "Regular",
+          "averagePrice": 14.79,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 9,
+            "max": 22
+          }
+        },
+        {
+          "name": "Tomato",
+          "rarity": "Regular",
+          "averagePrice": 20.14,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 8.5,
+            "max": 30
+          }
+        },
+        {
+          "name": "Zucchini",
+          "rarity": "Regular",
+          "averagePrice": 13.17,
+          "listingCount": 20,
+          "priceRange": {
+            "min": 7.7113,
+            "max": 20
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "vegetable-2019",
+      "seriesName": "Vegetable 2019",
+      "items": [
+        {
+          "name": "Bamboo Shoot",
+          "rarity": "Regular",
+          "averagePrice": 20.53,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 17.15,
+            "max": 22.43
+          }
+        },
+        {
+          "name": "Cabbage",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Carrot",
+          "rarity": "Regular",
+          "averagePrice": 14.5,
+          "listingCount": 28,
+          "priceRange": {
+            "min": 9.1617,
+            "max": 22.7
+          }
+        },
+        {
+          "name": "Corn",
+          "rarity": "Regular",
+          "averagePrice": 13.36,
+          "listingCount": 15,
+          "priceRange": {
+            "min": 10,
+            "max": 20
+          }
+        },
+        {
+          "name": "Eggplant",
+          "rarity": "Regular",
+          "averagePrice": 13.98,
+          "listingCount": 22,
+          "priceRange": {
+            "min": 5.7,
+            "max": 23
+          }
+        },
+        {
+          "name": "Japanese Ginger",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Japanese Radish",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Onion",
+          "rarity": "Regular",
+          "averagePrice": 14.24,
+          "listingCount": 8,
+          "priceRange": {
+            "min": 13,
+            "max": 15
+          }
+        },
+        {
+          "name": "Pimento",
+          "rarity": "Regular",
+          "averagePrice": 15.48,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 10,
+            "max": 25
+          }
+        },
+        {
+          "name": "Radish",
+          "rarity": "Regular",
+          "averagePrice": 15.18,
+          "listingCount": 21,
+          "priceRange": {
+            "min": 10,
+            "max": 22
+          }
+        },
+        {
+          "name": "Sweet Potato",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Tomato",
+          "rarity": "Regular",
+          "averagePrice": 20.09,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 8.5,
+            "max": 30
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "winter-wonderland-2023",
+      "seriesName": "Winter Wonderland 2023",
+      "items": [
+        {
+          "name": "Bear",
+          "rarity": "Regular",
+          "averagePrice": 29,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 25,
+            "max": 32
+          }
+        },
+        {
+          "name": "Dalmatian",
+          "rarity": "Regular",
+          "averagePrice": 15.83,
+          "listingCount": 3,
+          "priceRange": {
+            "min": 12,
+            "max": 21
+          }
+        },
+        {
+          "name": "Fawn",
+          "rarity": "Regular",
+          "averagePrice": 20.37,
+          "listingCount": 13,
+          "priceRange": {
+            "min": 12,
+            "max": 28
+          }
+        },
+        {
+          "name": "Koala",
+          "rarity": "Regular",
+          "averagePrice": 19.91,
+          "listingCount": 16,
+          "priceRange": {
+            "min": 15.002,
+            "max": 28.5
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 30.57,
+          "listingCount": 11,
+          "priceRange": {
+            "min": 7.2213,
+            "max": 48
+          }
+        },
+        {
+          "name": "Reindeer",
+          "rarity": "Regular",
+          "averagePrice": 27.65,
+          "listingCount": 12,
+          "priceRange": {
+            "min": 15,
+            "max": 40
+          }
+        }
+      ]
+    },
+    {
+      "seriesId": "wonderland-2020",
+      "seriesName": "Wonderland 2020",
+      "items": [
+        {
+          "name": "Card",
+          "rarity": "Regular",
+          "averagePrice": null,
+          "listingCount": 0,
+          "priceRange": null
+        },
+        {
+          "name": "Cheshire Cat",
+          "rarity": "Regular",
+          "averagePrice": 55.16,
+          "listingCount": 6,
+          "priceRange": {
+            "min": 16,
+            "max": 80
+          }
+        },
+        {
+          "name": "Mad Hatter",
+          "rarity": "Regular",
+          "averagePrice": 43.85,
+          "listingCount": 9,
+          "priceRange": {
+            "min": 27,
+            "max": 59.99
+          }
+        },
+        {
+          "name": "Rabbit",
+          "rarity": "Regular",
+          "averagePrice": 48.64,
+          "listingCount": 27,
+          "priceRange": {
+            "min": 7.2213,
+            "max": 95
+          }
+        },
+        {
+          "name": "Sonny",
+          "rarity": "Regular",
+          "averagePrice": 47.05,
+          "listingCount": 19,
+          "priceRange": {
+            "min": 15,
+            "max": 90
+          }
+        },
+        {
+          "name": "Teapot",
+          "rarity": "Regular",
+          "averagePrice": 117.46,
+          "listingCount": 5,
+          "priceRange": {
+            "min": 80,
+            "max": 188
+          }
+        }
+      ]
+    }
+  ]
+}
